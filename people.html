@@ -3,9 +3,17 @@ layout: normal
 ---
 
 {% for student in  site.data.group %}
-<div class="usa-grid">
-  <div class="usa-width-one-third">
-    <p> {{ student.name }} </p>
+  {% assign index_mod = forloop.index0 | modulo:3 %}
+
+  {% if index_mod == 0 %}
+  <div class="usa-grid">
+  {% endif %} 
+
+    <div class="usa-width-one-third">
+      <p> {{ student.name }} </p>
+    </div>
+
+  {% if index_mod == 0 %}
   </div>
-</div>
+  {% endif %} 
 {% endfor %}
