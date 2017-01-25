@@ -14,6 +14,8 @@ layout: normal
     </div>
 
   {% if index_mod == 2 %}
-  </div>
+    </div>
+  {% elsif forloop.last %}
+    </div> 
   {% endif %} 
 {% endfor %}
