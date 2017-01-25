@@ -2,8 +2,10 @@
 layout: normal
 ---
 
-<ul>
 {% for student in  site.data.group %}
-  <li>{{ student.name }}</li>
+<div class="usa-grid">
+  <div class="usa-width-one-third">
+    <p> {{ student.name }} </p>
+  </div>
+</div>
 {% endfor %}
-</ul>
