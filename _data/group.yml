@@ -39,3 +39,45 @@
   email:
   web:
   office: Regents 561
+
+- name: Sandra Goldust
+  image: abbey.jpg
+  position: Research Associate
+  email: sandra.goldust 'at' georgetown.edu
+  web:
+  office: Regents 561
+
+- name: Olivia Reyes
+  image: abbey.jpg
+  position: Undergraduate Research Assistant and Raines Fellow (2016)
+  email: omr 'at' georgetown.edu
+  web:
+  office: Regents 561
+
+- name: Kristofer Muzzi
+  image: abbey.jpg
+  position: Undergraduate Research Assistant
+  email: kpm67 'at' georgetown.edu
+  web:
+  office: Regents 561
+
+- name: Jose Mendez
+  image: abbey.jpg
+  position: Undergraduate Research Assistant
+  email: jdm286 'at' georgetown.edu
+  web:
+  office: Regents 561
+
+- name: Kristen Spies
+  image: abbey.jpg
+  position: Undergraduate Research Assistant
+  email:
+  web:
+  office: Regents 561
+
+- name: Daniel Fields
+  image: abbey.jpg
+  position: Undergraduate Research Assistant
+  email: dmf61 'at' georgetown.edu
+  web:
+  office: Regents 561
