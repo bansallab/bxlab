@@ -32,4 +32,23 @@ layout: normal
 {% endfor %}
 </ul>
 
+{% for alumn in site.data.alumni %}
+  {% assign index_mod = forloop.index0 | modulo:3 %}
+
+  {% if index_mod == 0 %}
+    <div class="usa-grid">
+  {% endif %}
+
+  <div class="usa-width-one-third">
+    <h3>{{ alumn.name }}</h3>
+    <p class="degree-position">{{ alumn.degree }}</p>
+    <p>Currently: {{ alumn.current }}</p>
+  </div>
+
+  {% if index_mod == 2 %}
+    </div>
+  {% elsif forloop.last %}
+    </div>
+  {% endif %}
+{% endfor %}
 </section>
