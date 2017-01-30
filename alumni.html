@@ -22,7 +22,11 @@ layout: normal
 
 <ul>
 {% for alumn in site.data.alumni %}
-  <li> {{alumn.name}} </li>
+  <li>
+    <h3>{{ alumn.name }}</h3>
+    <p>{{ alumn.degree }}</p>
+    <p>Currently: {{ alumn.current }}</p>
+  </li>
 {% endfor %}
 </ul>
 
