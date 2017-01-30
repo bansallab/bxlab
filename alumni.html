@@ -24,7 +24,7 @@ layout: normal
 {% for alumn in site.data.alumni %}
   <li>
     <h3>{{ alumn.name }}</h3>
-    <p>{{ alumn.degree }}</p>
+    <p class="degree-position">{{ alumn.degree }}</p>
     <p>Currently: {{ alumn.current }}</p>
   </li>
 {% endfor %}
