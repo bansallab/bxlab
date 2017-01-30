@@ -19,41 +19,10 @@ layout: normal
 
 
 <section class="usa-width-three-fourths">
-<div class="usa-grid">
-  <div class="usa-width-one-whole">
-  <h3>Shweta Bansal</h3>
-  <img class="shashank-people-image" src="{{site.github.url}}/img/people/shweta_lab.JPG">
-  <p class="space-it-out">
-  Assistant Professor of Biology<br />
-  Email: shweta.bansal 'at' georgetown.edu<br />
-  Web: <a href="http://sbansal.com">sbansal.com</a> <br />
-  Office: Regents 510<br />
-  </p>
-  </div>
-</div>
 
-{% for student in  site.data.group %}
-  {% assign index_mod = forloop.index0 | modulo:3 %}
-
-  {% if index_mod == 0 %}
-  <div class="usa-grid">
-  {% endif %} 
-
-    <div class="usa-width-one-third people-border">
-      <h3>{{ student.name }}</h3>
-      <img class="shashank-people-image" src="{{ site.github.url }}/img/people/{{student.image}}">
-      <p class="space-it-out">
-      {{ student.position }} <br />
-      Email: {{ student.email }} <br />
-      Web: <a href="http://{{ student.web }}">{{ student.web }}</a>  <br />
-      Office: {{ student.office }} <br />
-      </p>
-    </div>
-
-  {% if index_mod == 2 %}
-    </div>
-  {% elsif forloop.last %}
-    </div> 
-  {% endif %} 
+<ul>
+{% for alumn in site.data.alumni %}
+  <li> {{alum.name}} </li>
 {% endfor %}
+</ul>
 </section>
