@@ -44,13 +44,18 @@ layout: normal
       <img class="shashank-people-image" src="{{ site.github.url }}/img/people/{{student.image}}">
       <p class="degree-position">{{ student.position }}</p>
       <p class="space-it-out">
+
       {% if student.email %}
       <i class="fa fa-envelope-o"></i> {{ student.email }} <br />
       {% endif %}
+
       {% if student.web %}
       <i class="fa fa-external-link"></i> <a href="http://{{ student.web }}">{{ student.web }}</a>  <br />
       {% endif %}
+
+      {% if student.office %}
       <i class="fa fa-building-o"></i>  {{ student.office }} <br />
+      {% endif %}
       </p>
     </div>
 
