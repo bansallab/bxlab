@@ -32,6 +32,11 @@ layout: normal
   <div class="usa-width-one-third">
     <h3>{{ alumn.name }}</h3>
     <p class="degree-position">{{ alumn.degree }}</p>
+
+    {% if alumn.previous %}
+    <p class="">Previously: {{ alumn.previous }}</p>
+    {% endif %}
+
     <p class="space-it-out">Currently: {{ alumn.current }}</p>
   </div>
 
