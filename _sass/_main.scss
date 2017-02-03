@@ -38,3 +38,18 @@
 .labcard {
   background-color: #5b616b;
 }
+
+.flexrow {
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+.flexcol {
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+
+  padding: 1em;
+  border: solid;
+}
