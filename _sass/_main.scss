@@ -44,6 +44,7 @@
   display: -webkit-flex;
   display: flex;
   padding-bottom: 2em;
+  flex-flow: row wrap;
 }
 
 .flexcol {
@@ -57,5 +58,5 @@
 }
 
 .cardimage {
-  height: 85px;
+  height: 68px;
 }
