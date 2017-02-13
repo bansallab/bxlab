@@ -1,6 +1,6 @@
 - year: 2016
   publications:
-    - title: Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States
+    - title: "Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States"
       authors:
         - name: Anne Ewing
           lab: 1
@@ -10,7 +10,7 @@
         - name: Shweta Bansal
           lab: 1
       link: http://jid.oxfordjournals.org/content/early/2016/12/28/infdis.jiw642.abstract 
-      citation: Journal of Infectious Diseases, doi: 10.1093/infdis/jiw642
+      citation: "Journal of Infectious Diseases, doi: 10.1093/infdis/jiw642"
     - title: Big data for infectious disease surveillance and modeling
       authors:
         - name: Shweta Bansal
@@ -22,7 +22,7 @@
       link: http://jid.oxfordjournals.org/content/214/suppl_4/S375.abstract
       full_text_article: jid_editorial.pdf
       citation: Journal of Infectious Diseases, 214 (4), S375-S379
-    - title: Mind the scales: Harnessing spatial big data for infectious disease surveillance and inference
+    - title: "Mind the scales: Harnessing spatial big data for infectious disease surveillance and inference"
       authors:
         - name: Elizabeth Lee
           lab: 1
