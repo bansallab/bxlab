@@ -14,6 +14,9 @@ title: publications
 
       {% for author in paper.authors %}
         {{ author }}, 
+        {% unless forloop.last %}
+          {{ author }}
+        {% endunless %}
       {% endfor %}<br/>
       
       </p>
