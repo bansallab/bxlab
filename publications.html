@@ -10,7 +10,12 @@ title: publications
 
       {% for paper in yearpubs.publications %}
       <p>
-      {{ paper.title }} <br />
+      <a href="{{paper.link}}">{{ paper.title }}</a><br />
+
+      {% for author in paper.authors %}
+        {{ author }}, 
+      {% endfor %}<br/>
+      
       </p>
       {% endfor %}
     {% endfor %}
