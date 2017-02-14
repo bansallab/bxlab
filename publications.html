@@ -13,9 +13,9 @@ title: publications
       <a href="{{paper.link}}">{{ paper.title }}</a><br />
 
       {% for author in paper.authors %}
-        {{ author }}, 
+        {{ author.name }}, 
         {% unless forloop.last %}
-          {{ author }}
+          {{ author.name }}
         {% endunless %}
       {% endfor %}<br/>
       
