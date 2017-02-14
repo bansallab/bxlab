@@ -13,13 +13,16 @@ title: publications
         <span class="publication-name"><a href="{{paper.link}}">{{ paper.title }}</a></span>
         <br />
 
+        <span class="publication-author-list">
         {% for author in paper.authors %}
           {% if forloop.last %}
             {{ author.name }}
           {% else %}
             {{ author.name }},
           {% endif %}
-        {% endfor %}<br/>
+        {% endfor %}
+        </span>
+        <br/>
 
         {{paper.journal}}, {{paper.citation}} 
         {% if paper.full_text_article %}
