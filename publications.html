@@ -6,10 +6,12 @@ title: publications
 <section class="usa-width-three-fourths">
   <div class="usa-grid">
     {% for yearpubs in site.data.publications %}
-      {{ yearpubs.year}}
+      <h1>{{ yearpubs.year}}</h1>
 
       {% for paper in yearpubs.publications %}
-        {{ paper.title }}
+      <p>
+      {{ paper.title }} <br />
+      </p>
       {% endfor %}
     {% endfor %}
   </div>
