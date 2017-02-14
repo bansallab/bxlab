@@ -24,7 +24,8 @@ title: publications
         </span>
         <br/>
 
-        {{paper.journal}}, {{paper.citation}} 
+        <span class="publications-journal">{{paper.journal}}<span>, <span
+        class="publications-citation">{{paper.citation}}</span>
         {% if paper.full_text_article %}
           <a href="{{ site.github.url }}/publications/{{paper.full_text_article}}">(full text)</a>
         {% endif %}
