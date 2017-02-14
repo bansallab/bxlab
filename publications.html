@@ -9,18 +9,23 @@ title: publications
       <h1>{{ yearpubs.year}}</h1>
 
       {% for paper in yearpubs.publications %}
-      <p>
-      <a href="{{paper.link}}">{{ paper.title }}</a><br />
-
-      {% for author in paper.authors %}
-        {% if forloop.last %}
-          {{ author.name }}
-        {% else %}
-          {{ author.name }},
+        <p>
+        <a href="{{paper.link}}">{{ paper.title }}</a>
+        {% if paper.full_text_article %}
+        <a href="{{}}">(full text)</a>
         {% endif %}
-      {% endfor %}<br/>
-      
-      </p>
+        <br />
+
+        {% for author in paper.authors %}
+          {% if forloop.last %}
+            {{ author.name }}
+          {% else %}
+            {{ author.name }},
+          {% endif %}
+        {% endfor %}<br/>
+
+        {{paper.citation}}
+        </p>
       {% endfor %}
     {% endfor %}
   </div>
