@@ -13,15 +13,15 @@ title: publications
         <span class="publication-name"><a href="{{paper.link}}">{{ paper.title }}</a></span>
         <br />
 
-        <span class="publication-author-list">
+        <span class="publication-author">
         {% for author in paper.authors %}
           {% if forloop.last %}
             {% if author.lab %}<span class="publication-author-lab">{% endif %}
               {{ author.name }}
             {% if author.lab %}</span>{% endif %}
           {% else %}
-            {% if author.lab %}<span class="publication-author-lab">{% endif %}
-            {{ author.name }},
+            {% if author.lab %}<span class="publication-author-lab">{% else %}{% endif %}
+              {{ author.name }},
             {% if author.lab %}</span>{% endif %}
           {% endif %}
         {% endfor %}
