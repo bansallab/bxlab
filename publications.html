@@ -16,9 +16,13 @@ title: publications
         <span class="publication-author-list">
         {% for author in paper.authors %}
           {% if forloop.last %}
-            {{ author.name }}
+            {% if author.lab %}<span class="publication-author-lab">{% endif %}
+              {{ author.name }}
+            {% if author.lab %}</span>{% endif %}
           {% else %}
+            {% if author.lab %}<span class="publication-author-lab">{% endif %}
             {{ author.name }},
+            {% if author.lab %}</span>{% endif %}
           {% endif %}
         {% endfor %}
         </span>
