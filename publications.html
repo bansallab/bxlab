@@ -3,8 +3,9 @@ layout: normal
 title: publications
 ---
 
-<section class="usa-width-three-fourths">
-  <div class="usa-grid">
+
+<div class="usa-grid">
+<div class="usa-width-three-fourths">
     {% for yearpubs in site.data.publications %}
       <h1>{{ yearpubs.year}}</h1>
 
@@ -36,5 +37,11 @@ title: publications
         </p>
       {% endfor %}
     {% endfor %}
+</div>
+<div class="usa-alert usa-alert-info">
+  <div class="usa-alert-body">
+    <h3 class="usa-alert-heading">Information<h3>
+    <p class="usa-alert-text">Multiple</p>
   </div>
-</section>
+</div>
+</div>
