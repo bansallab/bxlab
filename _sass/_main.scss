@@ -93,3 +93,9 @@
 .news {
   padding-top: 2em;
 }
+
+@media screen and (min-width: 951px) {
+  .header-logo {
+    display: none;
+  }
+}
