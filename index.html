@@ -10,25 +10,40 @@ layout: default
   </div>
 </section>
 
-<section class="usa-grid usa-section">
-  <div class="usa-width-one-third">
-    <h2>We study the ecological and evolutionary dynamics of infectious
-    disease.</h2>
+<section class="usa-section">
+  <div class="usa-grid">
+    <div class="usa-width-two-thirds">
+
+      <p>We focus on the interactions that occur between hosts for the
+      transmission of infection.</p>
+
+      <p>These interactions are often difficult to observe, and yet they are key
+      drivers in both the ecological and evolutionary dynamics of infections
+      disease.</p>
+
+      <p>We use both bottom up approaches (including contact/behavioral data
+      collection, transmission experiments, and mechanistic models) and top down
+      approaches (including epidemiological data and statistical models) to get
+      at important host interactions and the role they plan in dynamics for a
+      variety of human, wildlife, and livestock disease systems. 
+    </div>
+    <div class="usa-width-one-third">
+      <h2>We study the ecological and evolutionary dynamics of infectious
+      disease.</h2>
+    </div>
   </div>
-  <div class="usa-width-two-thirds">
+  <div class="usa-grid">
+     <div class="usa-width-one-whole">
+      <h3> Latest News</h3>
 
-    <p>We focus on the interactions that occur between hosts for the
-    transmission of infection.</p>
+      <ul>
+        {% for newsitem in site.data.news %}
+          
+          <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
 
-    <p>These interactions are often difficult to observe, and yet they are key
-    drivers in both the ecological and evolutionary dynamics of infections
-    disease.</p>
-
-    <p>We use both bottom up approaches (including contact/behavioral data
-    collection, transmission experiments, and mechanistic models) and top down
-    approaches (including epidemiological data and statistical models) to get
-    at important host interactions and the role they plan in dynamics for a
-    variety of human, wildlife, and livestock disease systems. 
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </section>
 
