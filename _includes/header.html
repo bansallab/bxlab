@@ -34,7 +34,11 @@
             <span>Publications</span></a>
         </li>
         <li>
+          {% if page.title == 'people' %}
+          <button class="usa-accordion-button usa-current usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+          {% else %}
           <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-2">
+          {% endif %}
             <span>People</span>
           </button>
           <ul id="sidenav-2" class="usa-nav-submenu" aria-hidden="true">  
