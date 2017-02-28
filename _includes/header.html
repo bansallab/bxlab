@@ -34,8 +34,17 @@
             <span>Publications</span></a>
         </li>
         <li>
-          <a {% if page.title == 'people' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %} href="{{ site.github.url }}/people.html">
-            <span>People</span></a>
+          <button class="usa-accordion-button usa-nav-link" aria-expanded="true" aria-controls="sidenav-2">
+            <span>People</span>
+          </button>
+          <ul>  
+            <li>
+              <a href="{{ site.github.url }}/people.html">Lab</a>
+            </li>
+            <li>
+              <a href="{{ site.github.url }}/alumni.html">Alumni</a>
+            </li>
+          </ul>
         </li>
         <li>
           <a {% if page.title == 'opportunities' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %}  href="{{ site.github.url }}/opportunities.html">
