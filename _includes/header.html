@@ -61,10 +61,21 @@
             <span>Courses</span></a>
         </li>
         <li>
-          <a {% if page.title == 'about' %} class="usa-current usa-nav-link"
-          {% else %} class="usa-nav-link" {% endif %}  href="{{
-          site.github.url }}/about.html">
-            <span>About</span></a>
+          {% if page.title == 'people' %}
+          <button class="usa-accordion-button usa-current usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+          {% else %}
+          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+          {% endif %}
+            <span>People</span>
+          </button>
+          <ul id="sidenav-3" class="usa-nav-submenu" aria-hidden="true">  
+            <li>
+              <a href="{{ site.github.url }}/about.html">About our lab</a>
+            </li>
+            <li>
+              <a href="{{ site.github.url }}/location.html">Contact + location</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </div>
