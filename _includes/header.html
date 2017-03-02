@@ -13,8 +13,9 @@
     <button class="usa-menu-btn">Menu</button>
     <div class="usa-logo" id="logo">
       <em class="usa-logo-text">
-          <img class="header-logo" src="{{ site.github.url
-          }}/img/bansallab-logo.png" alt="Bansal Lab logo (network diagram)"/>
+          <img  class="header-logo" 
+                src="{{ site.github.url }}/img/bansallab-logo.png" 
+                alt="Bansal Lab logo (network diagram)"/>
           <a href="{{ site.github.url }}/">Bansal Lab</a>
       </em>
     </div>
@@ -61,10 +62,14 @@
             <span>Courses</span></a>
         </li>
         <li>
-          {% if page.title == 'people' %}
-          <button class="usa-accordion-button usa-current usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+          {% if page.title == 'about' %}
+          <button class="usa-accordion-button usa-current usa-nav-link"
+                  aria-expanded="false" 
+                  aria-controls="sidenav-3">
           {% else %}
-          <button class="usa-accordion-button usa-nav-link" aria-expanded="false" aria-controls="sidenav-3">
+          <button class="usa-accordion-button usa-nav-link" 
+                  aria-expanded="false" 
+                  aria-controls="sidenav-3">
           {% endif %}
             <span>About</span>
           </button>
