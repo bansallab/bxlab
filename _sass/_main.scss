@@ -118,8 +118,13 @@ section.press {
   .story {
     padding: 20px 20px 20px 0;
     border-top: 1px solid #FFFFFF;
-    a, a:hover {
+    a {
       color: #FFFFFF;
+      text-decoration: none;
+    }
+    a: hover {
+      color: #FFFFFF;
+      text-decoration: underline;
     }
     .author {
       display: block;
