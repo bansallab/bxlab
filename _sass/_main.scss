@@ -113,14 +113,19 @@
 .background-dark {
   background-color: #1C304A; }
 
-.press-story {
-  color: #FFFFFF;
-  border-top: 1px solid #FFFFFF;
-  padding: 20px 20px 20px 0;
-}
-
-.press-link {
-  color: #FFFFFF;
+section.press {
+  .story {
+    padding: 20px 20px 20px 0;
+    border-top: 1px solid #FFFFFF;
+    a, a:hover {
+      color: #FFFFFF;
+    }
+    .author {
+      display: block;
+      font-size: 0.8em;
+      color: #56A8DF;
+    }
+  }
 }
 
 .press-author {
