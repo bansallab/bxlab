@@ -7,57 +7,27 @@ title: about
   <div class="usa-grid">
     <div class="usa-width-one-whole">
       <h2>Our work in the news</h2>
-      <div class="usa-grid-full">
+
+      {% for ni in site.data.press %}
+        {% assign index_mod = forloop.index0 | modulo:3  %}
+
+        {% if index_mod == 0 %}
+          <div class="usa-grid-full">
+        {% endif %}
+          
         <div class="story usa-width-one-third">
-          <a
-          href="https://www.nih.gov/news-events/news-releases/nih-led-effort-examines-use-big-data-infectious-disease-surveillance">NIH-led effort examines use of big data for infectious disease
-          surveillance</a>
-          <span class="author">NIH</span>
+          <a href="{{ni.link}}">{{ ni.title }}</a>
+          <span class="author">{{ ni.author }}</span>
         </div>
-        <div class="story usa-width-one-third">
-          <a href="">Holidays reduce influenza transmission, delay trajectory of
-          seasonal epidemics</a>
-          <span class="author">Healio</span>
-        </div>
-        <div class="story usa-width-one-third">
-          <a href="">Penn State researchers believe ants can offer human-disease
-          insights</a>
-          <span class="author">PSU</span>
-        </div>
-      </div>
+      {% endfor %}
+
     </div>
-  </div>
+  <div>
 </section>
 
 <section id="about">
   <div class="usa-grid">
   <div class="usa-width-one-whole">
-    <h2>Our work in the news</h2>
-
-    <ul>
-    {% for ni in site.data.press %}
-      <li><a href="{{ni.link}}">{{ni.title}}</a></li>
-    {% endfor %}
-    </ul>
-
-    <div class="usa-grid">
-      <div class="usa-width-one-third">
-        <a
-        href="https://www.nih.gov/news-events/news-releases/nih-led-effort-examines-use-big-data-infectious-disease-surveillance">NIH-led effort examines use of big data for infectious disease
-        surveillance</a>
-        <span class="press-author">NIH</span>
-      </div>
-      <div class="usa-width-one-third">
-        <a href="">Holidays reduce influenza transmission, delay trajectory of
-        seasonal epidemics</a>
-        <span class="press-author">Healio</span>
-      </div>
-      <div class="usa-width-one-third">
-        <a href="">Penn State researchers believe ants can offer human-disease
-        insights</a>
-        <span class="press-author">PSU</span>
-      </div>
-    </div>
 
     <h2>Academic collaborators</h2>
 
@@ -72,7 +42,6 @@ title: about
       <li>University of Georgia</li>
     </ul>
 
-
     <h2>Support</h2>
 
     The Lab is supported by grants from: 
@@ -84,7 +53,6 @@ title: about
       <li>Fogarty International Center</li>
       <li>Georgetown McCourt School of Public Policy</li>
     </ul>
-
 
   </div>
   </div>
