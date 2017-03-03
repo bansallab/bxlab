@@ -9,6 +9,11 @@ title: about
     <h2>Academic collaborators</h2>
 
     {% for co in site.data.collaborators %}
+      {% assign imod = forloop.index0 | modulo3 %}
+
+      {% if imod == 0 %}
+        <div class="usa-grid-full">
+      {% endif %}
     {% endfor %}
 
     <h2>Support</h2>
