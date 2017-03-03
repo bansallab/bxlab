@@ -121,10 +121,9 @@ section.press {
     a {
       color: #FFFFFF;
       text-decoration: none;
-    }
-    a: hover {
-      color: #FFFFFF;
-      text-decoration: underline;
+      &:hover {
+        text-decoration: underline;
+      }
     }
     .author {
       display: block;
