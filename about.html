@@ -9,20 +9,6 @@ title: about
     <h2>Academic collaborators</h2>
 
     {% for co in site.data.collaborators %}
-      {% assign index_mod = forloop.index0 | modulo:3 %}
-
-      {% if index_mod == 0}
-        <div class="usa-grid-full">
-      {% endif %}
-
-        <div class="usa-width-one-third">
-          {{co.collaborator}}
-        </div>
-      {% if index_mod == 2 %}
-        </div>
-      {% elsif forloop.last %}
-        </div>
-      {% endif %}
     {% endfor %}
 
     <h2>Support</h2>
