@@ -19,6 +19,12 @@ title: about
           <a href="{{ni.link}}">{{ ni.title }}</a>
           <span class="author">{{ ni.author }}</span>
         </div>
+
+        {% if index_mod == 2 %}
+          </div>
+        {% elsif forloop.last %}
+          </div>
+        {% endif %}
       {% endfor %}
 
     </div>
