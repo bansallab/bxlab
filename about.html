@@ -2,6 +2,34 @@
 layout: normal
 title: about
 ---
+<section class="usa-section">
+  <div class="usa-grid">
+  <div class="usa-width-one-whole">
+
+    <h2>Academic collaborators</h2>
+
+    {% for co in site.data.collaborators %}
+      {% assign index_mod = forloop.index0 | modulo:3 %}
+
+      {% if index_mod == 0}
+        <div class="usa-grid-full">
+      {% endif %}
+
+        <div class="usa-width-one-third">
+          {{co.collaborator}}
+        </div>
+      {% if index_mod == 2 %}
+        </div>
+      {% elsif forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+
+    <h2>Support</h2>
+
+  </div>
+  </div>
+</section>
 
 <section class="press usa-section background-dark">
   <div class="usa-grid">
@@ -31,35 +59,4 @@ title: about
   <div>
 </section>
 
-<section id="about">
-  <div class="usa-grid">
-  <div class="usa-width-one-whole">
 
-    <h2>Academic collaborators</h2>
-
-    We're fortunate to have collaborators from the following institutions:
-
-    <ul>
-      <li>Penn State University</li>
-      <li>Georgetown University</li>
-      <li>Princeton</li>
-      <li>University of Texas at Austin</li>
-      <li>Colorado State</li>
-      <li>University of Georgia</li>
-    </ul>
-
-    <h2>Support</h2>
-
-    The Lab is supported by grants from: 
-
-    <ul>
-      <li>National Science Foundation</li>
-      <li>National Institutes of Health</li>
-      <li>Department of Homeland Security</li>
-      <li>Fogarty International Center</li>
-      <li>Georgetown McCourt School of Public Policy</li>
-    </ul>
-
-  </div>
-  </div>
-</section>
