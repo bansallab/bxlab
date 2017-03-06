@@ -4,9 +4,10 @@ title: people
 ---
 
 <section class="usa-section">
+
 <div class="usa-grid">
-<h1>Alumni</h1>
-</div>
+  <h1>Alumni</h1>
+  <div class="usa-width-one-whole">
 
 {% for alumn in site.data.alumni %}
   {% assign index_mod = forloop.index0 | modulo:3 %}
@@ -34,4 +35,6 @@ title: people
     </div>
   {% endif %}
 {% endfor %}
+</div>
+</div>t
 </section>
