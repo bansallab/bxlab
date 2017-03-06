@@ -2,35 +2,9 @@
 layout: normal
 title: about
 ---
-<section class="usa-section">
-  <div class="usa-grid">
-  <div class="usa-width-one-whole">
-
-    <h2>Academic collaborators</h2>
-
-    {% for co in site.data.collaborators %}
-      {% assign imod = forloop.index0 | modulo3 %}
-
-      {% if imod == 0 %}
-        <div class="usa-grid-full">
-      {% endif %}
-
-      <div class="usa-width-one-third">
-        {{ co.collaborator }}
-      </div>
-
-      {% if imod == 2 %}
-        </div>
-      {% elsif forloop.last %}
-        </div>
-      {% endif %}
-    {% endfor %}
-
-    <h2>Support</h2>
-
-  </div>
-  </div>
-</section>
+<iframe width="280" height="158"
+src="https://www.youtube.com/embed/yjE-GuhrEa0?rel=0" frameborder="0"
+allowfullscreen></iframe>
 
 <section class="press usa-section background-dark">
   <div class="usa-grid">
@@ -58,6 +32,60 @@ title: about
 
     </div>
   <div>
+</section>
+
+<section class="usa-section">
+<div class="usa-grid">
+<div class="usa-width-one-whole">
+
+  <h2>Support</h2>
+
+  {% for supporter in site.data.grants %}
+    {% assign imod = forloop.index0 | modulo3 %}
+
+    {% if imod == 0 %}
+      <div class="usa-grid-full">
+    {% endif %}
+
+    <div class="usa-width-one-third">
+      {{ supporter.name }}
+    </div>
+
+    {% if imod == 2 %}
+      </div>
+    {% elsif forloop.last %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+</section>
+
+<section class="usa-section">
+  <div class="usa-grid">
+  <div class="usa-width-one-whole">
+
+    <h2>Academic collaborators</h2>
+
+    {% for co in site.data.collaborators %}
+      {% assign imod = forloop.index0 | modulo3 %}
+
+      {% if imod == 0 %}
+        <div class="usa-grid-full">
+      {% endif %}
+
+      <div class="usa-width-one-third">
+        {{ co.collaborator }}
+      </div>
+
+      {% if imod == 2 %}
+        </div>
+      {% elsif forloop.last %}
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  </div>
 </section>
 
 
