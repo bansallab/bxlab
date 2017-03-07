@@ -76,7 +76,7 @@
       full_text_article: odea216.pdf
       full_text_supplement: supplement_odea2016.pdf
       journal: Scientific Reports
-      citation: 6: 22248, 2016
+      citation: "6: 22248, 2016"
 - year: 2015
   publications:
     - title: "Detecting signals of seasonal influenza severity through age dynamics"
