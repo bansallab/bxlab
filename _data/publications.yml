@@ -39,3 +39,73 @@
       full_text_article: jid_scales.pdf
       journal: Journal of Infectious Diseases
       citation: Vol 214(4), p S409-S413
+    - title: "Mathematical models to characterize early epidemic growth: A Review"
+      authors:
+        - name: Gerardo Chowell
+        - name: Lisa Sattenspiel
+        - name: Shweta Bansal
+          lab: 1
+        - name: Cecile Viboud
+      link: http://www.sciencedirect.com/science/article/pii/S1571064516300641
+      full_text_article: earlygrowth.pdf
+      journal: Physics of Life Reviews
+      citation: 2016
+    - title: "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively social species"
+      authors:
+        - name: Pratha Sah
+          lab: 1
+        - name: Kenneth Nussear
+        - name: Todd Esque
+        - name: Christina Aiello
+        - name: Peter Hudson
+        - name: Shweta Bansal
+          lab: 1
+      link: http://link.springer.com/article/10.1007/s00265-016-2136-9
+      full_text_article: burrow.pdf
+      full_text_supplement: burrow_supp.pdf
+      journal: Behavioral Ecology and Sociobiology
+      citation: 1-13, 2016
+    - title: "Using heterogeneity in the population structure of U.S. swine farms to compare transmission models for porcine epidemic diarrhoea"
+      authors:
+        - name: Eamon O'Dea
+          lab: 1
+        - name: Harry Snelson
+        - name: Shweta Bansal
+          lab: 1
+      link: http://www.nature.com/articles/srep22248
+      full_text_article: odea216.pdf
+      full_text_supplement: supplement_odea2016.pdf
+      journal: Scientific Reports
+      citation: 6: 22248, 2016
+- year: 2015
+  publications:
+    - title: "Detecting signals of seasonal influenza severity through age dynamics"
+      authors:
+        - name: Elizabeth Lee 
+          lab: 1
+        - name: Cecile Viboud
+        - name: Lone Simonsen
+        - name: Farid Khan
+        - name: Shweta Bansal
+          lab: 1
+      link: http://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-015-1318-9
+      full_text_article: lee2015.pdf
+      full_text_supplement: supplement_lee2015.pdf
+      journal: BMC Infectious Diseases
+      citation: 15 (587), 2015
+    - title: "Data-driven models of foot-and-mouth disease dynamics: a review"
+      authors:
+        - name: Laura Pomeroy
+        - name: Shweta Bansal
+          lab: 1
+        - name: Mike Tildesley
+          lab: 1
+        - name: Karla Moreon-Torres
+        - name: Mark Moritz
+        - name: Ningchuan Xiao
+        - name: Tim Carpenter
+        - name: Rebecca Garabed
+      link: http://onlinelibrary.wiley.com/doi/10.1111/tbed.12437/abstract
+      full_text_article: pomeroy.pdf
+      journal: Transboundary and Emerging Diseases
+      citation: doi: 10.1111/tbed.12437, 2015
