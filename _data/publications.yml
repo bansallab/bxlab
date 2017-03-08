@@ -109,3 +109,74 @@
       full_text_article: pomeroy.pdf
       journal: Transboundary and Emerging Diseases
       citation: "doi: 10.1111/tbed.12437, 2015"
+    - title: "Increasing Herd immunity with influenza revaccination"
+      authors:
+        - name: Eric Mooring
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: http://dx.doi.org/10.1017/S0950268815002253
+      full_text_article: mooring_article.pdf
+      full_text_supplement: mooring_supp.pdf
+      journal: Epidemiology and Infection
+      citation: "doi:10.1017/S0950268815002253, 2015"
+    - title: "Social, spatial, and temporal organization in a complex insect society"
+      authors: 
+        - name: Lauren Quevillon
+        - name: Ephraim Hanks
+        - name: Shweta Bansal
+          lab: 1
+        - name: David Hughes
+          lab: 1
+      link: http://www.nature.com/articles/srep13393
+      full_text_article: quevillon_article.pdf
+      full_text_supplement: quevillon_supp.pdf
+      journal: Scientific Reports
+      citation: 5, 13393, 2015
+    - title: Modeling infectious disease dynamics in the complex landscape of global health
+      authors:
+        - name: Hans Heesterbeek
+        - name: Roy Anderson
+        - name: Viggo Andreassen
+        - name: Shweta Bansal
+          lab: 1
+        - name: Daniela De Angelis
+        - name: Chris Dye
+        - name: Ken Eames
+        - name: John Edmunds
+        - name: Simon Frost
+        - name: Sebastian Funk
+        - name: Deirdre Hollingsworth
+        - name: Thomas House
+        - name: Valerie Isham
+        - name: Petra Klepac
+        - name: Justin Lessler
+        - name: Jamie Llyod-Smith
+        - name: Jess Metcalf
+        - name: Denis Mollison
+        - name: Lorenzo Pellis
+        - name: Juliet Pulliam
+        - name: Mick Roberts
+        - name: Cecile Viboud
+      link: http://www.sciencemag.org/content/347/6227/aaa4339.abstract
+      full_text_article: science_heesterbeek.pdf
+      journal: Science
+      citation: 347 (6227), 2015
+    - title: "Nine challenges in incorporating the dynamics of behaviour in infectious diseases models"
+      authors:
+        - name: Sebastian Funk
+        - name: Shweta Bansal
+          lab: 1
+        - name: Chris Bauch
+        - name: Ken Eames
+        - name: John Edmunds
+        - name: Alison Galvani
+        - name: Petra Klepac
+      link: http://www.sciencedirect.com/science/article/pii/S1755436514000541
+      full_text_article: funk.pdf
+      journal: Epidemics
+      citation: 10, 21-25, 2015
+
+
+
+
