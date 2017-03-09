@@ -1,4 +1,4 @@
-$shashank-color: #5b616b;
+$gray-text: #5b616b;
 
 .shashank-weight {
   font-weight: normal;
@@ -52,7 +52,7 @@ $shashank-color: #5b616b;
 .flexcol {
   flex-grow: 2;
   text-align: center;
-  background-color: #f9e08e;
+  background-color: #b9d9ec;
   padding: 1em;
 }
 
@@ -82,8 +82,8 @@ $shashank-color: #5b616b;
 }
 
 .footer-logo {
-  width: 99px;
-  height: 107px;
+  width: 49;
+  height: 53px;
 }
 
 .header-logo {
@@ -115,22 +115,32 @@ $shashank-color: #5b616b;
   background-color: #1C304A; }
 
 section.press {
-  color: #FFFFFF;
   .story {
     padding: 20px 20px 20px 0;
-    border-top: 1px solid #FFFFFF;
+    border-top: 1px solid #6BABE5;
     a {
-      color: #FFFFFF;
       text-decoration: none;
       &:hover {
         text-decoration: underline;
       }
     }
     .author {
+      padding-top: 1em;
       display: block;
       font-size: 0.8em;
-      color: #56A8DF;
+      font-weight: 700; 
+      color: #8A2432;
     }
+  }
+}
+
+section.publications {
+  .year {
+    color: #8a2432;
+  }
+  .software-sidebar {
+    background-color: #f9e08e;
+    padding: 10px;
   }
 }
 
@@ -147,14 +157,27 @@ section.collaboration {
 }
 
 .bxheader {
-  font-family: "Source Sans Pro", "sans-serif";
-  color: $shashank-color;
+  color: $gray-text;
 }
 
-.bxh2 {
+
+h1, h2, h3, h4 {
   font-family: "Source Sans Pro", "sans-serif";
 }
 
 .heroheader {
   font-family: "Source Sans Pro", "sans-serif";
+}
+
+.herocallout {
+  background-color: #00205c;
+  color: #b9d9ec;
+}
+
+.bxfooter {
+  background-color: #FCF0CB;
+}
+
+.footer-contact {
+  font-size: 0.8em;
 }

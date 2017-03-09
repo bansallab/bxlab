@@ -3,12 +3,12 @@ layout: normal
 title: publications
 ---
 
-<section class="usa-section">
+<section class="publications usa-section">
 <div class="usa-grid usa-content">
   <h1 class="bxheader"> Publications </h1>
 <div class="usa-width-two-thirds">
     {% for yearpubs in site.data.publications %}
-      <h2 class="bxh2">{{ yearpubs.year}}</h2>
+      <h2 class="year">{{ yearpubs.year}}</h2>
 
       {% for paper in yearpubs.publications %}
         <p>
@@ -39,7 +39,7 @@ title: publications
       {% endfor %}
     {% endfor %}
 </div>
-<div class="usa-width-one-third usa-alert usa-alert-info">
+<div class="usa-width-one-third software-sidebar">
   <div class="usa-alert-body">
     <h4 class="usa-alert-heading">Software + Data</h4>
     <p> <i class="fa fa-github" aria-hidden="true"></i> <a
