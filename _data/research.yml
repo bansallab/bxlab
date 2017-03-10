@@ -1,0 +1,217 @@
+- topic: Human infections: towards a mechanistic understanding and control
+  - question: Detecting population-scale influenza severity
+    publications:
+      - title: "Detecting signals of seasonal influenza severity through age dynamics"
+        authors:
+          - name: Elizabeth Lee 
+            lab: 1
+          - name: Cecile Viboud
+          - name: Lone Simonsen
+          - name: Farid Khan
+          - name: Shweta Bansal
+            lab: 1
+        link: "http://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-015-1318-9"
+        full_text_article: lee2015.pdf
+        full_text_supplement: supplement_lee2015.pdf
+        journal: BMC Infectious Diseases
+        citation: 15 (587), 2015
+  - question: Impact of influenza revaccination
+    publications:
+      - title: "Increasing Herd immunity with influenza revaccination"
+        authors:
+          - name: Eric Mooring
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: http://dx.doi.org/10.1017/S0950268815002253
+        full_text_article: mooring_article.pdf
+        full_text_supplement: mooring_supp.pdf
+        journal: Epidemiology and Infection
+        citation: "doi:10.1017/S0950268815002253, 2015"
+  - question: Can influenza antivirals replace vaccination?
+    publications:
+      - title: "Assessing the use of antiviral treamement to control influenza"
+        authors:
+          - name: Sarah Kramer
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: "http://dx.doi.org/10.1017/S0950268814002520"
+        full_text_article: http://bansallab.com/pubs/kramer_antivirals.pdf
+        full_text_supplement: http://bansallab.com/pubs/kramer_antivirals_supp.pdf
+        journal: Epidemiology and Infection
+        citation: 2014
+  - question: Epidemiological and evolutionary consequences of past influenza outbreaks
+    publications:
+      - title: "The impact of past epidemics on future disease dynamics"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Lauren Ancel Meyers
+        link: http://dx.doi.org/10.1016/j.jtbi.2012.06.012
+        full_text_article: "impact_ms.pdf"
+        full_text_supplement: "impact_suppl.pdf"
+        journal: Journal of Theoretical Biology
+        citation: Vol 309, 176-184, 2012
+    - question: Shifting demographic landscape for pandemic influenza
+      publications:
+        - title: "The shifting demographic landscape of influenza"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Babak Pourbohloul
+          - name: Nathaniel Hupert
+          - name: Bryan Grenfell
+          - name: Lauren Ancel Meyers
+        link: "http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0009360"
+        full_text_article: flushift.pdf
+        full_text_supplement: flushift_supp.pdf
+        journal: PLoS One
+        citation: "5(2): e9360, 2010"
+    - question: Comparative analysis of influenza vaccination
+      publications:
+        - title: "A comparative analysis of influenza vaccination programs"
+          authors:
+            - name: Shweta Bansal
+              lab: 1
+            - name: Babak Pourbohloul
+            - name: Lauren Ancel Meyers
+          link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
+          full_text_article: flu.pdf
+          full_text_supplement: supplement.pdf
+          journal: PLoS Medicine
+          citation: Vol 3 (10), 2006
+- topic: "Livestock and wildlife infections: contact dynamics and containment"
+  - question: What are the disease consequences of modular structure in animal social networks?
+    publications:
+      - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Stephan Leu
+          - name: Peter Hudson
+          - name: Shweta Bansal
+  - question: What are the network dynamics of synchronous breathing in dolphins for the spread of respiratory infections?
+  - question: Does burrow use predict tortoise contact dynamics?
+    publications:
+      - title: "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively social species"
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Kenneth Nussear
+          - name: Todd Esque
+          - name: Christina Aiello
+          - name: Peter Hudson
+          - name: Shweta Bansal
+            lab: 1
+        link: http://link.springer.com/article/10.1007/s00265-016-2136-9
+        full_text_article: burrow.pdf
+        full_text_supplement: burrow_supp.pdf
+        journal: Behavioral Ecology and Sociobiology
+        citation: 1-13, 2016
+  - question: What role do auction markets play in the propagation of livestock infections?
+    publications:
+      - title: Livestock market data for modeling disease spread among US cattle 
+        authors:
+          - name: Ian Carroll
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: "http://biorxiv.org/content/early/2016/04/04/021980"
+  - question: Is swine movement driving the current PEDV outbreak?
+    publications:
+      - title: "Using heterogeneity in the population structure of U.S. swine farms to compare transmission models for porcine epidemic diarrhoea"
+        authors:
+          - name: Eamon O'Dea
+            lab: 1
+          - name: Harry Snelson
+          - name: Shweta Bansal
+            lab: 1
+        link: http://www.nature.com/articles/srep22248
+        full_text_article: odea216.pdf
+        full_text_supplement: supplement_odea2016.pdf
+        journal: Scientific Reports
+        citation: "6: 22248, 2016"
+- topic: "Network epidemiology: models and algorithms"
+  - question: Generative model for graphs with contact heterogeneity and modularity
+    publications:
+      - title:  Exploring community structure in biological networks with random graphs
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Lisa O. Singh
+          - name: Aaron Clauset
+          - name: Shweta Bansal
+        link: http://www.biomedcentral.com/1471-2105/15/220
+        full_text_article: sah_et_al_BMC_Bioinformatics_2014.pdf
+        full_text_supplement: sah_et_al_BMC_Bioinformatics_2014_Supplement.pdf
+        journal: BMC Bioinformatics
+        citation: Vol 15(220), 2014
+  - question: Inferring contact heterogeneity from simple epidemiological data
+    publications:
+      - title: "Inferring contact network heterogeneity from common epidemic data"
+        authors:
+          - name: Conrad Stack
+          - name: Shweta Bansal
+            lab: 1
+          - name: V.S. Anil Kumar
+          - name: Bryan Grenfell
+        link: http://dx.doi.org/10.1098/rsif.2012.0578
+        full_text_article: http://bansallab.com/pubs/inference.pdf
+        full_text_supplement: http://bansallab.com/pubs/inference.pdf
+        journal: Journal of the Royal Society Interface
+        citation: 2012
+  - question: Modeling dynamic contacts in epidemiology
+    publications:
+      - title: "The dynamic nature of contact networks in epidemiology"
+        authors:  
+          - name: Shweta Bansal
+            lab: 1
+          - name: Jonathan Read
+          - name: Babak Pourbohloul
+          - name: Lauren Ancel Meyers
+        link: http://www.informaworld.com/smpp/content~db=all~content=a926887286~frm=titlelink
+        full_text_article: http://bansallab.com/pubs/jbd.pdf
+        full_text_supplement: http://bansallab.com/pubs/jbd_supp.pdf
+        journal: Journal of Biological Dynamics
+        citation: Vol 4(5), 478-89, 2010
+  - question: "Generative null model for graphs with contact heterogeneity and transitivity"
+    publications:
+    - title: Exploring biological network structure with clustered random networks
+      authors:
+        - name: Shweta Bansal
+          lab: 1
+        - name: Shashank Khandelwal
+        - name: Lauren Ancel Meyers
+      link: http://www.biomedcentral.com/1471-2105/10/405
+      full_text_article: http://bansallab.com/pubs/clust.pdf
+      full_text_supplement: http://bansallab.com/pubs/clust_suppl.pdf
+      journal: BMC Bioinformatics
+      citation: Vol 10 (405), 2009
+  - question: "How does individual contact heterogeneity matter in epidemiology"
+    publications:
+      - title: "When individual behavior matters: homogeneous and network models in epidemiology"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Bryan Grenfell
+          - name: Lauren Ancel Meyers
+        link: http://rsif.royalsocietypublishing.org/content/4/16/879.abstract
+        full_text_article: http://bansallab.com/pubs/individual.pdf
+        full_text_supplement: http://bansallab.com/pubs/i_supplement.pdf
+        journal: Journal of the Royal Society Interface
+        citation: Vol 4 (16), 2007
+  - question: "Quantifying the impact of network frailty and herd immunity"
+    publications:
+      - title: "Network fraility and the geometry of herd immunity"
+        authors:
+          - name: Matthew Ferrari
+          - name: Shweta Bansal
+            lab: 1
+          - name: Lauren Ancel Meyers
+          - name: Ottar Bjornstad
+        link: http://rspb.royalsocietypublishing.org/content/273/1602/2743.short
+        full_text_article: http://bansallab.com/pubs/frailty.pdf
+        full_text_supplement: http://bansallab.com/pubs/frailty_supp.pdf
+        journal: Proc R Soc Lond B Bio Sci
+        citation: Vol 273(1602), 2006
