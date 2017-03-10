@@ -1,86 +1,87 @@
 - topic: "Human infections: towards a mechanistic understanding and control"
-  - question: Detecting population-scale influenza severity
-    publications:
-      - title: "Detecting signals of seasonal influenza severity through age dynamics"
-        authors:
-          - name: Elizabeth Lee 
-            lab: 1
-          - name: Cecile Viboud
-          - name: Lone Simonsen
-          - name: Farid Khan
-          - name: Shweta Bansal
-            lab: 1
-        link: "http://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-015-1318-9"
-        full_text_article: lee2015.pdf
-        full_text_supplement: supplement_lee2015.pdf
-        journal: BMC Infectious Diseases
-        citation: 15 (587), 2015
-  - question: Impact of influenza revaccination
-    publications:
-      - title: "Increasing Herd immunity with influenza revaccination"
-        authors:
-          - name: Eric Mooring
-            lab: 1
-          - name: Shweta Bansal
-            lab: 1
-        link: http://dx.doi.org/10.1017/S0950268815002253
-        full_text_article: mooring_article.pdf
-        full_text_supplement: mooring_supp.pdf
-        journal: Epidemiology and Infection
-        citation: "doi:10.1017/S0950268815002253, 2015"
-  - question: Can influenza antivirals replace vaccination?
-    publications:
-      - title: "Assessing the use of antiviral treamement to control influenza"
-        authors:
-          - name: Sarah Kramer
-            lab: 1
-          - name: Shweta Bansal
-            lab: 1
-        link: "http://dx.doi.org/10.1017/S0950268814002520"
-        full_text_article: http://bansallab.com/pubs/kramer_antivirals.pdf
-        full_text_supplement: http://bansallab.com/pubs/kramer_antivirals_supp.pdf
-        journal: Epidemiology and Infection
-        citation: 2014
-  - question: Epidemiological and evolutionary consequences of past influenza outbreaks
-    publications:
-      - title: "The impact of past epidemics on future disease dynamics"
-        authors:
-          - name: Shweta Bansal
-            lab: 1
-          - name: Lauren Ancel Meyers
-        link: http://dx.doi.org/10.1016/j.jtbi.2012.06.012
-        full_text_article: "impact_ms.pdf"
-        full_text_supplement: "impact_suppl.pdf"
-        journal: Journal of Theoretical Biology
-        citation: Vol 309, 176-184, 2012
-    - question: Shifting demographic landscape for pandemic influenza
+  questions: 
+    - question: Detecting population-scale influenza severity
       publications:
-        - title: "The shifting demographic landscape of influenza"
-        authors:
-          - name: Shweta Bansal
-            lab: 1
-          - name: Babak Pourbohloul
-          - name: Nathaniel Hupert
-          - name: Bryan Grenfell
-          - name: Lauren Ancel Meyers
-        link: "http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0009360"
-        full_text_article: flushift.pdf
-        full_text_supplement: flushift_supp.pdf
-        journal: PLoS One
-        citation: "5(2): e9360, 2010"
-    - question: Comparative analysis of influenza vaccination
+        - title: "Detecting signals of seasonal influenza severity through age dynamics"
+          authors:
+            - name: Elizabeth Lee 
+              lab: 1
+            - name: Cecile Viboud
+            - name: Lone Simonsen
+            - name: Farid Khan
+            - name: Shweta Bansal
+              lab: 1
+          link: "http://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-015-1318-9"
+          full_text_article: lee2015.pdf
+          full_text_supplement: supplement_lee2015.pdf
+          journal: BMC Infectious Diseases
+          citation: 15 (587), 2015
+    - question: Impact of influenza revaccination
       publications:
-        - title: "A comparative analysis of influenza vaccination programs"
+        - title: "Increasing Herd immunity with influenza revaccination"
+          authors:
+            - name: Eric Mooring
+              lab: 1
+            - name: Shweta Bansal
+              lab: 1
+          link: http://dx.doi.org/10.1017/S0950268815002253
+          full_text_article: mooring_article.pdf
+          full_text_supplement: mooring_supp.pdf
+          journal: Epidemiology and Infection
+          citation: "doi:10.1017/S0950268815002253, 2015"
+    - question: Can influenza antivirals replace vaccination?
+      publications:
+        - title: "Assessing the use of antiviral treamement to control influenza"
+          authors:
+            - name: Sarah Kramer
+              lab: 1
+            - name: Shweta Bansal
+              lab: 1
+          link: "http://dx.doi.org/10.1017/S0950268814002520"
+          full_text_article: http://bansallab.com/pubs/kramer_antivirals.pdf
+          full_text_supplement: http://bansallab.com/pubs/kramer_antivirals_supp.pdf
+          journal: Epidemiology and Infection
+          citation: 2014
+    - question: Epidemiological and evolutionary consequences of past influenza outbreaks
+      publications:
+        - title: "The impact of past epidemics on future disease dynamics"
+          authors:
+            - name: Shweta Bansal
+              lab: 1
+            - name: Lauren Ancel Meyers
+          link: http://dx.doi.org/10.1016/j.jtbi.2012.06.012
+          full_text_article: "impact_ms.pdf"
+          full_text_supplement: "impact_suppl.pdf"
+          journal: Journal of Theoretical Biology
+          citation: Vol 309, 176-184, 2012
+      - question: Shifting demographic landscape for pandemic influenza
+        publications:
+          - title: "The shifting demographic landscape of influenza"
           authors:
             - name: Shweta Bansal
               lab: 1
             - name: Babak Pourbohloul
+            - name: Nathaniel Hupert
+            - name: Bryan Grenfell
             - name: Lauren Ancel Meyers
-          link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
-          full_text_article: flu.pdf
-          full_text_supplement: supplement.pdf
-          journal: PLoS Medicine
-          citation: Vol 3 (10), 2006
+          link: "http://www.plosone.org/article/info:doi%2F10.1371%2Fjournal.pone.0009360"
+          full_text_article: flushift.pdf
+          full_text_supplement: flushift_supp.pdf
+          journal: PLoS One
+          citation: "5(2): e9360, 2010"
+      - question: Comparative analysis of influenza vaccination
+        publications:
+          - title: "A comparative analysis of influenza vaccination programs"
+            authors:
+              - name: Shweta Bansal
+                lab: 1
+              - name: Babak Pourbohloul
+              - name: Lauren Ancel Meyers
+            link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
+            full_text_article: flu.pdf
+            full_text_supplement: supplement.pdf
+            journal: PLoS Medicine
+            citation: Vol 3 (10), 2006
 - topic: "Livestock and wildlife infections: contact dynamics and containment"
   - question: What are the disease consequences of modular structure in animal social networks?
     publications:
