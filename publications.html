@@ -12,7 +12,15 @@ title: publications
 
       {% for paper in yearpubs.publications %}
         <p>
-        <span class="publication-name"><a href="{{paper.link}}">{{ paper.title }}</a></span>
+        <span class="publication-name">
+        {% if paper.full_text_article %}
+          <a href="{{ site.github.url}}/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
+        {% elsif paper.link %}
+          <a href="{{paper.link}}">{{ paper.title }}</a>
+        {% else %}
+          {{ paper.title }}
+        {% endif %}
+        </span>
         <br />
 
         <span class="publication-author">
@@ -30,11 +38,11 @@ title: publications
         </span>
         <br/>
 
-        <span class="publications-journal">{{paper.journal}}</span>, <span
-        class="publications-citation">{{paper.citation}}</span>
-        {% if paper.full_text_article %}
-          <a href="{{ site.github.url }}/publications/{{paper.full_text_article}}">(full text)</a>
+        {% if paper.journal %}
+        <span class="publications-journal">{{paper.journal}}</span>,
+        <span class="publications-citation"><a href=" {{paper.link}} ">{{paper.citation}}</a></span>
         {% endif %}
+
         </p>
       {% endfor %}
     {% endfor %}

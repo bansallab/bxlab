@@ -186,6 +186,14 @@ h1, h2, h3, h4 {
   background-color: #00205C;
 }
 
-.hsbx:before{
-  content: url('../img/human-infection.png');
+
+section.research {
+  .topic-header {
+    border-bottom: 2px solid #6babe5;
+    padding-bottom: 0.5rem;
+  }
+
+  .research-accordion {
+    padding-top: 2rem; 
+  }
 }

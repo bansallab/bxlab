@@ -227,8 +227,8 @@
         - name: V.S. Anil Kumar
         - name: Bryan Grenfell
       link: http://dx.doi.org/10.1098/rsif.2012.0578
-      full_text_article: http://bansallab.com/pubs/inference.pdf
-      full_text_supplement: http://bansallab.com/pubs/inference.pdf
+      full_text_article: inference.pdf
+      full_text_supplement: inference.pdf
       journal: Journal of the Royal Society Interface
       citation: 2012
     - title: "The impact of past epidemics on future disease dynamics"
@@ -250,8 +250,8 @@
         - name: Shashank Khandelwal
         - name: Lauren Ancel Meyers
       link: http://www.biomedcentral.com/1471-2105/10/405
-      full_text_article: http://bansallab.com/pubs/clust.pdf
-      full_text_supplement: http://bansallab.com/pubs/clust_suppl.pdf
+      full_text_article: clust.pdf
+      full_text_supplement: clust_suppl.pdf
       journal: BMC Bioinformatics
       citation: Vol 10 (405), 2009
 - year: 2010 
@@ -264,8 +264,8 @@
         - name: Babak Pourbohloul
         - name: Lauren Ancel Meyers
       link: http://www.informaworld.com/smpp/content~db=all~content=a926887286~frm=titlelink
-      full_text_article: http://bansallab.com/pubs/jbd.pdf
-      full_text_supplement: http://bansallab.com/pubs/jbd_supp.pdf
+      full_text_article: jbd.pdf
+      full_text_supplement: jbd_supp.pdf
       journal: Journal of Biological Dynamics
       citation: Vol 4(5), 478-89, 2010
     - title: "The shifting demographic landscape of influenza"
@@ -290,8 +290,8 @@
         - name: Bryan Grenfell
         - name: Lauren Ancel Meyers
       link: http://rsif.royalsocietypublishing.org/content/4/16/879.abstract
-      full_text_article: http://bansallab.com/pubs/individual.pdf
-      full_text_supplement: http://bansallab.com/pubs/i_supplement.pdf
+      full_text_article: individual.pdf
+      full_text_supplement: i_supplement.pdf
       journal: Journal of the Royal Society Interface
       citation: Vol 4 (16), 2007
 - year: 2006 
@@ -315,7 +315,7 @@
         - name: Lauren Ancel Meyers
         - name: Ottar Bjornstad
       link: http://rspb.royalsocietypublishing.org/content/273/1602/2743.short
-      full_text_article: http://bansallab.com/pubs/frailty.pdf
-      full_text_supplement: http://bansallab.com/pubs/frailty_supp.pdf
+      full_text_article: frailty.pdf
+      full_text_supplement: frailty_supp.pdf
       journal: Proc R Soc Lond B Bio Sci
       citation: Vol 273(1602), 2006
