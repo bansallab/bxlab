@@ -7,6 +7,7 @@
         - name: Stephan Leu
         - name: Peter Hudson
         - name: Shweta Bansal
+          lab: 1
     - title: Livestock market data for modeling disease spread among US cattle 
       authors:
         - name: Ian Carroll
