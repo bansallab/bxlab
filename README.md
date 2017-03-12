@@ -10,3 +10,5 @@ Congress by MRFA from the Noun Project
 Graph by Souvik Bhattacharjee from the Noun Project
 
 ## Bansal Lab Visual Identity
+
+![color palette](https://github.com/khandelwal/bxlab/blob/master/bxlab-color-palette.png)
