@@ -197,3 +197,45 @@ section.research {
     padding-top: 2rem; 
   }
 }
+
+.award-grid {
+  padding-bottom: 2rem;
+}
+
+.award-details {
+  padding: 1em;
+  background-color: #b9d9ec;
+}
+
+.award {
+  font-size: 85%;
+  font-weight: 300;
+}
+
+.awardee {
+  font-size: 80%;
+  font-weight: 600;
+  color: $gray-text;
+}
+
+.awarddate {
+  font-size: 70%;
+  font-weight: 300;
+}
+
+.corner {
+  font-size: 80%;
+  line-height: 1;
+  padding-top: 0;
+  text-align: right;
+}
+
+.short {
+  line-height: 1;
+}
+
+.awardhonors {
+  font-size: 2rem;
+  /* padding-bottom: 0.5rem; */
+  /* border-bottom: 2px solid #8A2432; */
+}
