@@ -1,0 +1,58 @@
+---
+layout: normal
+title: news
+---
+
+<section class="usa-section">
+  <div class="usa-grid">
+    <h1 class="bxheader">News</h1>
+    <h2>Latest news</h2>
+    <ul>
+    {% for newsitem in site.data.news %}
+      <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
+    {% endfor %}
+   </ul>
+  </div>
+</section>
+
+<section class="press usa-section background-gray">
+  <div class="usa-grid">
+    <div class="usa-width-one-whole">
+      <h2>Press</h2>
+
+      {% for ni in site.data.press %}
+        {% assign index_mod = forloop.index0 | modulo:3  %}
+
+        {% if index_mod == 0 %}
+          <div class="usa-grid-full">
+        {% endif %}
+          
+        <div class="story usa-width-one-third">
+          <a href="{{ni.link}}">{{ ni.title }}</a>
+          <span class="author">{{ ni.author }}</span>
+        </div>
+
+        {% if index_mod == 2 %}
+          </div>
+        {% elsif forloop.last %}
+          </div>
+        {% endif %}
+      {% endfor %}
+
+    </div>
+  <div>
+</section>
+
+<section class="usa-section">
+  <div class="usa-grid">
+    <h2>Outreach</h2>
+    <div class="usa-width-one-third">
+      <iframe width="280" height="158"
+      src="https://www.youtube.com/embed/wIgtIWTOi9k?list=PLjnGdo9K7edGXytSpYv_FGZL9DFFsKOSH"
+      frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="usa-width-two-thirds">
+      <p>Shweta Bansal recorded four short videos on myths about the flu for the
+      Georgetown University community.</p>
+    </div>
+  </div>

@@ -3,106 +3,57 @@ layout: normal
 title: about
 ---
 
-<section class="usa-section">
+<section id="about" class="usa-section">
   <div class="usa-grid">
-    <h1 class="bxheader">Outreach &amp; Press </h1>
+  <div class="usa-width-three-fourths">
+    <h1 class="bxheader">About</h1>
 
-    <p> We are always excited about opportunities to share our work with wide
-    audiences.</p>
+    <p>The Bansal Lab is located within the <a
+    href="https://biology.georgetown.edu/">Department of Biology</a> at
+    Georgetown University and is lead by Shweta Bansal.</p>
 
-    <div class="usa-width-one-third">
-      <iframe width="280" height="158"
-      src="https://www.youtube.com/embed/wIgtIWTOi9k?list=PLjnGdo9K7edGXytSpYv_FGZL9DFFsKOSH"
-      frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div class="usa-width-two-thirds">
-      <p>Shweta Bansal recorded four short videos on myths about the flu for the
-      Georgetown University community.</p>
-    </div>
+    <h2>Location</h2>
+
+    <p>
+      The Bansal Lab is located on the 5th floor of Georgetown University's
+      Science Center, Regents Hall. Shweta Bansal's office is 510, and the lab
+      is in 561. 
+    </p>
+
+    <iframe
+    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3104.6463822238015!2d-77.07644248421967!3d38.909201079568845!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b7b640c9b53289%3A0xea1630adb7f041b6!2sRegents+Hall!5e0!3m2!1sen!2sus!4v1487276165703"
+    width="600" height="225" frameborder="0" style="border:0"
+    allowfullscreen></iframe>
+
+    <h4>Directions + Parking</h4>
+
+    <p> Regents Hall can be reached either through Entrance 1 (Reservoir
+    Road NW and 38th St NW) or through the main campus entrance (37th St NW
+    and O St NW)</p>
+
+    <p>If driving to campus, please use the Reservoir Road NW entrance, as
+    there is ample metered parking available on Reservoir Road and the
+    neighborbood to the North.</p>
+
+    <p>If taking the DC Metro, plase use the Red Line to arrive at Dupont
+    Circle and then take the Georgetown GUTS shuttle to get to campus.</p>
+
+    <h2>Affliations</h2>
+
+    <p> The lab is affiliated with <a href="https://www.fic.nih.gov/">Fogarty
+    International Center (NIH)</a>, <a
+    href="https://environment.georgetown.edu/">the Georgetown Environment
+    Initiative</a>, and the <a
+    href=https://mccourt.georgetown.edu/massive-data-institute"">Georgetown
+    Massive Data Insitute</a>.</p>
+
   </div>
-</section>
-
-
-<section class="press usa-section background-gray">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole">
-      <h2>Our work in the news</h2>
-
-      {% for ni in site.data.press %}
-        {% assign index_mod = forloop.index0 | modulo:3  %}
-
-        {% if index_mod == 0 %}
-          <div class="usa-grid-full">
-        {% endif %}
-          
-        <div class="story usa-width-one-third">
-          <a href="{{ni.link}}">{{ ni.title }}</a>
-          <span class="author">{{ ni.author }}</span>
-        </div>
-
-        {% if index_mod == 2 %}
-          </div>
-        {% elsif forloop.last %}
-          </div>
-        {% endif %}
-      {% endfor %}
-
-    </div>
-  <div>
-</section>
-
-<section class="support usa-section">
-<div class="usa-grid">
-<div class="usa-width-one-whole">
-
-  <h2>Support</h2>
-
-  {% for supporter in site.data.grants %}
-    {% assign imod = forloop.index0 | modulo3 %}
-
-    {% if imod == 0 %}
-      <div class="usa-grid-full">
-    {% endif %}
-
-    <div class="supporter usa-width-one-third">
-      {{ supporter.name }}
-    </div>
-
-    {% if imod == 2 %}
-      </div>
-    {% elsif forloop.last %}
-      </div>
-    {% endif %}
-  {% endfor %}
-</div>
-</div>
-</section>
-
-<section class="collaboration usa-section">
-  <div class="usa-grid">
-  <div class="usa-width-one-whole">
-
-    <h2>Academic collaborators</h2>
-
-    {% for co in site.data.collaborators %}
-      {% assign imod = forloop.index0 | modulo3 %}
-
-      {% if imod == 0 %}
-        <div class="usa-grid-full">
-      {% endif %}
-
-      <div class="collaborator usa-width-one-third">
-        {{ co.collaborator }}
-      </div>
-
-      {% if imod == 2 %}
-        </div>
-      {% elsif forloop.last %}
-        </div>
-      {% endif %}
-    {% endfor %}
+  <div class="usa-width-one-fourth">
+    <img class="playimage" src="{{ site.github.url}}/img/lab-at-play/play1.jpg">
+    <img class="playimage" src="{{ site.github.url}}/img/lab-at-play/play2.jpg">
+    <img class="playimage" src="{{ site.github.url}}/img/lab-at-play/play3.jpg">
+    <img class="playimage" src="{{ site.github.url}}/img/lab-at-play/play5.jpg">
   </div>
   </div>
+
 </section>
-
-

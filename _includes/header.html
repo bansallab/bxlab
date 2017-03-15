@@ -16,7 +16,7 @@
           <img  class="header-logo" 
                 src="{{ site.github.url }}/img/bansallab-logo.png" 
                 alt="Bansal Lab logo (network diagram)"/>
-          <a href="{{ site.github.url }}/">Bansal Lab</a>
+          <a href="{{ site.github.url }}/" class="lab-name-header">Bansal Lab</a>
       </em>
     </div>
   </div>
@@ -26,6 +26,11 @@
         <img src="{{ site.github.url }}/img/close.svg" alt="close">
       </button>
       <ul class="usa-nav-primary usa-accordion">
+        <li>
+          <a {% if page.title == 'news' %} class="usa-current usa-nav-link" {%
+          else %} class="usa-nav-link" {% endif %} href="{{ site.github.url }}/news.html">
+            <span>News</span></a>
+        </li>
         <li>
           <a {% if page.title == 'research' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %} href="{{ site.github.url }}/research.html">
             <span>Research</span></a>
@@ -62,26 +67,12 @@
             <span>Courses</span></a>
         </li>
         <li>
-          {% if page.title == 'about' %}
-          <button class="usa-accordion-button usa-current usa-nav-link menubackground"
-                  aria-expanded="false" 
-                  aria-controls="sidenav-3">
-          {% else %}
-          <button class="usa-accordion-button usa-nav-link menubackground" 
-                  aria-expanded="false" 
-                  aria-controls="sidenav-3">
-          {% endif %}
-            <span>About</span>
-          </button>
-          <ul id="sidenav-3" class="usa-nav-submenu menubackground" aria-hidden="true">  
-            <li>
-              <a href="{{ site.github.url }}/about.html">Outreach + Press</a>
-            </li>
-            <li>
-              <a href="{{ site.github.url }}/location.html">Contact</a>
-            </li>
-          </ul>
+          <a {% if page.title == 'about' %} class="usa-current usa-nav-link"
+          {% else %} class="usa-nav-link" {% endif %}  href="{{
+          site.github.url }}/about.html">
+            <span>About</span></a>
         </li>
+
       </ul>
     </div>
   </nav>
