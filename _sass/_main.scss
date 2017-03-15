@@ -77,7 +77,8 @@ $gray-text: #5b616b;
 }
 
 .publication-author-lab {
-  font-style: italic;
+  font-weight: 600;
+  color: $gray-text;
 }
 
 .publications-journal {
@@ -180,6 +181,7 @@ h2 {
 
 .heroheader {
   font-family: "Source Sans Pro", "sans-serif";
+  border-bottom: 0px;
 }
 
 .herocallout {

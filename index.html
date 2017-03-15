@@ -33,18 +33,4 @@ layout: default
       disease.</h2>
     </div>
   </div>
-
-  <div class="usa-grid">
-     <div class="usa-width-one-whole">
-      <h3 class="news"> Latest News</h3>
-
-      <ul>
-        {% for newsitem in site.data.news %}
-          
-          <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
-
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
 </section>
