@@ -1,5 +1,9 @@
 $gray-text: #5b616b;
 
+.lab-name-header {
+  font-weight: 300;
+}
+
 .shashank-weight {
   font-weight: normal;
 }
@@ -12,6 +16,10 @@ $gray-text: #5b616b;
 .space-it-out {
   padding-bottom: 2em;
   font-size: 80%;
+}
+
+.bottom-space {
+  padding-bottom: 1em;
 }
 
 .people-border {
@@ -165,6 +173,11 @@ h1, h2, h3, h4 {
   font-family: "Source Sans Pro", "sans-serif";
 }
 
+h2 {
+  border-bottom: 2px solid #6babe5;
+  padding-bottom: 0.5rem;
+}
+
 .heroheader {
   font-family: "Source Sans Pro", "sans-serif";
 }
@@ -195,6 +208,16 @@ section.research {
 
   .research-accordion {
     padding-top: 2rem; 
+  }
+
+  .support {
+    font-size: 90%
+  }
+
+  .supporter {
+    margin-bottom: 0;
+    font-size: 90%;
+    list-style-type: none;
   }
 }
 
@@ -238,4 +261,21 @@ section.research {
   font-size: 2rem;
   /* padding-bottom: 0.5rem; */
   /* border-bottom: 2px solid #8A2432; */
+}
+
+section.fullawards {
+  .short {
+    line-height: 1;
+  }
+
+  .awardee {
+    font-size: 90%;
+    font-weight: 600;
+    color: $gray-text;
+  }
+
+  .awarddate {
+    font-size: 80%;
+    font-weight: 300;
+  }
 }

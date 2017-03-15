@@ -7,16 +7,28 @@ title: research
 <div class="usa-width-one-whole usa-content">
   <h1 class="bxheader">Research</h1>
 
-  <p>Our research is based in disease ecology (also known as ecological
-  epidemiology). This includes population and community level studies of the
-  interactions between hosts and their pathogens, and covers diseases of both
-  <a href="#human-infections">humans</a> and <a
-  href="#livestock-infections">animals</a>.  In particular, we focus on
-  spatial and temporal heterogeneity in transmission, due to variation in
-  host-dependent parameters (e.g contact patterns, age, or compliance with
-  public health recommendations). We use and develop a variety of mathematical
-  and statistical modeling tools to answer our questions, in particular tools
-  of <a href="#network-epi">network science</a>.</p>
+  <div class="usa-grid-full">
+    <div class="usa-width-two-thirds usa-content">
+      <p class="bottom-space">Our research is based in disease ecology (also known as ecological
+      epidemiology). This includes population and community level studies of the
+      interactions between hosts and their pathogens, and covers diseases of both
+      <a href="#human-infections">humans</a> and <a
+      href="#livestock-infections">animals</a>.  In particular, we focus on
+      spatial and temporal heterogeneity in transmission, due to variation in
+      host-dependent parameters (e.g contact patterns, age, or compliance with
+      public health recommendations). We use and develop a variety of mathematical
+      and statistical modeling tools to answer our questions, in particular tools
+      of <a href="#network-epi">network science</a>.</p>
+    </div>
+    <div class="usa-width-one-third award-details">
+      <p class="support"> We gratefully acknowledge support from: </p>
+      <ul>
+        {% for supporter in site.data.supporters %}
+          <li class="supporter">{{ supporter.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 
   <div class="usa-width-two-thirds">
 
@@ -81,4 +93,5 @@ title: research
  </div>
 </div>
 </div>
+
 </section>
