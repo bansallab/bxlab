@@ -1,0 +1,19 @@
+---
+layout: normal
+title: people
+---
+
+<section class="usa-section fullawards">
+<div class="usa-grid">
+<div class="usa-width-one-whole usa-content">
+  <h1 class="bxheader">Awards &amp; Honors</h1>
+
+  {% for awarded in site.data.awards %}
+    <p class="short">
+    <span>{{ awarded.award }}</span><br />
+    <span class="awardee">{{ awarded.person }}</span> - <span class="awarddate">{{ awarded.month }}, {{ awarded.year }}</span>
+    </p>
+  {% endfor %}
+</div>
+</div>
+</section>
