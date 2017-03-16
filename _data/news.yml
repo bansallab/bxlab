@@ -1,8 +1,23 @@
 - event: Vittoria Colizza of INSERM will be visiting us for an extended visit. Very excited!
   month: 2
   year: 2017
+- event: Pratha Sah wins the Biology Outstanding Graduate Student Award
+  month: 1
+  year: 2017
+- event: We are hosting Sam Scarpino for research discussions
+  month: 1
+  year: 2017
+- event: Elizabeth Lee wins the Outstanding Student Abstract award at the ISDS annual meeting
+  month: 12
+  year: 2016
 - event: Undergrad Anne Ewing and grad student Elizabeth Lee publish new work on influenza dynamics during the winter holidays
   month: 12
+  year: 2016
+- event: Shweta co-edits special issue of the Journal of Infectious Diseases on Big Data and Infectious Diseases
+  month: 11
+  year: 2016
+- event: Elizabeth Lee publishes work on spatial big data for infectious disease modeling
+  month: 11
   year: 2016
 - event: Elizabeth Lee will be presenting at the MISMS meeting on flu spatial hetrogeneity
   month: 11
@@ -10,11 +25,11 @@
 - event: Shweta Bansal will be speaking at an MBI workshop on Population Models
   month: 11
   year: 2016
-- event: Ewan Colman presents at CC'16 on social hetrogeneity and ants
-  month: 11
-  year: 2016
 - event: Shweta speaks at the ICBI Symposium at Georgetown
   month: 10
+  year: 2016
+- event: Ewan Colman presents at CCS'16 on social hetrogeneity and ants
+  month: 9
   year: 2016
 - event: The Bansal Lab turns 4 years old this month!
   month: 8
@@ -23,13 +38,16 @@
   month: 08
   year: 2016
 - event: Pratha Sah will be presenting at ESA 2016
-  month: 07
+  month: 08
   year: 2016
 - event: Stephan Leu joins the group as a Endeavour Postdoctoral Fellow. Welcome!
   month: 07
   year: 2016
 - event: Shweta will be speaking at the Canadian Applied and Industrial Mathematics Society Annual Meeting.
   month: 06
+  year: 2016
+- event: Pratha Sah publishes new work on contact dynamics in desert tortoises
+  month: 05
   year: 2016
 - event: Lorenzo Pellis is visiting us
   month: 05
@@ -48,6 +66,9 @@
   year: 2016
 - event: Shweta will be presenting a seminar at UT Austin Integrative Biology
   month: 04
+  year: 2016
+- event: Eamon O'Dea publishes work on PEDV in US swine populations
+  month: 03
   year: 2016
 - event: Elizabeth Lee develops a new software tool to calculate an influenza severity index
   month: 03
