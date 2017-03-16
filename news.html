@@ -6,23 +6,20 @@ title: news
 <section class="usa-section">
   <div class="usa-grid">
     <div class="usa-width-one-whole usa-content">
-      <h1 class="bxheader">Research</h1>
+      <h1 class="bxheader">News</h1>
 
       <div class="usa-grid-full">
+      <div class="usa-width-two-thirds usa-content">
+      <h2>Latest News</h2>
+      <ul>
+        {% for newsitem in site.data.news %}
+          <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
+        {% endfor %}
+      </ul>
+       
+      </div>
       </div>
     </div>
-  </div>
-</section>
-
-<section class="usa-section">
-  <div class="usa-grid">
-    <h1 class="bxheader">News</h1>
-    <h2>Latest news</h2>
-    <ul>
-    {% for newsitem in site.data.news %}
-      <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
-    {% endfor %}
-   </ul>
   </div>
 </section>
 
@@ -56,13 +53,12 @@ title: news
 
 <section class="usa-section">
   <div class="usa-grid">
-    <h2>Outreach</h2>
-    <div class="usa-width-one-third">
-      <iframe width="280" height="158"
-      src="https://www.youtube.com/embed/wIgtIWTOi9k?list=PLjnGdo9K7edGXytSpYv_FGZL9DFFsKOSH"
-      frameborder="0" allowfullscreen></iframe>
-    </div>
     <div class="usa-width-two-thirds">
+    <h2>Outreach</h2>
+      <iframe width="280" height="158"
+        src="https://www.youtube.com/embed/wIgtIWTOi9k?list=PLjnGdo9K7edGXytSpYv_FGZL9DFFsKOSH"
+        frameborder="0" allowfullscreen>
+      </iframe>
       <p>Shweta Bansal recorded four short videos on myths about the flu for the
       Georgetown University community.</p>
     </div>
