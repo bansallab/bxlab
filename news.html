@@ -5,18 +5,18 @@ title: news
 
 <section class="usa-section">
   <div class="usa-grid">
-    <div class="usa-width-one-whole usa-content">
+    <div class="usa-width-one-whole">
       <h1 class="bxheader">News</h1>
 
       <div class="usa-grid-full">
-      <div class="usa-width-two-thirds usa-content">
+      <div class="usa-width-two-thirds">
       <h2>Latest News</h2>
       <ul>
         {% for newsitem in site.data.news %}
           <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
         {% endfor %}
       </ul>
-      <p><i class="fa fa-newspaper-o" aria-hidden="true"></i> <a
+      <p class="corner"><i class="fa fa-newspaper-o" aria-hidden="true"></i> <a
   href="news_full.html">more ...</a> </p>
        
       </div>
