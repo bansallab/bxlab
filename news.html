@@ -12,7 +12,7 @@ title: news
       <div class="usa-width-two-thirds">
       <h2>Latest News</h2>
       <ul>
-        {% for newsitem in site.data.news %}
+        {% for newsitem in site.data.news limit: 4%}
           <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
         {% endfor %}
       </ul>
