@@ -2,6 +2,7 @@ $gray-text: #5b616b;
 
 .lab-name-header {
   font-weight: 300;
+  color: #00205C;
 }
 
 .shashank-weight {
@@ -124,6 +125,9 @@ $gray-text: #5b616b;
   background-color: #1C304A; }
 
 section.press {
+  h2 {
+    border-bottom: 0px;
+  }
   .story {
     padding: 20px 20px 20px 0;
     border-top: 1px solid #6BABE5;
