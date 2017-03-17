@@ -1,7 +1,20 @@
 $gray-text: #5b616b;
 
+a {
+  color: #00205c;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #6BABE5;
+}
+
 .lab-name-header {
   color: #00205C;
+}
+
+.bxnav {
+  background-color: #00205C;
 }
 
 .shashank-weight {
