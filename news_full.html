@@ -2,16 +2,39 @@
 layout: normal
 title: news
 ---
-
 <section class="usa-section fullawards">
 <div class="usa-grid">
 <div class="usa-width-one-whole usa-content">
   <h1 class="bxheader">News archive</h1>
-<ul>
-        {% for newsitem in site.data.news %}
-          <li>{{newsitem.month}}/{{newsitem.year}}: {{ newsitem.event }}</li>
-        {% endfor %}
+    {% assign news_items_by_year = site.data.news | group_by:"year" %}
+
+    <div class="usa-grid-full">
+    <div class="usa-width-two-thirds">
+    {% for year in news_items_by_year %}
+      <h2>{{ year.name }}</h2>
+
+      <ul>
+      {% for newsitem in year.items %}
+        <li>
+        {% case newsitem.month %}
+          {% when 1 %}January
+          {% when 2 %}February
+          {% when 3 %}March
+          {% when 4 %}April
+          {% when 5 %}May
+          {% when 6 %}June
+          {% when 7 %}July
+          {% when 8 %}August
+          {% when 9 %}September
+          {% when 10 %}October
+          {% when 11 %}November
+          {% when 12 %}December
+        {% endcase %}| {{ newsitem.event }}</li>
+      {% endfor %}
       </ul>
+    {% endfor %}
+    </div>
+    </div>
 </div>
 </div>
 </section>
