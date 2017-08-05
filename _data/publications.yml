@@ -9,7 +9,7 @@
       link: "http://biorxiv.org/content/early/2016/04/04/021980"
 - year: 2017
   publications:
-      - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
+    - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
       authors:
         - name: Pratha Sah
           lab: 1
