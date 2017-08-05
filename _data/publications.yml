@@ -366,7 +366,7 @@
       full_text_supplement: "impact_suppl.pdf"
       journal: Journal of Theoretical Biology
       citation: 309, pg 176-184, 2012
-     - title: "Statistical Inference to advance network models in epidemiology"
+    - title: "Statistical Inference to advance network models in epidemiology"
       authors:
         - name: David Welch*
         - name: Shweta Bansal*
@@ -376,7 +376,7 @@
       full_text_article: net_inference.pdf
       journal: Epidemics
       citation: 3(1), pg 38-45, 2011
-     - title: "Fast Community Detection for Dynamic Complex Networks"
+    - title: "Fast Community Detection for Dynamic Complex Networks"
       authors:
         - name: Shweta Bansal
           lab: 1
