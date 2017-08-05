@@ -1,12 +1,56 @@
 - year: Preprints
   publications:
+    - title: Social fluidity mobilizes infectious disease in human and animal populations
+      authors:
+        - name: Ewan Colman
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/170266"
+    - title: The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior
+      authors:
+        - name: Ewan Colman
+          lab: 1
+        - name: Kristen Spies
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://arxiv.org/abs/1707.08252"
+    - title: Identifying the dynamic contact network of infectious disease spread
+      authors:
+        - name: Pratha Sah
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/169573"
+    - title: Disease implications of animal social organization and network structure - a quantitative analysis
+      authors:
+        - name: Pratha Sah
+          lab: 1
+        - name: Jose Mendez
+          lab: 1
+        - name: Janet Mann
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/106633"
+    - title: Socio-environmental and measurement factors drive spatial variation in influenza-like illness
+      authors:
+        - name: Elizabeth Lee
+          lab: 1
+        - name: Ali Arab
+        - name: Sandra Goldlust
+          lab: 1
+        - name: Cecile Viboud
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/106633"
     - title: Livestock market data for modeling disease spread among US cattle 
       authors:
         - name: Ian Carroll
           lab: 1
         - name: Shweta Bansal
           lab: 1
-      link: "http://biorxiv.org/content/early/2016/04/04/021980"
+      link: "https://doi.org/10.1101/112680"
 - year: 2017
   publications:
     - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
