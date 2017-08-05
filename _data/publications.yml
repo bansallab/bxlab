@@ -1,13 +1,5 @@
 - year: Preprints
   publications:
-    - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Stephan Leu
-        - name: Peter Hudson
-        - name: Shweta Bansal
-          lab: 1
     - title: Livestock market data for modeling disease spread among US cattle 
       authors:
         - name: Ian Carroll
@@ -15,8 +7,37 @@
         - name: Shweta Bansal
           lab: 1
       link: "http://biorxiv.org/content/early/2016/04/04/021980"
-- year: 2016
+- year: 2017
   publications:
+      - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
+      authors:
+        - name: Pratha Sah
+          lab: 1
+        - name: Stephan Leu
+        - name: Paul Cross
+        - name: Peter Hudson
+        - name: Shweta Bansal
+          lab: 1
+      link: http://dx.doi.org/10.1073/pnas.1613616114
+      full_text_article: Sah_PNAS.pdf
+      journal: Proceedings of the National Academy of Sciences
+      citation: 114(16), 2017
+    - title: "Data-driven models of foot-and-mouth disease dynamics: a review"
+      authors:
+        - name: Laura Pomeroy
+        - name: Shweta Bansal
+          lab: 1
+        - name: Mike Tildesley
+          lab: 1
+        - name: Karla Moreon-Torres
+        - name: Mark Moritz
+        - name: Ningchuan Xiao
+        - name: Tim Carpenter
+        - name: Rebecca Garabed
+      link: http://onlinelibrary.wiley.com/doi/10.1111/tbed.12437/abstract
+      full_text_article: pomeroy.pdf
+      journal: Transboundary and Emerging Diseases
+      citation: "doi: 10.1111/tbed.12437, 2015"
     - title: "Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States"
       authors:
         - name: Anne Ewing
@@ -29,6 +50,8 @@
       link: http://jid.oxfordjournals.org/content/early/2016/12/28/infdis.jiw642.abstract 
       journal: Journal of Infectious Diseases
       citation: "doi: 10.1093/infdis/jiw642"
+- year: 2016
+  publications:
     - title: Big data for infectious disease surveillance and modeling
       authors:
         - name: Shweta Bansal
@@ -82,6 +105,21 @@
       full_text_supplement: burrow_supp.pdf
       journal: Behavioral Ecology and Sociobiology
       citation: 1-13, 2016
+    - title: "Host contact and shedding patterns clarify variation in pathogen exposure and transmission in threatened tortoise Gopherus agassizii: Implications for disease modelling and management"
+      authors:
+        - name: Christina Aiello
+        - name: Ken Nussear
+        - name: Todd Esque
+        - name: Patrick Emblidge
+        - name: Pratha Sah
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+        - name: Peter Hudson
+      link: http://dx.doi.org/10.1111/1365-2656.12511
+      full_text_article: aiello.pdf
+      journal: Journal of Animal Ecology
+      citation: 85(3), 2016
     - title: "Using heterogeneity in the population structure of U.S. swine farms to compare transmission models for porcine epidemic diarrhoea"
       authors:
         - name: Eamon O'Dea
@@ -94,6 +132,17 @@
       full_text_supplement: supplement_odea2016.pdf
       journal: Scientific Reports
       citation: "6: 22248, 2016"
+    - title: "Increasing Herd immunity with influenza revaccination"
+      authors:
+        - name: Eric Mooring
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: http://dx.doi.org/10.1017/S0950268815002253
+      full_text_article: mooring_article.pdf
+      full_text_supplement: mooring_supp.pdf
+      journal: Epidemiology and Infection
+      citation: 2016
 - year: 2015
   publications:
     - title: "Detecting signals of seasonal influenza severity through age dynamics"
@@ -110,33 +159,6 @@
       full_text_supplement: supplement_lee2015.pdf
       journal: BMC Infectious Diseases
       citation: 15 (587), 2015
-    - title: "Data-driven models of foot-and-mouth disease dynamics: a review"
-      authors:
-        - name: Laura Pomeroy
-        - name: Shweta Bansal
-          lab: 1
-        - name: Mike Tildesley
-          lab: 1
-        - name: Karla Moreon-Torres
-        - name: Mark Moritz
-        - name: Ningchuan Xiao
-        - name: Tim Carpenter
-        - name: Rebecca Garabed
-      link: http://onlinelibrary.wiley.com/doi/10.1111/tbed.12437/abstract
-      full_text_article: pomeroy.pdf
-      journal: Transboundary and Emerging Diseases
-      citation: "doi: 10.1111/tbed.12437, 2015"
-    - title: "Increasing Herd immunity with influenza revaccination"
-      authors:
-        - name: Eric Mooring
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: http://dx.doi.org/10.1017/S0950268815002253
-      full_text_article: mooring_article.pdf
-      full_text_supplement: mooring_supp.pdf
-      journal: Epidemiology and Infection
-      citation: "doi:10.1017/S0950268815002253, 2015"
     - title: "Social, spatial, and temporal organization in a complex insect society"
       authors: 
         - name: Lauren Quevillon
@@ -193,8 +215,32 @@
       full_text_article: funk.pdf
       journal: Epidemics
       citation: 10, 21-25, 2015
-- year: 2014
-  publications: 
+    - title: "Eight challenges for network epidemic models"
+      authors:
+        - name: Lorenzo Pellis
+        - name: Frank Ball
+        - name: Shweta Bansal
+          lab: 1
+        - name: Ken Eames
+        - name: Thomas House
+        - name: Valerie Isham
+        - name: Pieter Trapman
+      link: "https://doi.org/10.1016/j.epidem.2014.07.003"
+      full_text_article: pellis.pdf
+      journal: Epidemics
+      citation: 10, 58-62, 2015
+    - title: "Six challenges in measuring contact networks for use in modeling"
+      authors:
+        - name: Ken Eames
+        - name: Shweta Bansal
+          lab: 1
+        - name: Simon Frost
+        - name: Ken Eames
+        - name: Steve Riley
+      link: "https://doi.org/10.1016/j.epidem.2014.08.006"
+      full_text_article: eames.pdf
+      journal: Epidemics
+      citation: 10, 72-77, 2015
     - title: "Assessing the use of antiviral treamement to control influenza"
       authors:
         - name: Sarah Kramer
@@ -205,6 +251,24 @@
       full_text_article: kramer_antivirals.pdf
       full_text_supplement: kramer_antivirals_supp.pdf
       journal: Epidemiology and Infection
+      citation: 2015
+- year: 2014
+  publications: 
+    - title: "Disease dynamics during wildlife translocations: disruptions to the host population and potential consequences for transmission in desert tortoise contact networks"
+      authors:
+        - name: Christina Aiello
+        - name: Ken Nussear
+        - name: Andrew Walde
+        - name: Todd Esque
+        - name: Patrick Emblidge
+        - name: Pratha Sah
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+        - name: Peter Hudson
+      link: "http://dx.doi.org/10.1111/acv.12147"
+      full_text_article: translocation_aiello.pdf
+      journal: Animal Conservation
       citation: 2014
     - title:  Exploring community structure in biological networks with random graphs
       authors:
@@ -218,8 +282,8 @@
       full_text_supplement: sah_et_al_BMC_Bioinformatics_2014_Supplement.pdf
       journal: BMC Bioinformatics
       citation: Vol 15(220), 2014
-- year: 2012 
-  publications: 
+- year: 2013
+  publications:
     - title: "Inferring contact network heterogeneity from common epidemic data"
       authors:
         - name: Conrad Stack
@@ -231,7 +295,23 @@
       full_text_article: inference.pdf
       full_text_supplement: inference.pdf
       journal: Journal of the Royal Society Interface
-      citation: 2012
+      citation: 2013
+    - title: "Mixed Methods Pilot Study of Sharing Behaviors among Waterpipe Smokers of Rural Lao PDR: Implications for Infectious Disease Transmission"
+      authors:
+        - name: Robyn Martin
+        - name: Sahar Safaee
+        - name: Khamphithoun Somsamouth
+        - name: Boualoy Mounivong
+        - name: Ryan Sinclair
+        - name: Shweta Bansal
+          lab: 1
+        - name: Pramil Singh
+      link: https://dx.doi.org/10.3390%2Fijerph10062120
+      full_text_article: waterpipe.pdf
+      journal: International Journal of Environmental Research and Public Health
+      citation: 2013
+- year: 2012 and earlier
+  publications:
     - title: "The impact of past epidemics on future disease dynamics"
       authors:
         - name: Shweta Bansal
@@ -242,21 +322,26 @@
       full_text_supplement: "impact_suppl.pdf"
       journal: Journal of Theoretical Biology
       citation: Vol 309, 176-184, 2012
-- year: 2009
-  publications:
-    - title: Exploring biological network structure with clustered random networks
+     - title: "Statistical Inference to advance network models in epidemiology"
+      authors:
+        - name: David Welch*
+        - name: Shweta Bansal*
+          lab: 1
+        - name: David Hunter
+      link: https://dx.doi.org/10.1016%2Fj.epidem.2011.01.002
+      full_text_article: net_inference.pdf
+      journal: Epidemics
+      citation: 2011
+     - title: "Fast Community Detection for Dynamic Complex Networks"
       authors:
         - name: Shweta Bansal
           lab: 1
-        - name: Shashank Khandelwal
-        - name: Lauren Ancel Meyers
-      link: http://www.biomedcentral.com/1471-2105/10/405
-      full_text_article: clust.pdf
-      full_text_supplement: clust_suppl.pdf
-      journal: BMC Bioinformatics
-      citation: Vol 10 (405), 2009
-- year: 2010 
-  publications: 
+        - name: Sanjukta Bhowmick
+        - name: Prashant Paymal
+      link: https://doi.org/10.1007/978-3-642-25501-4_20
+      full_text_article: dynamic_cs.pdf
+      journal: Complex Networks in Communications in Computer and Information Science
+      citation: 2011 
     - title: "The dynamic nature of contact networks in epidemiology"
       authors:  
         - name: Shweta Bansal
@@ -282,8 +367,17 @@
       full_text_supplement: flushift_supp.pdf
       journal: PLoS One
       citation: "5(2): e9360, 2010"
-- year: 2007
-  publications:
+        - title: Exploring biological network structure with clustered random networks
+      authors:
+        - name: Shweta Bansal
+          lab: 1
+        - name: Shashank Khandelwal
+        - name: Lauren Ancel Meyers
+      link: http://www.biomedcentral.com/1471-2105/10/405
+      full_text_article: clust.pdf
+      full_text_supplement: clust_suppl.pdf
+      journal: BMC Bioinformatics
+      citation: Vol 10 (405), 2009
     - title: "When individual behavior matters: homogeneous and network models in epidemiology"
       authors:
         - name: Shweta Bansal
@@ -296,19 +390,8 @@
       journal: Journal of the Royal Society Interface
       citation: Vol 4 (16), 2007
 - year: 2006 
-  publications:  
-    - title: "A comparative analysis of influenza vaccination programs"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Babak Pourbohloul
-        - name: Lauren Ancel Meyers
-      link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
-      full_text_article: flu.pdf
-      full_text_supplement: supplement.pdf
-      journal: PLoS Medicine
-      citation: Vol 3 (10), 2006
-    - title: "Network fraility and the geometry of herd immunity"
+  publications:
+      - title: "Network fraility and the geometry of herd immunity"
       authors:
         - name: Matthew Ferrari
         - name: Shweta Bansal
@@ -320,3 +403,14 @@
       full_text_supplement: frailty_supp.pdf
       journal: Proc R Soc Lond B Bio Sci
       citation: Vol 273(1602), 2006
+    - title: "A comparative analysis of influenza vaccination programs"
+      authors:
+        - name: Shweta Bansal
+          lab: 1
+        - name: Babak Pourbohloul
+        - name: Lauren Ancel Meyers
+      link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
+      full_text_article: flu.pdf
+      full_text_supplement: supplement.pdf
+      journal: PLoS Medicine
+      citation: Vol 3 (10), 2006
