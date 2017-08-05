@@ -53,7 +53,7 @@
       link: "https://doi.org/10.1101/112680"
 - year: 2017
   publications:
-    - title: Unraveling the disease consequence and mechanisms of modular structure in animal social networks
+    - title: "Unraveling the disease consequence and mechanisms of modular structure in animal social networks"
       authors:
         - name: Pratha Sah
           lab: 1
@@ -62,7 +62,7 @@
         - name: Peter Hudson
         - name: Shweta Bansal
           lab: 1
-      link: http://dx.doi.org/10.1073/pnas.1613616114
+      link: "http://dx.doi.org/10.1073/pnas.1613616114"
       full_text_article: Sah_PNAS.pdf
       journal: Proceedings of the National Academy of Sciences
       citation: 114(16), 2017
@@ -96,7 +96,7 @@
       citation: "doi: 10.1093/infdis/jiw642"
 - year: 2016
   publications:
-    - title: Big data for infectious disease surveillance and modeling
+    - title: "Big data for infectious disease surveillance and modeling"
       authors:
         - name: Shweta Bansal
           lab: 1
@@ -216,7 +216,7 @@
       full_text_supplement: quevillon_supp.pdf
       journal: Scientific Reports
       citation: 5, 13393, 2015
-    - title: Modeling infectious disease dynamics in the complex landscape of global health
+    - title: "Modeling infectious disease dynamics in the complex landscape of global health"
       authors:
         - name: Hans Heesterbeek
         - name: Roy Anderson
@@ -314,7 +314,7 @@
       full_text_article: translocation_aiello.pdf
       journal: Animal Conservation
       citation: 2014
-    - title:  Exploring community structure in biological networks with random graphs
+    - title:  "Exploring community structure in biological networks with random graphs"
       authors:
         - name: Pratha Sah
           lab: 1
@@ -411,7 +411,7 @@
       full_text_supplement: flushift_supp.pdf
       journal: PLoS One
       citation: "5(2): e9360, 2010"
-        - title: Exploring biological network structure with clustered random networks
+        - title: "Exploring biological network structure with clustered random networks"
       authors:
         - name: Shweta Bansal
           lab: 1
