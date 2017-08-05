@@ -244,7 +244,7 @@
       link:  https://doi.org/10.1126/science.aaa4339
       full_text_article: science_heesterbeek.pdf
       journal: Science
-      citation: 347(6227), 2015
+      citation: "347(6227), 2015"
     - title: "Nine challenges in incorporating the dynamics of behaviour in infectious diseases models"
       authors:
         - name: Sebastian Funk
@@ -433,8 +433,6 @@
       full_text_supplement: i_supplement.pdf
       journal: Journal of the Royal Society Interface
       citation: 4(16), 2007
-- year: 2006 
-  publications:
     - title: "Network fraility and the geometry of herd immunity"
       authors:
         - name: Matthew Ferrari
