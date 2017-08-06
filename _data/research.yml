@@ -1,10 +1,10 @@
 - topic: "Human infections: towards a mechanistic understanding and control"
   tag: human
   questions:
-      - question: "How do school closings and travel affect influenza dynamics?"
-        publications:
+    - question: "How do school closings and travel affect influenza dynamics?"
+      publications:
         - title: "Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States"
-        authors:
+          authors:
           - name: Anne Ewing
             lab: 1
           - name: Elizabeth Lee
@@ -12,9 +12,9 @@
           - name: Cecile Viboud
           - name: Shweta Bansal
             lab: 1
-        link: https://doi.org/10.1093/infdis/jiw642
-        journal: Journal of Infectious Diseases
-        citation: "215(5), pg 732-739, 2017"
+          link: https://doi.org/10.1093/infdis/jiw642
+          journal: Journal of Infectious Diseases
+          citation: "215(5), pg 732-739, 2017"
     - question: Detecting population-scale influenza severity
       publications:
       - title: "Detecting signals of seasonal influenza severity through age dynamics"
