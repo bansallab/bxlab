@@ -43,14 +43,14 @@
         - name: Cecile Viboud
         - name: Shweta Bansal
           lab: 1
-      link: "https://doi.org/10.1101/106633"
+      link: "https://doi.org/10.1101/112680"
     - title: Livestock market data for modeling disease spread among US cattle 
       authors:
         - name: Ian Carroll
           lab: 1
         - name: Shweta Bansal
           lab: 1
-      link: "https://doi.org/10.1101/112680"
+      link: "https://doi.org/10.1101/021980"
 - year: 2017
   publications:
     - title: "Unraveling the disease consequence and mechanisms of modular structure in animal social networks"
@@ -122,7 +122,7 @@
       link: https://doi.org/10.1093/infdis/jiw344
       full_text_article: jid_scales.pdf
       journal: Journal of Infectious Diseases
-      citation: Vol 214(S4), pg S409-S413, 2016
+      citation: 214(S4), pg S409-S413, 2016
     - title: "Mathematical models to characterize early epidemic growth: A Review"
       authors:
         - name: Gerardo Chowell
