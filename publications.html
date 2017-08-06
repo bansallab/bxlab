@@ -12,7 +12,7 @@ title: publications
 
       {% for paper in yearpubs.publications %}
         <p>
-        <span class="publication-name" style="white-space:nowrap">
+        <span class="publication-name" style="white-space:normal">
         {% if paper.full_text_article %}
           <a href="{{ site.github.url}}/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
         {% elsif paper.link %}
