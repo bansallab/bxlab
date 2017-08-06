@@ -20,7 +20,15 @@ title: research
       of network science.</p>
     </div>
     <div class="usa-width-one-third award-details">
-      <p class="support"> We gratefully acknowledge support from: </p>
+      <p class="support"> <b>Support</b> </p>
+      <ul>
+        {% for supporter in site.data.supporters %}
+          <li class="supporter">{{ supporter.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="usa-width-one-third award-details">
+      <p class="support"> <b>Support 2</b> </p>
       <ul>
         {% for supporter in site.data.supporters %}
           <li class="supporter">{{ supporter.name }}</li>
