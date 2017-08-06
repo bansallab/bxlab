@@ -1,9 +1,13 @@
+- person: Jose Mendez
+  award: Fulbright Scholarship
+  month: April
+  year: 2017
 - person: Pratha Sah
   award: Outstanding Graduate Student, Biology Department
   month: January
   year: 2017
 - person: Elizabeth Lee
-  award: Outstanding Student Abstract award from ISDS
+  award: Outstanding Student Abstract Award from the International Society for Disease Surveillance
   month: December
   year: 2016
 - person: Stephan Lau
@@ -11,15 +15,15 @@
   month: October
   year: 2016
 - person: Sandra Goldlust
-  award: New Voices in Global Health award
+  award: New Voices in Global Health Award
   month: October
   year: 2016
 - person: Pratha Sah
-  award: Semi-finalist for Journal of Animal Ecology Early Career award
+  award: Semi-finalist for Journal of Animal Prize for Early Ecologists
   month: September
   year: 2016
 - person: Pratha Sah
-  award: PLoS Early Career Travel Awards
+  award: PLoS Early Career Travel Award
   month: July
   year: 2016
 - person: Madison Pachoe
@@ -67,7 +71,7 @@
   month: May
   year: 2014
 - person: Sarah Kramer
-  award: Fulbright fellowship to continue work on HIV Dynamics
+  award: Fulbright Scholarship to continue work on HIV Dynamics
   month: April 
   year: 2014
 - person: Pratha Sah
@@ -80,5 +84,9 @@
   year: 2013
 - person: Shweta Bansal
   award: Participated in the Infectious Disease Dynamics Programme at Newton Institute
+  month: May
+  year: 2013
+- person: Eric Mooring
+  award: Churchill Scholarship to study at Cambridge University
   month: May
   year: 2013
