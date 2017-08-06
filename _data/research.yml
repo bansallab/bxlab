@@ -2,6 +2,7 @@
   tag: human
   questions:
       - question: "How do school closings and travel affect influenza dynamics?":
+        publications:
         - title: "Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States"
         authors:
           - name: Anne Ewing
