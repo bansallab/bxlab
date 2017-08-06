@@ -9,7 +9,7 @@ title: people
   <h1 class="bxheader">Alumni</h1>
   <div class="usa-width-one-whole">
 
-{% for alumn in site.data.alumni %}
+{% for alumn in site.data.alumni reversed %}
   {% assign index_mod = forloop.index0 | modulo:3 %}
 
   {% if index_mod == 0 %}
