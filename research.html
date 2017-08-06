@@ -96,78 +96,7 @@ title: research
     src="{{ site.github.url }}/img/research/tortoise-oral-swab.jpg"
     alt="Desert tortoise oral swab">
  </div>
-</div>
-  
-  
-<!--Trying out something complicated to get photos in the right place-->
-  {% for topic in site.data.research %}
-
-  <div class="usa-width-two-thirds">
-
-    <h3 class="topic-header">{{topic.topic}}</h3>
-
-    <ul class="usa-accordion-bordered research-accordion"> 
-    {% for question in topic.questions %}
-      <li>
-        <button 
-          class="usa-accordion-button shashank-weight"
-          aria-expanded="false" aria-controls="{{topic.tag}}-{{forloop.index}}">
-          {{question.question}}
-        </button>
-        <div id="{{topic.tag}}-{{forloop.index}}" class="usa-accordion-content">
-          {% for paper in question.publications %}
-            <span class="publication-name">
-            {% if paper.full_text_article %}
-              <a href="{{ site.github.url}}/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
-            {% elsif paper.link %}
-              <a href="{{paper.link}}">{{ paper.title }}</a>
-            {% else %}
-              {{ paper.title }}
-            {% endif %}
-            <br />
-            <span class="publication-author">
-            {% for author in paper.authors %}
-              {% if forloop.last %}
-                {% if author.lab %}<span class="publication-author-lab">{% endif %}
-                  {{ author.name }}
-                {% if author.lab %}</span>{% endif %}
-              {% else %}
-                {% if author.lab %}<span class="publication-author-lab">{% else %}{% endif %}
-                  {{ author.name }},
-                {% if author.lab %}</span>{% endif %}
-              {% endif %}
-            {% endfor %} <br>
-            {% if paper.journal %}
-            <span class="publications-journal">{{paper.journal}}</span>,
-            <span class="publications-citation"><a href=" {{paper.link}} ">{{paper.citation}}</a></span>
-            {% endif %}
-
-        </span>
-        <br/>
-
-        </span>
-
-          {% endfor %}
-        </div>
-      </li>
-    {% endfor %}
-    </ul>
- </div>
- <div class="usa-width-one-third">
-  <img 
-    src="{{ site.github.url }}/img/research/elizabeth-pratha-working.jpg"
-    alt="Elizabeth and Pratha in the lab">
-  <img  
-    src="{{ site.github.url }}/img/research/tortoise-oral-swab.jpg"
-    alt="Desert tortoise oral swab">
- </div>
- {% endfor %}
-
-
-
-<!-- end of trial-->
-  
-  
+  </div> 
   
 </div>
 </div>
