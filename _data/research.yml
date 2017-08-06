@@ -86,7 +86,7 @@
         citation: "5(2), 2010"
     - question: Comparative analysis of influenza vaccination
       publications:
-    -   title: "A comparative analysis of influenza vaccination programs"
+      - title: "A comparative analysis of influenza vaccination programs"
         authors:
           - name: Shweta Bansal
             lab: 1
