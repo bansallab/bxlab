@@ -6,6 +6,27 @@ title: people
 <section class="usa-section">
 
 <div class="usa-grid award-grid">
+  
+  <!-- start trial -->
+    <h1 class="bxheader"> The Group </h1>
+   <div class="usa-width-two-thirds">
+      <img class="shashank-people-image" src="{{site.github.url}}/img/people/lab-at-four-years.jpg"> 
+  </div>
+
+    <div class="usa-width-one-third award-details">
+  <h2 class="awardhonors">Awards &amp; Honors</h2>
+  {% for awarded in site.data.awards limit:4 %}
+    <p class="short">
+    <span class="award">{{ awarded.award }}</span> <br />
+    <span class="awardee">{{ awarded.person }}</span> - <span class="awarddate">{{ awarded.month }}, {{ awarded.year }}</span>
+    </p>
+  {% endfor %}
+  <p class="corner"><i class="fa fa-trophy" aria-hidden="true"></i> <a
+  href="awards.html">more ...</a> </p>
+  </div>
+  
+ <!-- end trial-->
+  
   <h1 class="bxheader"> Lab Members </h1>
   <div class="usa-width-one-third">
   <h3>Shweta Bansal</h3>
