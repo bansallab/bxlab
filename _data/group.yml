@@ -1,24 +1,10 @@
-- name: Ewan Colman
-  image: ewan.jpg
-  position: Postdoctoral Researcher
-  email: ec975 'at' georgetown.edu
-  web: 
+- name: Colin Carlson
+  image: colin.jpg
+  position: Georgetown-SESYNC Postdoctoral Researcher
+  email: 
+  web:
   office: Regents 512
-
-- name: Elizabeth Lee
-  image: elee.jpg
-  position: PhD student in Global Infectious Diseases
-  email: ecl48 'at' georgetown.edu
-  web: elizabethclee.wordpress.com
-  office: Regents 561
-
-- name: Pratha Sah
-  image: pratha_sah.jpg
-  position: PhD student in Biology
-  email: ps875 'at' georgetown.edu
-  web: https://prathasah.github.io/
-  office: Regents 561
-
+  
 - name: Casey Zipfel
   image: casey.jpg
   position: PhD student in Biology
@@ -29,35 +15,7 @@
 - name: Joan Reger
   image: joan.png
   position: PhD student in Biology
-  email:
-  web:
-  office: Regents 561
-
-- name: Kristofer Muzzi
-  image: kristofer.jpg
-  position: Undergraduate Research Assistant
-  email: kpm67 'at' georgetown.edu
-  web:
-  office: Regents 561
-
-- name: Daniel Fields
-  image: daniel.jpg
-  position: Undergraduate Research Assistant
-  email: dmf61 'at' georgetown.edu
-  web:
-  office: Regents 561
-  
-- name: Elise Hoy
-  image: elise.jpg
-  position: Undergraduate Research Assistant
-  email: eeh58 'at' georgetown.edu
-  web:
-  office: Regents 561
-  
-- name: Elly Meng
-  image: elly.jpg
-  position: Undergraduate Research Assistant
-  email: sm3008 'at' georgetown.edu
+  email: jfr59 'at' georgetown.edu
   web:
   office: Regents 561
 
@@ -68,9 +26,9 @@
   web:
   office: Regents 561
   
-- name: Christian Boxley
-  image: christian.jpg
+- name: Zack Susswein
+  image: zach.jpeg
   position: Undergraduate Research Assistant
-  email: clb246 'at' georgetown.edu
+  email: zps9 'at' georgetown.edu
   web:
   office: Regents 561
