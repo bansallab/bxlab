@@ -1,15 +1,15 @@
 - name: Colin Carlson
   image: colin.jpg
   position: Georgetown-SESYNC Postdoctoral Researcher
-  email: 
-  web:
+  email: ccarlson 'at' sesync.org
+  web: <a href = "https://scholar.google.com/citations?user=yHMUc0kAAAAJ">Google Scholar page</a>
   office: Regents 512
   
 - name: Casey Zipfel
   image: casey.jpg
   position: PhD student in Biology
   email: cmz27 'at' georgetown.edu
-  web:
+  web: @@casey_zipfel
   office: Regents 561
   
 - name: Joan Reger
