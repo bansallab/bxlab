@@ -2,7 +2,7 @@
   image: colin.jpg
   position: Georgetown-SESYNC Postdoctoral Researcher
   email: ccarlson 'at' sesync.org
-  web: <a href="https://scholar.google.com/citations?user=yHMUc0kAAAAJ">Google Scholar page</a>
+  web: "https://scholar.google.com/citations?user=yHMUc0kAAAAJ"
   office: Regents 512
   
 - name: Casey Zipfel
