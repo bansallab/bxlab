@@ -23,16 +23,6 @@
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/169573"
-    - title: "Disease implications of animal social organization and network structure - a quantitative analysis"
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Jose Mendez
-          lab: 1
-        - name: Janet Mann
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/106633"
     - title: "Socio-environmental and measurement factors drive spatial variation in influenza-like illness"
       authors:
         - name: Elizabeth Lee
@@ -51,6 +41,19 @@
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/021980"
+- year: 2018
+  publications:
+    - title: "Disease implications of animal social network structure: A synthesis across social systems"
+      authors:
+        - name: Pratha Sah
+          lab: 1
+        - name: Janet Mann
+        - name: Shweta Bansal
+          lab: 1
+      link: "http://dx.doi.org/10.1111/1365-2656.12786"
+      full_text_article: Sah_JAE.pdf
+      journal: Journal of Animal Ecology
+      citation: "2018"
 - year: 2017
   publications:
     - title: "Unraveling the disease consequence and mechanisms of modular structure in animal social networks"
@@ -65,7 +68,7 @@
       link: "http://dx.doi.org/10.1073/pnas.1613616114"
       full_text_article: Sah_PNAS.pdf
       journal: Proceedings of the National Academy of Sciences
-      citation: 114(16), 2017
+      citation: "114(16), 2017"
     - title: "Data-driven models of foot-and-mouth disease dynamics: a review"
       authors:
         - name: Laura Pomeroy
