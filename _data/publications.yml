@@ -32,7 +32,7 @@
       link: "https://doi.org/10.1101/021980"
 - year: 2018
   publications:
-  - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
+    - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
       authors:
         - name: Elizabeth Lee
           lab: 1
@@ -47,7 +47,7 @@
       full_text_article: ECL_surveillance.pdf
       journal: PLoS Computational Biology
       citation: "2018"
-  - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
+    - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
       authors:
         - name: Sarah Powell
         - name: Megan Wallen
