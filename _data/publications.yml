@@ -23,17 +23,6 @@
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/169573"
-    - title: "Socio-environmental and measurement factors drive spatial variation in influenza-like illness"
-      authors:
-        - name: Elizabeth Lee
-          lab: 1
-        - name: Ali Arab
-        - name: Sandra Goldlust
-          lab: 1
-        - name: Cecile Viboud
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/112680"
     - title: Livestock market data for modeling disease spread among US cattle 
       authors:
         - name: Ian Carroll
@@ -43,6 +32,32 @@
       link: "https://doi.org/10.1101/021980"
 - year: 2018
   publications:
+  - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
+      authors:
+        - name: Elizabeth Lee
+          lab: 1
+        - name: Ali Arab
+        - name: Sandra Goldlust
+          lab: 1
+        - name: Cecile Viboud
+        - name: Bryan Grenfell
+        - name: Shweta Bansal
+          lab: 1
+      link: ""
+      full_text_article: ECL_surveillance.pdf
+      journal: PLoS Computational Biology
+      citation: "2018"
+  - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
+      authors:
+        - name: Sarah Powell
+        - name: Megan Wallen
+        - name: Shweta Bansal
+          lab: 1
+        - name: Janet Mann
+      link: ""
+      full_text_article: Powell_epi.pdf
+      journal: Science of the Total Environment
+      citation: "2018"
     - title: "Disease implications of animal social network structure: A synthesis across social systems"
       authors:
         - name: Pratha Sah
