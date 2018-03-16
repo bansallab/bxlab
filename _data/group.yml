@@ -9,7 +9,14 @@
   image: colin.jpg
   position: Georgetown-SESYNC Postdoctoral Researcher
   email: ccarlson 'at' sesync.org
-  web: <a href = "https://www.sesync.org/news/wed-2018-01-31-0925/sesync-welcomes-postdoctoral-fellow-colin-carlson">Profile</a>
+  web: "https://www.sesync.org/news/wed-2018-01-31-0925/sesync-welcomes-postdoctoral-fellow-colin-carlson"
+  office: Regents 512
+  
+- name: Romain Garnier
+  image: romain.jpg
+  position: Postdoctoral Researcher
+  email: rg1114 'at' georgetown.edu
+  web:
   office: Regents 512
   
 - name: Casey Zipfel
@@ -23,6 +30,13 @@
   image: joan.png
   position: PhD student in Biology
   email: jfr59 'at' georgetown.edu
+  web:
+  office: Regents 561
+  
+- name: Melissa Collier
+  image: melissa.jpg
+  position: PhD student in Biology
+  email: mac532 'at' georgetown.edu
   web:
   office: Regents 561
 
