@@ -1,4 +1,4 @@
-- year: Preprints
+- year: Recent Preprints
   publications:
     - title: Social fluidity mobilizes infectious disease in human and animal populations
       authors:
@@ -23,13 +23,6 @@
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/169573"
-    - title: Livestock market data for modeling disease spread among US cattle 
-      authors:
-        - name: Ian Carroll
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/021980"
 - year: 2018
   publications:
     - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
@@ -207,6 +200,14 @@
       journal: Epidemiology and Infection
       citation: 144(6), pg 1267-77, 2016
 - year: 2015
+  preprints:
+    - title: Livestock market data for modeling disease spread among US cattle 
+      authors:
+        - name: Ian Carroll
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/021980"
   publications:
     - title: "Detecting signals of seasonal influenza severity through age dynamics"
       authors:
