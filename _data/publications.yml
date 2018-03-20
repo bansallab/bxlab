@@ -43,8 +43,8 @@
         - name: Bryan Grenfell
         - name: Shweta Bansal
           lab: 1
-      link: ""
-      full_text_article: ECL_surveillance.pdf
+      link: "https://doi.org/10.1371/journal.pcbi.1006020"
+      full_text_article: lee_plos.pdf
       journal: PLoS Computational Biology
       citation: "2018"
     - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
@@ -54,7 +54,7 @@
         - name: Shweta Bansal
           lab: 1
         - name: Janet Mann
-      link: ""
+      link: "https://doi.org/10.1016/j.scitotenv.2018.02.202"
       full_text_article: Powell_epi.pdf
       journal: Science of the Total Environment
       citation: "2018"
