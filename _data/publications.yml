@@ -38,6 +38,7 @@
           lab: 1
       link: "https://doi.org/10.1371/journal.pcbi.1006020"
       full_text_article: lee_plos.pdf
+      full_text_supplement: lee_plos_supp.pdf
       journal: PLoS Computational Biology
       citation: "2018"
     - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
@@ -200,15 +201,15 @@
       journal: Epidemiology and Infection
       citation: 144(6), pg 1267-77, 2016
 - year: 2015
-  preprints:
-    - title: Livestock market data for modeling disease spread among US cattle 
+  publications:
+    - title: [Preprint] Livestock market data for modeling disease spread among US cattle 
       authors:
         - name: Ian Carroll
           lab: 1
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/021980"
-  publications:
+      full_text_article: carroll.pdf
     - title: "Detecting signals of seasonal influenza severity through age dynamics"
       authors:
         - name: Elizabeth Lee 
