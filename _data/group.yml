@@ -2,7 +2,7 @@
   image: chris.jpg
   position: Visiting Scholar (AAAS Fellow, USAID)
   email: leary 'at' geneseo.edu
-  web: 
+  web: www.geneseo.edu/~leary/
   office: Regents 512
 
 - name: Colin Carlson
@@ -16,14 +16,14 @@
   image: romain.jpg
   position: Postdoctoral Researcher
   email: rg1114 'at' georgetown.edu
-  web:
+  web: www.romaingarnier.com
   office: Regents 512
   
 - name: Casey Zipfel
   image: casey.jpg
   position: PhD student in Biology
   email: cmz27 'at' georgetown.edu
-  web: cmzipfel4.wixsite.com/mysite
+  web: caseyzipfel.github.io
   office: Regents 561
   
 - name: Melissa Collier
@@ -37,7 +37,7 @@
   image: grant.jpg
   position: Undergraduate Research Assistant
   email: ger38 'at' georgetown.edu
-  web:
+  web: grantrosensteel.com
   office: Regents 561
   
 - name: Zack Susswein
