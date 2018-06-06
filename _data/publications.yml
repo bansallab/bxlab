@@ -16,7 +16,7 @@
       link: "https://doi.org/10.1101/169573"
 - year: 2018
   publications:
-      - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
+    - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
       authors:
         - name: Ewan Colman
           lab: 1
