@@ -1,4 +1,4 @@
-- year: Recent Preprints
+- year: In Review
   publications:
     - title: Social fluidity mobilizes infectious disease in human and animal populations
       authors:
@@ -7,15 +7,6 @@
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/170266"
-    - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
-      authors:
-        - name: Ewan Colman
-          lab: 1
-        - name: Kristen Spies
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://arxiv.org/abs/1707.08252"
     - title: Identifying the dynamic contact network of infectious disease spread
       authors:
         - name: Pratha Sah
@@ -25,6 +16,18 @@
       link: "https://doi.org/10.1101/169573"
 - year: 2018
   publications:
+      - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
+      authors:
+        - name: Ewan Colman
+          lab: 1
+        - name: Kristen Spies
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1186/s12879-018-3117-6"
+      full_text_article: Colman_Spies.pdf
+      journal: BMC Infectious Diseases
+      citation: "18:219, 2018"
     - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
       authors:
         - name: Elizabeth Lee
