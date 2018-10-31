@@ -1,10 +1,3 @@
-- name: Chris Leary
-  image: chris.jpg
-  position: Visiting Scholar (AAAS Fellow, USAID)
-  email: leary 'at' geneseo.edu
-  web: www.geneseo.edu/~leary/
-  office: Regents 512
-
 - name: Colin Carlson
   image: colin.jpg
   position: Georgetown-SESYNC Postdoctoral Researcher
@@ -32,6 +25,13 @@
   email: mac532 'at' georgetown.edu
   web:
   office: Regents 561
+  
+- name: Michael Chambers
+  image: mchambers.jpg
+  position: GU-NIH PhD student in Microbiology & Immunology
+  email: mjc346 'at' georgetown.edu
+  web: https://scholar.google.com/citations?user=viFbZYIAAAAJ&hl=en
+  office: Regents 561
 
 - name: Grant Rosensteel
   image: grant.jpg
@@ -58,5 +58,12 @@
   image: katie.jpg
   position: Undergraduate Research Assistant
   email: cgs65 'at' georgetown.edu
+  web:
+  office: Regents 561
+  
+- name: Nataliyah Tahir
+  image: nat.jpg
+  position: Undergraduate Research Assistant
+  email: nt382 'at' georgetown.edu
   web:
   office: Regents 561
