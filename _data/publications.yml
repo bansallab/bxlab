@@ -1,5 +1,24 @@
 - year: In Review
   publications:
+    - title: Feeding the disparities: the geography and trends of breastfeeding in the United States
+      authors:
+        - name: Romain Garnier
+          lab: 1
+        - name: Ana Bento
+        - name: Pejman Rohani
+        - name: Saad Omer
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/451435"
+    - title: A multi-species repository of social networks
+      authors:
+        - name: Pratha Sah
+          lab: 1
+        - name: Jose Mendez
+          lab: 1
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1101/464271"
     - title: Social fluidity mobilizes infectious disease in human and animal populations
       authors:
         - name: Ewan Colman
@@ -16,6 +35,22 @@
       link: "https://doi.org/10.1101/169573"
 - year: 2018
   publications:
+    - title: "Spatiotemporal Patterns and Diffusion of the 1918 Influenza Pandemic in British India"
+      authors:
+        - name: Olivia Reyes
+          lab: 1
+        - name: Elizabeth Lee
+          lab: 1
+        - name: Pratha Sah
+          lab: 1
+        - name: Cecile Viboud
+        - name: Siddharth Chandra
+        - name: Shweta Bansal
+          lab: 1
+      link: "https://doi.org/10.1093/aje/kwy209"
+      full_text_article: aje_2018.pdf
+      journal: American Journal of Epidemiology
+      citation: "187:12, 2018"
     - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
       authors:
         - name: Ewan Colman
