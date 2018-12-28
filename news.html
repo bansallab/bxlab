@@ -5,7 +5,7 @@ title: news
 
 <section class="usa-section">
   <div class="usa-grid">
-    <div class="usa-width-one-whole">
+    <div class="usa-width-two-thirds">
       <h1 class="bxheader">News</h1>
 
       <div class="usa-grid-full">
@@ -33,50 +33,3 @@ title: news
     
     </div>
 </section>
-
-<section class="press usa-section background-gray">
-  <div class="usa-grid">
-    <div class="usa-width-one-whole">
-      <h2>Press</h2>
-
-      {% for ni in site.data.press %}
-        {% assign index_mod = forloop.index0 | modulo:3  %}
-
-        {% if index_mod == 0 %}
-          <div class="usa-grid-full">
-        {% endif %}
-          
-         <div class="story usa-width-one-third">
-          <a href="{{ni.link}}">{{ ni.title }}</a>
-          <span class="author">{{ ni.author }}</span>
-        </div>
-
-        {% if index_mod == 2 %}
-          </div>
-        {% elsif forloop.last %}
-          </div>
-        {% endif %}
-      {% endfor %}
-
-    </div>
-  <div>
-</section>
-
-<section class="usa-section">
-  <div class="usa-grid">
-    <div class="usa-width-two-thirds">
-    <h2>Outreach</h2>
-      <iframe width="280" height="158"
-        src="https://www.youtube.com/embed/wIgtIWTOi9k?list=PLjnGdo9K7edGXytSpYv_FGZL9DFFsKOSH"
-        frameborder="0" allowfullscreen>
-      </iframe>
-      <p>Shweta Bansal recorded four short videos on myths about the flu for the
-      Georgetown University community.</p>
-    </div>
-    <!-- Start twitter stream-->
-    <div class="usa-width-one-third">  
-            <a class="twitter-timeline"  href="https://twitter.com/bansallab" data-widget-id="349536606765604864">Tweets by @bansallab</a>
-            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-    </div>
-    <!-- End twitter stream-->
-  </div>
