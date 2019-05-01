@@ -17,17 +17,17 @@
 - year: 2019
   publications:
     - title: A multi-species repository of social networks
-          authors:
+      authors:
             - name: Pratha Sah
               lab: 1
             - name: Jos&eacute; David Mendez
               lab: 1
             - name: Shweta Bansal
               lab: 1
-          link: "https://www.nature.com/articles/s41597-019-0056-z"
-          full_text_article: asnr_scidata.pdf
-          journal: Scientific Data
-          citation: "6:44, 2019"
+      link: "https://www.nature.com/articles/s41597-019-0056-z"
+      full_text_article: asnr_scidata.pdf
+      journal: Scientific Data
+      citation: "6:44, 2019"
 - year: 2018
   publications:
     - title: Feeding the disparities-- the geography and trends of breastfeeding in the United States
