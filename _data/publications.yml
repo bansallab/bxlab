@@ -16,6 +16,24 @@
       link: "https://doi.org/10.1101/169573"
 - year: 2019
   publications:
+    - title: Ant colonies maintain social homeostasis in the face of decreased density
+      authors:
+            - name: Andreas P Modlmeier
+              lab: 
+            - name: Ewan Colman
+              lab: 1
+            - name: Ephraim M Hanks
+              lab:             
+            - name: Ryan Bringenberg
+              lab:             
+            - name: Shweta Bansal
+              lab: 1
+            - name: David Hughes
+              lab: 
+      link: "https://elifesciences.org/articles/38473"
+      full_text_article: Modlmeier_2019.pdf
+      journal: eLife
+      citation: "8:e38473, 2019"
     - title: A multi-species repository of social networks
       authors:
             - name: Pratha Sah
