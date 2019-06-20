@@ -16,6 +16,20 @@
       link: "https://doi.org/10.1101/169573"
 - year: 2019
   publications:
+    - title: Global estimates of mammalian viral diversity accounting for host sharing
+      authors:
+            - name: Colin Carlson
+              lab: 1
+            - name: Casey Zipfel
+              lab: 1
+            - name: Romain Garnier
+              lab: 1                  
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1038/s41559-019-0910-6"
+      full_text_article: Carlson_NEE_2019.pdf
+      journal: Nature Ecology & Evolution
+      citation: "DOI: 10.1038/s41559-019-0910-6, 2019"
     - title: Ant colonies maintain social homeostasis in the face of decreased density
       authors:
             - name: Andreas P Modlmeier
