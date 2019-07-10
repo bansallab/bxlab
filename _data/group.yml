@@ -12,6 +12,20 @@
   web: www.romaingarnier.com
   office: Regents 512
   
+- name: Lucila Alvarez-Zuzek
+  image: lucila.jpg
+  position: Postdoctoral Researcher
+  email: la766 'at' georgetown.edu
+  web: www.bansallab.com/lucila.html
+  office: Regents 561
+  
+- name: Greg Albery
+  image: greg.jpg
+  position: Postdoctoral Researcher
+  email: 'at' georgetown.edu
+  web: www.bansallab.com/greg.html
+  office: Regents 561
+  
 - name: Casey Zipfel
   image: casey.jpg
   position: PhD student in Biology
@@ -25,17 +39,10 @@
   email: mac532 'at' georgetown.edu
   web:
   office: Regents 561
-  
-- name: Michael Chambers
-  image: mchambers.jpg
-  position: GU-NIH PhD student in Microbiology & Immunology
-  email: mjc346 'at' georgetown.edu
-  web: goo.gl/NLTKRT
-  office: Regents 561
 
 - name: Grant Rosensteel
   image: grant.jpg
-  position: Undergraduate Research Assistant
+  position: Research Associate
   email: ger38 'at' georgetown.edu
   web: grantrosensteel.com
   office: Regents 561
@@ -58,5 +65,26 @@
   image: katie.jpg
   position: Undergraduate Research Assistant
   email: cgs65 'at' georgetown.edu
+  web:
+  office: Regents 561
+  
+- name: Nataliyah Tahir
+  image: nat.jpg
+  position: Undergraduate Research Assistant
+  email: nt382 'at' georgetown.edu
+  web:
+  office: Regents 561
+  
+- name: Madeline Kuney
+  image: madeline.jpg
+  position: Undergraduate Research Assistant
+  email: mck84 'at' georgetown.edu
+  web:
+  office: Regents 561
+  
+- name: Andrew Tiu
+  image: andrew.jpg
+  position: Undergraduate Research Assistant
+  email: mt1229 'at' georgetown.edu
   web:
   office: Regents 561
