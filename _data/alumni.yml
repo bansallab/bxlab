@@ -28,10 +28,10 @@
   
 - name: Mona Hussein
   degree:  M.S. in Mathematics and Statistics
-  current: Center on Budget and Policy Priorities, Washington DC
+  previous: Center on Budget and Policy Priorities, Washington DC
   
 - name: Sandra Goldlust
-  degree: Research Associate
+  degree: M.S. in Biohazardous Threat Agents & Emerging Infectious Diseases
   current: MD student (Infectious Diseases) at New York University
   
 - name: Eric Mooring
@@ -50,7 +50,8 @@
 
 - name: Madeline Campbell
   degree: B.S. in Biology of Global Health & Mathematics
-  current: Data Analyst at Institute for Health Metrics and Evaluation
+  previous: Data Analyst at Institute for Health Metrics and Evaluation
+  current: Data Scientist (industry)
 
 - name: Anne Ewing
   degree: B.S. in Biology of Global Health
@@ -59,7 +60,7 @@
 - name: Madison Pachoe
   degree: B.S. in Biology of Global Health
   previous: CDC Public Health Associate at Alaska Department of Health
-  current: Doctorate student at Columbia University School of Medicine
+  current: Doctorate student at Columbia University School of Nursing
   
 - name: Jose Mendez
   degree: B.S. in Biology of Global Health
