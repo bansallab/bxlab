@@ -1,11 +1,43 @@
-- name: Eric Mooring
-  degree: B.S. Environmental Biology
-  previous: Churchill Scholar at Cambridge University 
-  current: ScD student in Epidemiology at Harvard School of Public Health
+- name: Eamon O'Dea
+  degree: Postdoctoral Researcher
+  current: Postdoctoral Researcher at University of Georgia, Athens
+  
+- name: Deepa Pindolia
+  degree: Visiting Postdoctoral Scholar
+  current: Clinton Health Access Initiative (CHAI)
 
+- name: Ian Carroll
+  degree: Postdoctoral Scholar
+  current: Data Science Instructor at National Socio-environmental Synthesis Center
+  
+- name: Stephan Leu
+  degree: Endeavour Postdoctoral Fellow
+  current: DECRA Fellow at Macquarie University
+  
+- name: Ewan Colman
+  degree: Postdoctoral Researcher
+  current: Postdoctoral Researcher at University of Edinburgh
+  
+- name: Pratha Sah
+  degree: PhD in Biology
+  current: Postdoctoral Researcher at Yale School of Public Health
+  
+- name: Elizabeth Lee
+  degree: PhD in Global Infectious Diseases
+  current: Postdoctoral Researcher at Johns Hopkins School of Public Health
+  
 - name: Mona Hussein
   degree:  M.S. in Mathematics and Statistics
   current: Center on Budget and Policy Priorities, Washington DC
+  
+- name: Sandra Goldlust
+  degree: Research Associate
+  current: MD student (Infectious Diseases) at New York University
+  
+- name: Eric Mooring
+  degree: B.S. Environmental Biology
+  previous: Churchill Scholar at Cambridge University, ScD student in Epidemiology at Harvard School of Public Health
+  current: CDC Epidemic Intelligence Service Officer
 
 - name: Sarah Kramer
   degree: B.S. in Biology of Global Health
@@ -15,14 +47,6 @@
 - name: David Schaffer
   degree: B.S. in Biology of Global Health
   current: MPH/MD student at UNC School of Medicine
-
-- name: Deepa Pindolia
-  degree: Visiting Postdoctoral Scholar
-  current: Clinton Health Access Initiative (CHAI)
-
-- name: Eamon O'Dea
-  degree: Postdoctoral Researcher
-  current: Postdoctoral Researcher at University of Georgia, Athens
 
 - name: Madeline Campbell
   degree: B.S. in Biology of Global Health & Mathematics
@@ -34,32 +58,15 @@
 
 - name: Madison Pachoe
   degree: B.S. in Biology of Global Health
-  current: CDC Public Health Associate at Alaska Department of Health
-
-- name: Ian Carroll
-  degree: Postdoctoral Scholar
-  current: Data Science Instructor at National Socio-environmental Synthesis Center
-  
-- name: Stephan Leu
-  degree: Endeavour Postdoctoral Fellow
-  current: DECRA Fellow at Macquarie University
-  
-- name: Sandra Goldlust
-  degree: Research Associate
-  current: MD student (Infectious Diseases) at New York University
+  previous: CDC Public Health Associate at Alaska Department of Health
+  current: Doctorate student at Columbia University School of Medicine
   
 - name: Jose Mendez
   degree: B.S. in Biology of Global Health
-  current: Fulbright Scholar at OUCRU Vietnam
+  previous: Fulbright Scholar at OUCRU Vietnam
+  current: MD student at University of Puerto Rico
   
-- name: Ewan Colman
-  degree: Postdoctoral Researcher
-  current: Postdoctoral Researcher at UNAM, Mexico City
-
-- name: Pratha Sah
-  degree: PhD in Biology
-  current: Postdoctoral Researcher at Yale School of Public Health
-  
-- name: Elizabeth Lee
-  degree: PhD in Global Infectious Diseases
-  current: Postdoctoral Researcher at Johns Hopkins School of Public Health
+- name: Olivia Reyes
+  degree: B.S. in Biology of Global Health
+  previous: Healthcare marketing data analyst (industry)
+  current: MD student at Hofstra University
