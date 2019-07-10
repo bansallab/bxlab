@@ -16,14 +16,14 @@
   image: lucila.jpg
   position: Postdoctoral Researcher
   email: la766 'at' georgetown.edu
-  web: www.bansallab.com/lucila.html
+  web: "www.bansallab.com/lucila.html"
   office: Regents 561
   
 - name: Greg Albery
   image: greg.jpg
   position: Postdoctoral Researcher
   email: 'at' georgetown.edu
-  web: www.bansallab.com/greg.html
+  web: "www.bansallab.com/greg.html"
   office: Regents 561
   
 - name: Casey Zipfel
@@ -69,21 +69,21 @@
   office: Regents 561
   
 - name: Nataliyah Tahir
-  image: nat.jpg
+  image: 
   position: Undergraduate Research Assistant
   email: nt382 'at' georgetown.edu
   web:
   office: Regents 561
   
 - name: Madeline Kuney
-  image: madeline.jpg
+  image: 
   position: Undergraduate Research Assistant
   email: mck84 'at' georgetown.edu
   web:
   office: Regents 561
   
 - name: Andrew Tiu
-  image: andrew.jpg
+  image: 
   position: Undergraduate Research Assistant
   email: mt1229 'at' georgetown.edu
   web:
