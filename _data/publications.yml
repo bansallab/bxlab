@@ -1,21 +1,37 @@
-- year: In Review
+- year: 2020
   publications:
-    - title: Social fluidity mobilizes infectious disease in human and animal populations
+    - title: Sex, synchrony, and skin contact: integrating multiple behaviors to assess pathogen transmission risk
       authors:
-        - name: Ewan Colman
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/170266"
-    - title: Identifying the dynamic contact network of infectious disease spread
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/169573"
+            - name: Stephan Leu
+              lab: 1
+            - name: Pratha Sah
+              lab: 1
+            - name: Ewa Krzyszczyk
+            - name: Anni Jacoby
+            - name: Janet Mann
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1093/beheco/araa002"
+      full_text_article: Leu_2020.pdf
+      journal: Behavioral Ecology
+      citation: "DOI: 10.1093/beheco/araa002, 2020"
 - year: 2019
   publications:
+    - title: Sociality and tattoo skin disease among bottlenose dolphins in Shark Bay, Australia
+      authors:
+            - name: Sarah Powell
+              lab: 1
+            - name: Megan Wallen
+            - name: Madison Miketa
+            - name: Ewa Krzyszczyk
+            - name: Vivienne Foroughirad
+            - name: Shweta Bansal
+              lab: 1
+            - name: Janet Mann
+      link: "https://doi.org/10.1093/beheco/arz207"
+      full_text_article: Powell_2020.pdf
+      journal: Behavioral Ecology
+      citation: "DOI: 10.1093/beheco/arz207, 2019"
     - title: Global estimates of mammalian viral diversity accounting for host sharing
       authors:
             - name: Colin Carlson
@@ -160,7 +176,6 @@
         - name: Shweta Bansal
           lab: 1
         - name: Mike Tildesley
-          lab: 1
         - name: Karla Moreon-Torres
         - name: Mark Moritz
         - name: Ningchuan Xiao
