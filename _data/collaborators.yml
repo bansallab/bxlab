@@ -1,9 +1,8 @@
-- name: Rohani Lab, University of Georgia
-- name: Haran Lab, Penn State University
-- name: Hudson Lab, Penn State University
-- name: Hughes Lab, Penn State University
-- name: Hanks Lab, Penn State University
 - name: Mann Lab, Georgetown
 - name: Colizza Lab, INSERM
-- name: Viboud Lab, NIH
-- name: Grenfell Lab, Princeton
+- name: Rohani Lab, University of Georgia
+- name: Haran Lab, Penn State University
+- name: Lakdawala Lab, University of Pittsburgh
+- name: Hughes Lab, Penn State University
+- name: Hanks Lab, Penn State University
+- name: Clarke Lab, Georgetown
