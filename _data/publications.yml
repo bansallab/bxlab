@@ -1,5 +1,18 @@
 - year: 2020
   publications:
+    - title: Getting personal: how childhood vaccination policies shape the landscape of vaccine exemptions
+      authors:
+            - name: Romain Garnier
+              lab: 1
+            - name: Emma Nedell
+              lab: 1
+            - name: Saad Omer
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1093/ofid/ofaa088"
+      full_text_article: Garnier_NME.pdf
+      journal: Open Forum Infectious Diseases
+      citation: "DOI: 10.1093/ofid/ofaa088, 2020"
     - title: Sex, synchrony, and skin contact: integrating multiple behaviors to assess pathogen transmission risk
       authors:
             - name: Stephan Leu
