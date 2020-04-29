@@ -1,3 +1,58 @@
+- year: Preprints
+  publications:
+    - title: Assessing the interactions between COVID-19 and influenza in the United States
+      authors:
+            - name: Casey Zipfel
+              lab: 1
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1101/2020.03.30.20047993"
+      full_text_article: ZipfelCOVIDFlu.pdf
+      journal: medRxiv
+      citation: "DOI: 10.1101/2020.03.30.20047993, 2020"
+    - title: Health inequities in influenza transmission and surveillance
+      authors:
+            - name: Casey Zipfel
+              lab: 1
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1101/2020.03.30.20048017"
+      full_text_article: ZipfelSES.pdf
+      journal: medRxiv
+      citation: "DOI: 10.1101/2020.03.30.20048017, 2020"
+    - title: Climate change will drive novel cross-species viral transmission
+      authors:
+            - name: Colin Carlson
+              lab: 1
+            - name: Greg Albery
+              lab: 1
+            - name: Cory Merow
+            - name: Christopher H. Trisos
+            - name: Casey M. Zipfel
+              lab: 1
+            - name: Evan A. Eskew
+            - name: Kevin J. Olival
+            - name: Noam Ross
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1101/2020.01.24.918755"
+      full_text_article: Carlson2020.pdf
+      journal: bioRxiv
+      citation: "DOI: 10.1101/2020.01.24.918755, 2020"
+    - title: Social fluidity mobilizes contagion in human and animal populations
+      authors:
+            - name: Ewan Colman
+              lab: 1
+            - name: Vittoria Colizza
+            - name: Ephraim M. Hanks
+            - name: Andreas P. Modlmeier
+            - name: David P. Hughes
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1101/170266"
+      full_text_article: Colman2020.pdf
+      journal: bioRxiv
+      citation: "DOI: 10.1101/170266, 2020"
 - year: 2020
   publications:
     - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
