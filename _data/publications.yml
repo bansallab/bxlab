@@ -156,7 +156,8 @@
         - name: Shweta Bansal
           lab: 1
       link: "https://doi.org/10.1101/451435"
-      journal: [Preprint]
+      journal: bioRxiv (Preprint only)
+      citation: 2018
     - title: "Spatiotemporal Patterns and Diffusion of the 1918 Influenza Pandemic in British India"
       authors:
         - name: Olivia Reyes
@@ -369,7 +370,8 @@
           lab: 1
       link: "https://doi.org/10.1101/021980"
       full_text_article: carroll.pdf
-      journal: [Preprint]
+      journal: bioRxiv (Preprint only)
+      citation: 2015
     - title: "Detecting signals of seasonal influenza severity through age dynamics"
       authors:
         - name: Elizabeth Lee 
