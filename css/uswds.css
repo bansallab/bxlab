@@ -3398,6 +3398,7 @@ fieldset {
   background-image: url("../img/hero.png");
   background-position: center;
   background-size: cover;
+  max-width: 100%;
 }
 
 .usa-hero .usa-button {
