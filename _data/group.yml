@@ -1,10 +1,3 @@
-- name: Colin Carlson
-  image: colin.jpg
-  position: Postdoctoral Researcher
-  email: cjc322 'at' georgetown.edu
-  web: www.colinjcarlson.com
-  office: Regents 512
-  
 - name: Romain Garnier
   image: romain.jpg
   position: Postdoctoral Researcher
@@ -42,36 +35,22 @@
 
 - name: Grant Rosensteel
   image: grant.jpg
-  position: Research Associate
+  position: PhD student in Global Infectious Diseases (Fall 2020)
   email: ger38 'at' georgetown.edu
   web: grantrosensteel.com
   office: Regents 561
   
 - name: Zack Susswein
   image: zach.jpeg
-  position: Undergraduate Research Assistant
+  position: Research Associate
   email: zps9 'at' georgetown.edu
   web:
   office: Regents 561
   
-- name: Emma Nedell
-  image: emma.jpg
-  position: Undergraduate Research Assistant
-  email: ern28 'at' georgetown.edu
-  web:
-  office: Regents 561
-    
-- name: Katie Schluth
-  image: katie.jpg
-  position: Undergraduate Research Assistant
-  email: cgs65 'at' georgetown.edu
-  web:
-  office: Regents 561
-  
-- name: Madeline Kuney
-  image: 
-  position: Undergraduate Research Assistant
-  email: mck84 'at' georgetown.edu
+- name: Sania Ali
+  image: sania.png
+  position: Research Associate
+  email: sia31 'at' georgetown.edu
   web:
   office: Regents 561
   
@@ -82,9 +61,27 @@
   web:
   office: Regents 561
   
-- name: Sania Ali
-  image: sania.png
+- name: Anushka Desai
+  image: anushka.jpg
   position: Undergraduate Research Assistant
-  email: sia31 'at' georgetown.edu
+  email: ad1551 'at' georgetown.edu
   web:
   office: Regents 561
+
+- name: Isabella Turilli
+  image: isabella.png
+  position: Undergraduate Research Assistant
+  email: it171 'at' georgetown.edu
+  web:
+  office: Regents 561
+
+- name: Colin Carlson
+  image: colin.jpg
+  position: Affiliated Researcher
+  email: cjc322 'at' georgetown.edu
+  web: www.colinjcarlson.com
+
+- name: Ben Golas
+  image: ben.png
+  position: Visiting Reseacher
+  web: bengolas.weebly.com
