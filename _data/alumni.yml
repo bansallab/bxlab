@@ -8,11 +8,12 @@
 
 - name: Ian Carroll
   degree: Postdoctoral Scholar
-  current: Data Science Instructor at National Socio-environmental Synthesis Center
+  previous: Data Science Instructor at National Socio-environmental Synthesis Center
   
 - name: Stephan Leu
   degree: Endeavour Postdoctoral Fellow
-  current: DECRA Fellow at Macquarie University
+  current: Faculty at University of Adelaide
+  previous: DECRA Fellow at Macquarie University
   
 - name: Ewan Colman
   degree: Postdoctoral Researcher
@@ -24,7 +25,8 @@
   
 - name: Elizabeth Lee
   degree: PhD in Global Infectious Diseases
-  current: Postdoctoral Researcher at Johns Hopkins School of Public Health
+  previous: Postdoctoral Researcher at Johns Hopkins School of Public Health
+  current: Research Associate at Johns Hopkins School of Public Health
   
 - name: Sandra Goldlust
   degree: M.S. in Biohazardous Threat Agents & Emerging Infectious Diseases
@@ -63,3 +65,11 @@
   degree: B.S. in Biology of Global Health
   previous: Healthcare marketing data analyst (industry)
   current: MD student at Hofstra University
+
+- name: Emma Nedell
+  degree: B.S. in Biology of Global Health
+  current: MS student in Epidemiology at Emory University
+  
+- name: Madeline Kuney
+  degree: B.S. in Biology of Global Health
+  current: Policy Associate at the Sabin Institute
