@@ -9,9 +9,7 @@ title: publications
   <font size="-1">* Published work by lab members not involving Bansal is not listed here. Please see the individual websites of lab members to find additional work.</font><br>&nbsp;<br>
 <div class="usa-width-three-fourths">
     {% for yearpubs in site.data.publications %}
-    <button class="accordion"><h2 class="year">{{ yearpubs.year}}</h2></button>
-    <div class="panel">
-
+    <h2 class="year">{{ yearpubs.year}}</h2>
       {% for paper in yearpubs.publications %}
         <p>
         <span class="publication-name">
@@ -45,7 +43,7 @@ title: publications
         <span class="publications-citation"><a href=" {{paper.link}} ">{{paper.citation}}</a></span>
         {% endif %}
 
-        </p></div>
+        </p>
       {% endfor %}
     {% endfor %}
 </div>
