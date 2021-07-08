@@ -81,32 +81,32 @@
       full_text_article: ZipfelSES.pdf
       journal: PLoS Computational Biology
       citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
-    - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
+    - title: Unifying spatial and social network analysis in disease ecology
       authors:
-            - name: Romain Garnier
+            - name: Greg Albery
               lab: 1
-            - name: Emma Nedell
-              lab: 1
-            - name: Saad Omer
+            - name: Lucinda Kirkpatrick
+            - name: Josh Firth
             - name: Shweta Bansal
               lab: 1
-      link: "https://doi.org/10.1093/ofid/ofaa088"
-      full_text_article: Garnier_NME.pdf
-      journal: Open Forum Infectious Diseases
-      citation: "DOI: 10.1093/ofid/ofaa088, 2020"
-    - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
+      link: "https://doi.org/10.1111/1365-2656.13356"
+      full_text_article: Albery_JAE.pdf
+      journal: Journal of Animal Ecology
+      citation: "DOI: 10.1111/1365-2656.13356, 2020"
+    - title: Negative density-dependent parasitism in a group-living carnivore
       authors:
-            - name: Romain Garnier
+            - name: Greg Albery
               lab: 1
-            - name: Emma Nedell
-              lab: 1
-            - name: Saad Omer
+            - name: Chris Newman
+            - name: Julius Bright Ross
+            - name: David MacDonald
             - name: Shweta Bansal
               lab: 1
-      link: "https://doi.org/10.1093/ofid/ofaa088"
-      full_text_article: Garnier_NME.pdf
-      journal: Open Forum Infectious Diseases
-      citation: "DOI: 10.1093/ofid/ofaa088, 2020"
+            - name: Christina Buesching
+      link: "https://doi.org/10.1098/rspb.2020.2655"
+      full_text_article: Albery_ProcB.pdf
+      journal: Proceedings of the Royal Society, B
+      citation: "DOI: 10.1098/rspb.2020.2655, 2020"
 - year: 2020
   publications:
     - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
@@ -122,6 +122,20 @@
       full_text_article: Garnier_NME.pdf
       journal: Open Forum Infectious Diseases
       citation: "DOI: 10.1093/ofid/ofaa088, 2020"
+    - title: The landscape of childhood vaccine exemptions in the United States
+      authors:
+            - name: Casey Zipfel
+              lab: 1
+            - name: Romain Garnier
+              lab: 1
+            - name: Madeline Kuney
+              lab: 1
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1038/s41597-020-00742-5"
+      full_text_article: Zipfel_exemptions.pdf
+      journal: Scientific Data
+      citation: "DOI: 10.6084/m9.figshare.13125419, 2020"
     - title: Sex, synchrony, and skin contact-- integrating multiple behaviors to assess pathogen transmission risk
       authors:
             - name: Stephan Leu
