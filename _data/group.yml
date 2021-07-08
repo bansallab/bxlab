@@ -39,13 +39,7 @@
   email: zps9 'at' georgetown.edu
   web:
   office: Regents 561
-  
-- name: Eva Rest
-  image: eva.jpg
-  position: Masters student in Global Infectious Diseases
-  email: ecr60 'at' georgetown.edu
-  office: Regents 561
-    
+
 - name: Andrew Tiu
   image: andrew.jpg
   position: Research Associate
@@ -53,6 +47,12 @@
   web:
   office: Regents 561
   
+- name: Eva Rest
+  image: eva.jpg
+  position: Masters student in Global Infectious Diseases
+  email: ecr60 'at' georgetown.edu
+  office: Regents 561
+    
 - name: Juliana Taube
   image: juliana.jpg
   position: Research Associate (Aug 2021)
@@ -89,5 +89,5 @@
 
 - name: Colin Carlson
   image: colin.jpg
-  position: Assistant Research Professor at CGHSS
+  position: Assistant Research Professor at CGHSS & Biology
   web: www.colinjcarlson.com
