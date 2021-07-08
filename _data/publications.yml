@@ -1,743 +1,743 @@
 - year: Preprints
   publications:
-    - title: Climate change will drive novel cross-species viral transmission
-      authors:
-            - name: Colin Carlson
-              lab: 1
-            - name: Greg Albery
-              lab: 1
-            - name: Cory Merow
-            - name: Christopher H. Trisos
-            - name: Casey M. Zipfel
-              lab: 1
-            - name: Evan A. Eskew
-            - name: Kevin J. Olival
-            - name: Noam Ross
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1101/2020.01.24.918755"
-      full_text_article: Carlson2020.pdf
-      journal: bioRxiv
-      citation: "DOI: 10.1101/2020.01.24.918755, 2020"
-    - title: Characterizing an epidemiological geography of the United States-- influenza as a case study
-      authors:
-            - name: Grant Rosensteel
-              lab: 1
-            - name: Elizabeth Lee
-              lab: 1
-            - name: Vittoria Colizza
-            - name: Shweta Bansal
-              lab: 1
-      link: " https://doi.org/10.1101/2021.02.24.21252361"
-      journal: bioRxiv
-      citation: "DOI: 10.1101/2021.02.24.21252361, 2021"
+      - title: Climate change will drive novel cross-species viral transmission
+        authors:
+              - name: Colin Carlson
+                lab: 1
+              - name: Greg Albery
+                lab: 1
+              - name: Cory Merow
+              - name: Christopher H. Trisos
+              - name: Casey M. Zipfel
+                lab: 1
+              - name: Evan A. Eskew
+              - name: Kevin J. Olival
+              - name: Noam Ross
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2020.01.24.918755"
+        full_text_article: Carlson2020.pdf
+        journal: bioRxiv
+        citation: "DOI: 10.1101/2020.01.24.918755, 2020"
+      - title: Characterizing an epidemiological geography of the United States-- influenza as a case study
+        authors:
+              - name: Grant Rosensteel
+                lab: 1
+              - name: Elizabeth Lee
+                lab: 1
+              - name: Vittoria Colizza
+              - name: Shweta Bansal
+                lab: 1
+        link: " https://doi.org/10.1101/2021.02.24.21252361"
+        journal: bioRxiv
+        citation: "DOI: 10.1101/2021.02.24.21252361, 2021"
 - year: 2021
   publications:
-    - title: Social fluidity mobilizes contagion in human and animal populations
-       authors:
-             - name: Ewan Colman
-               lab: 1
-             - name: Vittoria Colizza
-             - name: Ephraim M. Hanks
-             - name: Andreas P. Modlmeier
-             - name: David P. Hughes
-             - name: Shweta Bansal
-               lab: 1
-        link: "https://doi.org/10.1101/170266"
-        full_text_article: Colman2020.pdf
-        journal: eLife
-        citation: "DOI: 10.1101/170266, 2020"
-      - title: The missing season: The impacts of the COVID-19 pandemic on influenza
+      - title: Social fluidity mobilizes contagion in human and animal populations
         authors:
-              - name: Casey Zipfel
-                lab: 1
-              - name: Vittoria Colizza
-              - name: Shweta Bansal
-                lab: 1
-        link: "https://doi.org/10.1016/j.vaccine.2021.05.049"
-        full_text_article: zipfel_missingflu.pdf
-        journal: Vaccine
-        citation: "DOI: 10.1016/j.vaccine.2021.05.049, 2021"
-      - title: Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response
-        authors:
-              - name: Eugenio Valdano
-              - name: Jonggul Lee
-              - name: Shweta Bansal
-                lab: 1
-              - name: Stefania Rubrichi
-              - name: Vittoria Colizza
-        link: "https://doi.org/10.1093/jtm/taab045"
-        full_text_article: Eugenio_mobility.pdf
-        journal: Journal of Travel Medicine
-        citation: "DOI: 10.1093/jtm/taab045, 2021"
-      - title: Health inequities in influenza transmission and surveillance
-        authors:
-              - name: Casey Zipfel
-                lab: 1
-              - name: Vittoria Colizza
-              - name: Shweta Bansal
-                lab: 1
-        link: "https://doi.org/10.1371/journal.pcbi.1008642"
-        full_text_article: ZipfelSES.pdf
-        journal: PLoS Computational Biology
-        citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
-      - title: Unifying spatial and social network analysis in disease ecology
-        authors:
-              - name: Greg Albery
-                lab: 1
-              - name: Lucinda Kirkpatrick
-              - name: Josh Firth
-              - name: Shweta Bansal
-                lab: 1
-        link: "https://doi.org/10.1111/1365-2656.13356"
-        full_text_article: Albery_JAE.pdf
-        journal: Journal of Animal Ecology
-        citation: "DOI: 10.1111/1365-2656.13356, 2020"
-      - title: Negative density-dependent parasitism in a group-living carnivore
-        authors:
-              - name: Greg Albery
-                lab: 1
-              - name: Chris Newman
-              - name: Julius Bright Ross
-              - name: David MacDonald
-              - name: Shweta Bansal
-                lab: 1
-              - name: Christina Buesching
-        link: "https://doi.org/10.1098/rspb.2020.2655"
-        full_text_article: Albery_ProcB.pdf
-        journal: Proceedings of the Royal Society, B
-        citation: "DOI: 10.1098/rspb.2020.2655, 2020"
+               - name: Ewan Colman
+                 lab: 1
+               - name: Vittoria Colizza
+               - name: Ephraim M. Hanks
+               - name: Andreas P. Modlmeier
+               - name: David P. Hughes
+               - name: Shweta Bansal
+                 lab: 1
+          link: "https://doi.org/10.1101/170266"
+            full_text_article: Colman2020.pdf
+          journal: eLife
+          citation: "DOI: 10.1101/170266, 2020"
+        - title: The missing season: The impacts of the COVID-19 pandemic on influenza
+          authors:
+                - name: Casey Zipfel
+                  lab: 1
+                - name: Vittoria Colizza
+                - name: Shweta Bansal
+                  lab: 1
+          link: "https://doi.org/10.1016/j.vaccine.2021.05.049"
+          full_text_article: zipfel_missingflu.pdf
+          journal: Vaccine
+          citation: "DOI: 10.1016/j.vaccine.2021.05.049, 2021"
+        - title: Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response
+          authors:
+                - name: Eugenio Valdano
+                - name: Jonggul Lee
+                - name: Shweta Bansal
+                  lab: 1
+                - name: Stefania Rubrichi
+                - name: Vittoria Colizza
+          link: "https://doi.org/10.1093/jtm/taab045"
+          full_text_article: Eugenio_mobility.pdf
+          journal: Journal of Travel Medicine
+          citation: "DOI: 10.1093/jtm/taab045, 2021"
+        - title: Health inequities in influenza transmission and surveillance
+          authors:
+                - name: Casey Zipfel
+                  lab: 1
+                - name: Vittoria Colizza
+                - name: Shweta Bansal
+                  lab: 1
+          link: "https://doi.org/10.1371/journal.pcbi.1008642"
+          full_text_article: ZipfelSES.pdf
+          journal: PLoS Computational Biology
+          citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
+        - title: Unifying spatial and social network analysis in disease ecology
+          authors:
+                - name: Greg Albery
+                  lab: 1
+                - name: Lucinda Kirkpatrick
+                - name: Josh Firth
+                - name: Shweta Bansal
+                  lab: 1
+          link: "https://doi.org/10.1111/1365-2656.13356"
+          full_text_article: Albery_JAE.pdf
+          journal: Journal of Animal Ecology
+          citation: "DOI: 10.1111/1365-2656.13356, 2020"
+        - title: Negative density-dependent parasitism in a group-living carnivore
+          authors:
+                - name: Greg Albery
+                  lab: 1
+                - name: Chris Newman
+                - name: Julius Bright Ross
+                - name: David MacDonald
+                - name: Shweta Bansal
+                  lab: 1
+                - name: Christina Buesching
+          link: "https://doi.org/10.1098/rspb.2020.2655"
+          full_text_article: Albery_ProcB.pdf
+          journal: Proceedings of the Royal Society, B
+          citation: "DOI: 10.1098/rspb.2020.2655, 2020"
 - year: 2020
   publications:
-    - title: Impacts of human disturbance in marine mammals: Do behavioral changes translate to disease consequences?
-      authors:
-            - name: Melissa Collier
-              lab: 1
-            - name: Sania Ali
-              lab: 1
-            - name: Janet Mann
-            - name: Shweta Bansal
-              lab: 1
-      full_text_article: EcoEvo_Preprint_Collier_etal.pdf
-      journal: Ethology and Biology of Marine Mammals
-    - title: Socio-economic disparities in social distancing during the COVID-19 pandemic in the United States
-      authors:
-            - name: Romain Garnier
-              lab: 1
-            - name: Jan R Benetka
-            - name: John Kraemer
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.2196/24591"
-      full_text_article: Garnier_JMIR.pdf
-      journal: Journal of Medical Internet Research
-      citation: "DOI: 10.2196/24591, 2020"
-    - title: Misconceptions about weather and seasonality must not misguide COVID-19 response
-      authors:
-            - name: Colin Carlson
-            - name: Ana Gomez
-            - name: Shweta Bansal
-              lab: 1
-            - name: Sadie Ryan
-      link: "https://doi.org/10.1038/s41467-020-18150-z"
-      full_text_article: Carlson_seas.pdf
-      journal: Nature Communications
-      citation: "DOI: 10.1038/s41467-020-18150-z, 2020"
-    - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
-      authors:
-            - name: Romain Garnier
-              lab: 1
-            - name: Emma Nedell
-              lab: 1
-            - name: Saad Omer
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1093/ofid/ofaa088"
-      full_text_article: Garnier_NME.pdf
-      journal: Open Forum Infectious Diseases
-      citation: "DOI: 10.1093/ofid/ofaa088, 2020"
-    - title: The landscape of childhood vaccine exemptions in the United States
-      authors:
-            - name: Casey Zipfel
-              lab: 1
-            - name: Romain Garnier
-              lab: 1
-            - name: Madeline Kuney
-              lab: 1
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1038/s41597-020-00742-5"
-      full_text_article: Zipfel_exemptions.pdf
-      journal: Scientific Data
-      citation: "DOI: 10.6084/m9.figshare.13125419, 2020"
-    - title: Sex, synchrony, and skin contact-- integrating multiple behaviors to assess pathogen transmission risk
-      authors:
-            - name: Stephan Leu
-              lab: 1
-            - name: Pratha Sah
-              lab: 1
-            - name: Ewa Krzyszczyk
-            - name: Anni Jacoby
-            - name: Janet Mann
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1093/beheco/araa002"
-      full_text_article: Leu_2020.pdf
-      journal: Behavioral Ecology
-      citation: "DOI: 10.1093/beheco/araa002, 2020"
+      - title: Impacts of human disturbance in marine mammals: Do behavioral changes translate to disease consequences?
+        authors:
+              - name: Melissa Collier
+                lab: 1
+              - name: Sania Ali
+                lab: 1
+              - name: Janet Mann
+              - name: Shweta Bansal
+                lab: 1
+        full_text_article: EcoEvo_Preprint_Collier_etal.pdf
+        journal: Ethology and Biology of Marine Mammals
+      - title: Socio-economic disparities in social distancing during the COVID-19 pandemic in the United States
+        authors:
+              - name: Romain Garnier
+                lab: 1
+              - name: Jan R Benetka
+              - name: John Kraemer
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.2196/24591"
+        full_text_article: Garnier_JMIR.pdf
+        journal: Journal of Medical Internet Research
+        citation: "DOI: 10.2196/24591, 2020"
+      - title: Misconceptions about weather and seasonality must not misguide COVID-19 response
+        authors:
+              - name: Colin Carlson
+              - name: Ana Gomez
+              - name: Shweta Bansal
+                lab: 1
+              - name: Sadie Ryan
+        link: "https://doi.org/10.1038/s41467-020-18150-z"
+        full_text_article: Carlson_seas.pdf
+        journal: Nature Communications
+        citation: "DOI: 10.1038/s41467-020-18150-z, 2020"
+      - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
+        authors:
+              - name: Romain Garnier
+                lab: 1
+              - name: Emma Nedell
+                lab: 1
+              - name: Saad Omer
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1093/ofid/ofaa088"
+        full_text_article: Garnier_NME.pdf
+        journal: Open Forum Infectious Diseases
+        citation: "DOI: 10.1093/ofid/ofaa088, 2020"
+      - title: The landscape of childhood vaccine exemptions in the United States
+        authors:
+              - name: Casey Zipfel
+                lab: 1
+              - name: Romain Garnier
+                lab: 1
+              - name: Madeline Kuney
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1038/s41597-020-00742-5"
+        full_text_article: Zipfel_exemptions.pdf
+        journal: Scientific Data
+        citation: "DOI: 10.6084/m9.figshare.13125419, 2020"
+      - title: Sex, synchrony, and skin contact-- integrating multiple behaviors to assess pathogen transmission risk
+        authors:
+              - name: Stephan Leu
+                lab: 1
+              - name: Pratha Sah
+                lab: 1
+              - name: Ewa Krzyszczyk
+              - name: Anni Jacoby
+              - name: Janet Mann
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1093/beheco/araa002"
+        full_text_article: Leu_2020.pdf
+        journal: Behavioral Ecology
+        citation: "DOI: 10.1093/beheco/araa002, 2020"
 - year: 2019
   publications:
-    - title: Sociality and tattoo skin disease among bottlenose dolphins in Shark Bay, Australia
-      authors:
-            - name: Sarah Powell
-              lab: 1
-            - name: Megan Wallen
-            - name: Madison Miketa
-            - name: Ewa Krzyszczyk
-            - name: Vivienne Foroughirad
-            - name: Shweta Bansal
-              lab: 1
-            - name: Janet Mann
-      link: "https://doi.org/10.1093/beheco/arz207"
-      full_text_article: Powell_2020.pdf
-      journal: Behavioral Ecology
-      citation: "DOI: 10.1093/beheco/arz207, 2019"
-    - title: Global estimates of mammalian viral diversity accounting for host sharing
-      authors:
-            - name: Colin Carlson
-              lab: 1
-            - name: Casey Zipfel
-              lab: 1
-            - name: Romain Garnier
-              lab: 1                  
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1038/s41559-019-0910-6"
-      full_text_article: Carlson_NEE_2019.pdf
-      journal: Nature Ecology & Evolution
-      citation: "DOI: 10.1038/s41559-019-0910-6, 2019"
-    - title: Ant colonies maintain social homeostasis in the face of decreased density
-      authors:
-            - name: Andreas P Modlmeier
-              lab: 
-            - name: Ewan Colman
-              lab: 1
-            - name: Ephraim M Hanks
-              lab:             
-            - name: Ryan Bringenberg
-              lab:             
-            - name: Shweta Bansal
-              lab: 1
-            - name: David Hughes
-              lab: 
-      link: "https://elifesciences.org/articles/38473"
-      full_text_article: Modlmeier_2019.pdf
-      journal: eLife
-      citation: "8:e38473, 2019"
-    - title: A multi-species repository of social networks
-      authors:
-            - name: Pratha Sah
-              lab: 1
-            - name: Jos&eacute; David Mendez
-              lab: 1
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://www.nature.com/articles/s41597-019-0056-z"
-      full_text_article: asnr_scidata.pdf
-      journal: Scientific Data
-      citation: "6:44, 2019"
+      - title: Sociality and tattoo skin disease among bottlenose dolphins in Shark Bay, Australia
+        authors:
+              - name: Sarah Powell
+                lab: 1
+              - name: Megan Wallen
+              - name: Madison Miketa
+              - name: Ewa Krzyszczyk
+              - name: Vivienne Foroughirad
+              - name: Shweta Bansal
+                lab: 1
+              - name: Janet Mann
+        link: "https://doi.org/10.1093/beheco/arz207"
+        full_text_article: Powell_2020.pdf
+        journal: Behavioral Ecology
+        citation: "DOI: 10.1093/beheco/arz207, 2019"
+      - title: Global estimates of mammalian viral diversity accounting for host sharing
+        authors:
+              - name: Colin Carlson
+                lab: 1
+              - name: Casey Zipfel
+                lab: 1
+              - name: Romain Garnier
+                lab: 1                  
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1038/s41559-019-0910-6"
+        full_text_article: Carlson_NEE_2019.pdf
+        journal: Nature Ecology & Evolution
+        citation: "DOI: 10.1038/s41559-019-0910-6, 2019"
+      - title: Ant colonies maintain social homeostasis in the face of decreased density
+        authors:
+              - name: Andreas P Modlmeier
+                lab: 
+              - name: Ewan Colman
+                lab: 1
+              - name: Ephraim M Hanks
+                lab:             
+              - name: Ryan Bringenberg
+                lab:             
+              - name: Shweta Bansal
+                lab: 1
+              - name: David Hughes
+                lab: 
+        link: "https://elifesciences.org/articles/38473"
+        full_text_article: Modlmeier_2019.pdf
+        journal: eLife
+        citation: "8:e38473, 2019"
+      - title: A multi-species repository of social networks
+        authors:
+              - name: Pratha Sah
+                lab: 1
+              - name: Jos&eacute; David Mendez
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://www.nature.com/articles/s41597-019-0056-z"
+        full_text_article: asnr_scidata.pdf
+        journal: Scientific Data
+        citation: "6:44, 2019"
 - year: 2018
   publications:
-    - title: Feeding the disparities-- the geography and trends of breastfeeding in the United States
-      authors:
-        - name: Romain Garnier
-          lab: 1
-        - name: Ana Bento
-        - name: Pejman Rohani
-        - name: Saad Omer
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/451435"
-      journal: bioRxiv (Preprint only)
-      citation: 2018
-    - title: "Spatiotemporal Patterns and Diffusion of the 1918 Influenza Pandemic in British India"
-      authors:
-        - name: Olivia Reyes
-          lab: 1
-        - name: Elizabeth Lee
-          lab: 1
-        - name: Pratha Sah
-          lab: 1
-        - name: Cecile Viboud
-        - name: Siddharth Chandra
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1093/aje/kwy209"
-      full_text_article: aje_2018.pdf
-      journal: American Journal of Epidemiology
-      citation: "187:12, 2018"
-    - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
-      authors:
-        - name: Ewan Colman
-          lab: 1
-        - name: Kristen Spies
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1186/s12879-018-3117-6"
-      full_text_article: Colman_Spies.pdf
-      journal: BMC Infectious Diseases
-      citation: "18:219, 2018"
-    - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
-      authors:
-        - name: Elizabeth Lee
-          lab: 1
-        - name: Ali Arab
-        - name: Sandra Goldlust
-          lab: 1
-        - name: Cecile Viboud
-        - name: Bryan Grenfell
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1371/journal.pcbi.1006020"
-      full_text_article: lee_plos.pdf
-      full_text_supplement: lee_plos_supp.pdf
-      journal: PLoS Computational Biology
-      citation: "2018"
-    - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
-      authors:
-        - name: Sarah Powell
-        - name: Megan Wallen
-        - name: Shweta Bansal
-          lab: 1
-        - name: Janet Mann
-      link: "https://doi.org/10.1016/j.scitotenv.2018.02.202"
-      full_text_article: Powell_epi.pdf
-      journal: Science of the Total Environment
-      citation: "2018"
-    - title: "Disease implications of animal social network structure: A synthesis across social systems"
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Janet Mann
-        - name: Shweta Bansal
-          lab: 1
-      link: "http://dx.doi.org/10.1111/1365-2656.12786"
-      full_text_article: Sah_JAE.pdf
-      journal: Journal of Animal Ecology
-      citation: "2018"
+      - title: Feeding the disparities-- the geography and trends of breastfeeding in the United States
+        authors:
+          - name: Romain Garnier
+            lab: 1
+          - name: Ana Bento
+          - name: Pejman Rohani
+          - name: Saad Omer
+          - name: Shweta Bansal
+            lab: 1
+        link: "https://doi.org/10.1101/451435"
+        journal: bioRxiv (Preprint only)
+        citation: 2018
+      - title: "Spatiotemporal Patterns and Diffusion of the 1918 Influenza Pandemic in British India"
+        authors:
+          - name: Olivia Reyes
+            lab: 1
+          - name: Elizabeth Lee
+            lab: 1
+          - name: Pratha Sah
+            lab: 1
+          - name: Cecile Viboud
+          - name: Siddharth Chandra
+          - name: Shweta Bansal
+            lab: 1
+        link: "https://doi.org/10.1093/aje/kwy209"
+        full_text_article: aje_2018.pdf
+        journal: American Journal of Epidemiology
+        citation: "187:12, 2018"
+      - title: "The reachability of contagion in temporal contact networks: how disease latency can exploit the rhythm of human behavior"
+        authors:
+          - name: Ewan Colman
+            lab: 1
+          - name: Kristen Spies
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: "https://doi.org/10.1186/s12879-018-3117-6"
+        full_text_article: Colman_Spies.pdf
+        journal: BMC Infectious Diseases
+        citation: "18:219, 2018"
+      - title: "Deploying digital health data to optimize influenza surveillance at national and local scales"
+        authors:
+          - name: Elizabeth Lee
+            lab: 1
+          - name: Ali Arab
+          - name: Sandra Goldlust
+            lab: 1
+          - name: Cecile Viboud
+          - name: Bryan Grenfell
+          - name: Shweta Bansal
+            lab: 1
+        link: "https://doi.org/10.1371/journal.pcbi.1006020"
+        full_text_article: lee_plos.pdf
+        full_text_supplement: lee_plos_supp.pdf
+        journal: PLoS Computational Biology
+        citation: "2018"
+      - title: "Epidemiological investigation of tattoo-like skin lesions among bottlenose dolphins in Shark Bay, Australia"
+        authors:
+          - name: Sarah Powell
+          - name: Megan Wallen
+          - name: Shweta Bansal
+            lab: 1
+          - name: Janet Mann
+        link: "https://doi.org/10.1016/j.scitotenv.2018.02.202"
+        full_text_article: Powell_epi.pdf
+        journal: Science of the Total Environment
+        citation: "2018"
+      - title: "Disease implications of animal social network structure: A synthesis across social systems"
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Janet Mann
+          - name: Shweta Bansal
+            lab: 1
+        link: "http://dx.doi.org/10.1111/1365-2656.12786"
+        full_text_article: Sah_JAE.pdf
+        journal: Journal of Animal Ecology
+        citation: "2018"
 - year: 2017
   publications:
-    - title: "Unraveling the disease consequence and mechanisms of modular structure in animal social networks"
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Stephan Leu
-        - name: Paul Cross
-        - name: Peter Hudson
-        - name: Shweta Bansal
-          lab: 1
-      link: "http://dx.doi.org/10.1073/pnas.1613616114"
-      full_text_article: Sah_PNAS.pdf
-      journal: Proceedings of the National Academy of Sciences
-      citation: "114(16), 2017"
-    - title: "Data-driven models of foot-and-mouth disease dynamics: a review"
-      authors:
-        - name: Laura Pomeroy
-        - name: Shweta Bansal
-          lab: 1
-        - name: Mike Tildesley
-        - name: Karla Moreon-Torres
-        - name: Mark Moritz
-        - name: Ningchuan Xiao
-        - name: Tim Carpenter
-        - name: Rebecca Garabed
-      link: http://dx.doi.org/10.1111/tbed.12437
-      full_text_article: pomeroy.pdf
-      journal: Transboundary and Emerging Diseases
-      citation: "64, 2017"
-    - title: "Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States"
-      authors:
-        - name: Anne Ewing
-          lab: 1
-        - name: Elizabeth Lee
-          lab: 1
-        - name: Cecile Viboud
-        - name: Shweta Bansal
-          lab: 1
-      link: https://doi.org/10.1093/infdis/jiw642
-      full_text_article: holiday.pdf
-      journal: Journal of Infectious Diseases
-      citation: "215(5), pg 732-739, 2017"
+      - title: "Unraveling the disease consequence and mechanisms of modular structure in animal social networks"
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Stephan Leu
+          - name: Paul Cross
+          - name: Peter Hudson
+          - name: Shweta Bansal
+            lab: 1
+        link: "http://dx.doi.org/10.1073/pnas.1613616114"
+        full_text_article: Sah_PNAS.pdf
+        journal: Proceedings of the National Academy of Sciences
+        citation: "114(16), 2017"
+      - title: "Data-driven models of foot-and-mouth disease dynamics: a review"
+        authors:
+          - name: Laura Pomeroy
+          - name: Shweta Bansal
+            lab: 1
+          - name: Mike Tildesley
+          - name: Karla Moreon-Torres
+          - name: Mark Moritz
+          - name: Ningchuan Xiao
+          - name: Tim Carpenter
+          - name: Rebecca Garabed
+        link: http://dx.doi.org/10.1111/tbed.12437
+        full_text_article: pomeroy.pdf
+        journal: Transboundary and Emerging Diseases
+        citation: "64, 2017"
+      - title: "Contact, travel and transmission: The impact of winter holidays on influenza dynamics in the United States"
+        authors:
+          - name: Anne Ewing
+            lab: 1
+          - name: Elizabeth Lee
+            lab: 1
+          - name: Cecile Viboud
+          - name: Shweta Bansal
+            lab: 1
+        link: https://doi.org/10.1093/infdis/jiw642
+        full_text_article: holiday.pdf
+        journal: Journal of Infectious Diseases
+        citation: "215(5), pg 732-739, 2017"
 - year: 2016
   publications:
-    - title: "Big data for infectious disease surveillance and modeling"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Gerardo Chowell
-        - name: Lone Simonsen
-        - name: Alessandro Vespignani
-        - name: Cecile Viboud
-      link: https://doi.org/10.1093/infdis/jiw400
-      full_text_article: jid_editorial.pdf
-      journal: Journal of Infectious Diseases
-      citation: 214(S4), S375-S379, 2016
-    - title: "Mind the scales: Harnessing spatial big data for infectious disease surveillance and inference"
-      authors:
-        - name: Elizabeth Lee
-          lab: 1
-        - name: Jason Asher
-        - name: Sandra Goldlust
-          lab: 1
-        - name: John Kraemer
-        - name: Andrew Lawson
-        - name: Shweta Bansal
-          lab: 1
-      link: https://doi.org/10.1093/infdis/jiw344
-      full_text_article: jid_scales.pdf
-      journal: Journal of Infectious Diseases
-      citation: 214(S4), pg S409-S413, 2016
-    - title: "Mathematical models to characterize early epidemic growth: A Review"
-      authors:
-        - name: Gerardo Chowell
-        - name: Lisa Sattenspiel
-        - name: Shweta Bansal
-          lab: 1
-        - name: Cecile Viboud
-      link: https://doi.org/10.1016/j.plrev.2016.07.005
-      full_text_article: earlygrowth.pdf
-      journal: Physics of Life Reviews
-      citation: 18, pg 66-97, 2016
-    - title: "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively social species"
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Kenneth Nussear
-        - name: Todd Esque
-        - name: Christina Aiello
-        - name: Peter Hudson
-        - name: Shweta Bansal
-          lab: 1
-      link: https://doi.org/10.1007/s00265-016-2136-9
-      full_text_article: burrow.pdf
-      full_text_supplement: burrow_supp.pdf
-      journal: Behavioral Ecology and Sociobiology
-      citation: 70(8), pg 1277-1289, 2016
-    - title: "Host contact and shedding patterns clarify variation in pathogen exposure and transmission in threatened tortoise Gopherus agassizii: Implications for disease modelling and management"
-      authors:
-        - name: Christina Aiello
-        - name: Ken Nussear
-        - name: Todd Esque
-        - name: Patrick Emblidge
-        - name: Pratha Sah
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-        - name: Peter Hudson
-      link: http://dx.doi.org/10.1111/1365-2656.12511
-      full_text_article: aiello.pdf
-      journal: Journal of Animal Ecology
-      citation: 85(3), pg 829-842, 2016
-    - title: "Using heterogeneity in the population structure of U.S. swine farms to compare transmission models for porcine epidemic diarrhoea"
-      authors:
-        - name: Eamon O'Dea
-          lab: 1
-        - name: Harry Snelson
-        - name: Shweta Bansal
-          lab: 1
-      link: http://dx.doi.org/10.1038/srep22248
-      full_text_article: odea216.pdf
-      full_text_supplement: supplement_odea2016.pdf
-      journal: Scientific Reports
-      citation: "6:22248, 2016"
-    - title: "Increasing Herd immunity with influenza revaccination"
-      authors:
-        - name: Eric Mooring
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: http://dx.doi.org/10.1017/S0950268815002253
-      full_text_article: mooring_article.pdf
-      full_text_supplement: mooring_supp.pdf
-      journal: Epidemiology and Infection
-      citation: 144(6), pg 1267-77, 2016
+      - title: "Big data for infectious disease surveillance and modeling"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Gerardo Chowell
+          - name: Lone Simonsen
+          - name: Alessandro Vespignani
+          - name: Cecile Viboud
+        link: https://doi.org/10.1093/infdis/jiw400
+        full_text_article: jid_editorial.pdf
+        journal: Journal of Infectious Diseases
+        citation: 214(S4), S375-S379, 2016
+      - title: "Mind the scales: Harnessing spatial big data for infectious disease surveillance and inference"
+        authors:
+          - name: Elizabeth Lee
+            lab: 1
+          - name: Jason Asher
+          - name: Sandra Goldlust
+            lab: 1
+          - name: John Kraemer
+          - name: Andrew Lawson
+          - name: Shweta Bansal
+            lab: 1
+        link: https://doi.org/10.1093/infdis/jiw344
+        full_text_article: jid_scales.pdf
+        journal: Journal of Infectious Diseases
+        citation: 214(S4), pg S409-S413, 2016
+      - title: "Mathematical models to characterize early epidemic growth: A Review"
+        authors:
+          - name: Gerardo Chowell
+          - name: Lisa Sattenspiel
+          - name: Shweta Bansal
+            lab: 1
+          - name: Cecile Viboud
+        link: https://doi.org/10.1016/j.plrev.2016.07.005
+        full_text_article: earlygrowth.pdf
+        journal: Physics of Life Reviews
+        citation: 18, pg 66-97, 2016
+      - title: "Inferring social structure and its drivers from refuge use in the desert tortoise, a relatively social species"
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Kenneth Nussear
+          - name: Todd Esque
+          - name: Christina Aiello
+          - name: Peter Hudson
+          - name: Shweta Bansal
+            lab: 1
+        link: https://doi.org/10.1007/s00265-016-2136-9
+        full_text_article: burrow.pdf
+        full_text_supplement: burrow_supp.pdf
+        journal: Behavioral Ecology and Sociobiology
+        citation: 70(8), pg 1277-1289, 2016
+      - title: "Host contact and shedding patterns clarify variation in pathogen exposure and transmission in threatened tortoise Gopherus agassizii: Implications for disease modelling and management"
+        authors:
+          - name: Christina Aiello
+          - name: Ken Nussear
+          - name: Todd Esque
+          - name: Patrick Emblidge
+          - name: Pratha Sah
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+          - name: Peter Hudson
+        link: http://dx.doi.org/10.1111/1365-2656.12511
+        full_text_article: aiello.pdf
+        journal: Journal of Animal Ecology
+        citation: 85(3), pg 829-842, 2016
+      - title: "Using heterogeneity in the population structure of U.S. swine farms to compare transmission models for porcine epidemic diarrhoea"
+        authors:
+          - name: Eamon O'Dea
+            lab: 1
+          - name: Harry Snelson
+          - name: Shweta Bansal
+            lab: 1
+        link: http://dx.doi.org/10.1038/srep22248
+        full_text_article: odea216.pdf
+        full_text_supplement: supplement_odea2016.pdf
+        journal: Scientific Reports
+        citation: "6:22248, 2016"
+      - title: "Increasing Herd immunity with influenza revaccination"
+        authors:
+          - name: Eric Mooring
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: http://dx.doi.org/10.1017/S0950268815002253
+        full_text_article: mooring_article.pdf
+        full_text_supplement: mooring_supp.pdf
+        journal: Epidemiology and Infection
+        citation: 144(6), pg 1267-77, 2016
 - year: 2015
   publications:
-    - title: "Livestock market data for modeling disease spread among US cattle"
-      authors:
-        - name: Ian Carroll
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "https://doi.org/10.1101/021980"
-      full_text_article: carroll.pdf
-      journal: bioRxiv (Preprint only)
-      citation: 2015
-    - title: "Detecting signals of seasonal influenza severity through age dynamics"
-      authors:
-        - name: Elizabeth Lee 
-          lab: 1
-        - name: Cecile Viboud
-        - name: Lone Simonsen
-        - name: Farid Khan
-        - name: Shweta Bansal
-          lab: 1
-      link: https://doi.org/10.1186/s12879-015-1318-9
-      full_text_article: lee2015.pdf
-      full_text_supplement: supplement_lee2015.pdf
-      journal: BMC Infectious Diseases
-      citation: 15 (587), 2015
-    - title: "Social, spatial, and temporal organization in a complex insect society"
-      authors: 
-        - name: Lauren Quevillon
-        - name: Ephraim Hanks
-        - name: Shweta Bansal
-          lab: 1
-        - name: David Hughes
-          lab: 1
-      link: https://doi.org/10.1038/srep13393
-      full_text_article: quevillon_article.pdf
-      full_text_supplement: quevillon_supp.pdf
-      journal: Scientific Reports
-      citation: 5:13393, 2015
-    - title: "Modeling infectious disease dynamics in the complex landscape of global health"
-      authors:
-        - name: Hans Heesterbeek
-        - name: Roy Anderson
-        - name: Viggo Andreassen
-        - name: Shweta Bansal
-          lab: 1
-        - name: Daniela De Angelis
-        - name: Chris Dye
-        - name: Ken Eames
-        - name: John Edmunds
-        - name: Simon Frost
-        - name: Sebastian Funk
-        - name: Deirdre Hollingsworth
-        - name: Thomas House
-        - name: Valerie Isham
-        - name: Petra Klepac
-        - name: Justin Lessler
-        - name: Jamie Llyod-Smith
-        - name: Jess Metcalf
-        - name: Denis Mollison
-        - name: Lorenzo Pellis
-        - name: Juliet Pulliam
-        - name: Mick Roberts
-        - name: Cecile Viboud
-      link:  https://doi.org/10.1126/science.aaa4339
-      full_text_article: science_heesterbeek.pdf
-      journal: Science
-      citation: "347(6227), 2015"
-    - title: "Nine challenges in incorporating the dynamics of behaviour in infectious diseases models"
-      authors:
-        - name: Sebastian Funk
-        - name: Shweta Bansal
-          lab: 1
-        - name: Chris Bauch
-        - name: Ken Eames
-        - name: John Edmunds
-        - name: Alison Galvani
-        - name: Petra Klepac
-      link: "https://doi.org/10.1016/j.epidem.2014.09.005"
-      full_text_article: funk.pdf
-      journal: Epidemics
-      citation: 10, 21-25, 2015
-    - title: "Eight challenges for network epidemic models"
-      authors:
-        - name: Lorenzo Pellis
-        - name: Frank Ball
-        - name: Shweta Bansal
-          lab: 1
-        - name: Ken Eames
-        - name: Thomas House
-        - name: Valerie Isham
-        - name: Pieter Trapman
-      link: "https://doi.org/10.1016/j.epidem.2014.07.003"
-      full_text_article: pellis.pdf
-      journal: Epidemics
-      citation: 10, 58-62, 2015
-    - title: "Six challenges in measuring contact networks for use in modeling"
-      authors:
-        - name: Ken Eames
-        - name: Shweta Bansal
-          lab: 1
-        - name: Simon Frost
-        - name: Ken Eames
-        - name: Steve Riley
-      link: "https://doi.org/10.1016/j.epidem.2014.08.006"
-      full_text_article: eames.pdf
-      journal: Epidemics
-      citation: 10, 72-77, 2015
-    - title: "Assessing the use of antiviral treamement to control influenza"
-      authors:
-        - name: Sarah Kramer
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-      link: "http://dx.doi.org/10.1017/S0950268814002520"
-      full_text_article: kramer_antivirals.pdf
-      full_text_supplement: kramer_antivirals_supp.pdf
-      journal: Epidemiology and Infection
-      citation: 143(8), pg 1621-1631, 2015
+      - title: "Livestock market data for modeling disease spread among US cattle"
+        authors:
+          - name: Ian Carroll
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: "https://doi.org/10.1101/021980"
+        full_text_article: carroll.pdf
+        journal: bioRxiv (Preprint only)
+        citation: 2015
+      - title: "Detecting signals of seasonal influenza severity through age dynamics"
+        authors:
+          - name: Elizabeth Lee 
+            lab: 1
+          - name: Cecile Viboud
+          - name: Lone Simonsen
+          - name: Farid Khan
+          - name: Shweta Bansal
+            lab: 1
+        link: https://doi.org/10.1186/s12879-015-1318-9
+        full_text_article: lee2015.pdf
+        full_text_supplement: supplement_lee2015.pdf
+        journal: BMC Infectious Diseases
+        citation: 15 (587), 2015
+      - title: "Social, spatial, and temporal organization in a complex insect society"
+        authors: 
+          - name: Lauren Quevillon
+          - name: Ephraim Hanks
+          - name: Shweta Bansal
+            lab: 1
+          - name: David Hughes
+            lab: 1
+        link: https://doi.org/10.1038/srep13393
+        full_text_article: quevillon_article.pdf
+        full_text_supplement: quevillon_supp.pdf
+        journal: Scientific Reports
+        citation: 5:13393, 2015
+      - title: "Modeling infectious disease dynamics in the complex landscape of global health"
+        authors:
+          - name: Hans Heesterbeek
+          - name: Roy Anderson
+          - name: Viggo Andreassen
+          - name: Shweta Bansal
+            lab: 1
+          - name: Daniela De Angelis
+          - name: Chris Dye
+          - name: Ken Eames
+          - name: John Edmunds
+          - name: Simon Frost
+          - name: Sebastian Funk
+          - name: Deirdre Hollingsworth
+          - name: Thomas House
+          - name: Valerie Isham
+          - name: Petra Klepac
+          - name: Justin Lessler
+          - name: Jamie Llyod-Smith
+          - name: Jess Metcalf
+          - name: Denis Mollison
+          - name: Lorenzo Pellis
+          - name: Juliet Pulliam
+          - name: Mick Roberts
+          - name: Cecile Viboud
+        link:  https://doi.org/10.1126/science.aaa4339
+        full_text_article: science_heesterbeek.pdf
+        journal: Science
+        citation: "347(6227), 2015"
+      - title: "Nine challenges in incorporating the dynamics of behaviour in infectious diseases models"
+        authors:
+          - name: Sebastian Funk
+          - name: Shweta Bansal
+            lab: 1
+          - name: Chris Bauch
+          - name: Ken Eames
+          - name: John Edmunds
+          - name: Alison Galvani
+          - name: Petra Klepac
+        link: "https://doi.org/10.1016/j.epidem.2014.09.005"
+        full_text_article: funk.pdf
+        journal: Epidemics
+        citation: 10, 21-25, 2015
+      - title: "Eight challenges for network epidemic models"
+        authors:
+          - name: Lorenzo Pellis
+          - name: Frank Ball
+          - name: Shweta Bansal
+            lab: 1
+          - name: Ken Eames
+          - name: Thomas House
+          - name: Valerie Isham
+          - name: Pieter Trapman
+        link: "https://doi.org/10.1016/j.epidem.2014.07.003"
+        full_text_article: pellis.pdf
+        journal: Epidemics
+        citation: 10, 58-62, 2015
+      - title: "Six challenges in measuring contact networks for use in modeling"
+        authors:
+          - name: Ken Eames
+          - name: Shweta Bansal
+            lab: 1
+          - name: Simon Frost
+          - name: Ken Eames
+          - name: Steve Riley
+        link: "https://doi.org/10.1016/j.epidem.2014.08.006"
+        full_text_article: eames.pdf
+        journal: Epidemics
+        citation: 10, 72-77, 2015
+      - title: "Assessing the use of antiviral treamement to control influenza"
+        authors:
+          - name: Sarah Kramer
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+        link: "http://dx.doi.org/10.1017/S0950268814002520"
+        full_text_article: kramer_antivirals.pdf
+        full_text_supplement: kramer_antivirals_supp.pdf
+        journal: Epidemiology and Infection
+        citation: 143(8), pg 1621-1631, 2015
 - year: 2014
   publications: 
-    - title: "Disease dynamics during wildlife translocations: disruptions to the host population and potential consequences for transmission in desert tortoise contact networks"
-      authors:
-        - name: Christina Aiello
-        - name: Ken Nussear
-        - name: Andrew Walde
-        - name: Todd Esque
-        - name: Patrick Emblidge
-        - name: Pratha Sah
-          lab: 1
-        - name: Shweta Bansal
-          lab: 1
-        - name: Peter Hudson
-      link: "http://dx.doi.org/10.1111/acv.12147"
-      full_text_article: translocation_aiello.pdf
-      journal: Animal Conservation
-      citation: 17, pg 27-39, 2014
-    - title:  "Exploring community structure in biological networks with random graphs"
-      authors:
-        - name: Pratha Sah
-          lab: 1
-        - name: Lisa O. Singh
-        - name: Aaron Clauset
-        - name: Shweta Bansal
-      link: http://dx.doi.org/10.1186/1471-2105-15-220
-      full_text_article: sah_et_al_BMC_Bioinformatics_2014.pdf
-      full_text_supplement: sah_et_al_BMC_Bioinformatics_2014_Supplement.pdf
-      journal: BMC Bioinformatics
-      citation: 15(220), 2014
+      - title: "Disease dynamics during wildlife translocations: disruptions to the host population and potential consequences for transmission in desert tortoise contact networks"
+        authors:
+          - name: Christina Aiello
+          - name: Ken Nussear
+          - name: Andrew Walde
+          - name: Todd Esque
+          - name: Patrick Emblidge
+          - name: Pratha Sah
+            lab: 1
+          - name: Shweta Bansal
+            lab: 1
+          - name: Peter Hudson
+        link: "http://dx.doi.org/10.1111/acv.12147"
+        full_text_article: translocation_aiello.pdf
+        journal: Animal Conservation
+        citation: 17, pg 27-39, 2014
+      - title:  "Exploring community structure in biological networks with random graphs"
+        authors:
+          - name: Pratha Sah
+            lab: 1
+          - name: Lisa O. Singh
+          - name: Aaron Clauset
+          - name: Shweta Bansal
+        link: http://dx.doi.org/10.1186/1471-2105-15-220
+        full_text_article: sah_et_al_BMC_Bioinformatics_2014.pdf
+        full_text_supplement: sah_et_al_BMC_Bioinformatics_2014_Supplement.pdf
+        journal: BMC Bioinformatics
+        citation: 15(220), 2014
 - year: 2013
   publications:
-    - title: "Inferring contact network heterogeneity from common epidemic data"
-      authors:
-        - name: Conrad Stack
-        - name: Shweta Bansal
-          lab: 1
-        - name: V.S. Anil Kumar
-        - name: Bryan Grenfell
-      link: http://dx.doi.org/10.1098/rsif.2012.0578
-      full_text_article: inference.pdf
-      full_text_supplement: inference.pdf
-      journal: Journal of the Royal Society Interface
-      citation: 10(78), 2013
-    - title: "Mixed Methods Pilot Study of Sharing Behaviors among Waterpipe Smokers of Rural Lao PDR: Implications for Infectious Disease Transmission"
-      authors:
-        - name: Robyn Martin
-        - name: Sahar Safaee
-        - name: Khamphithoun Somsamouth
-        - name: Boualoy Mounivong
-        - name: Ryan Sinclair
-        - name: Shweta Bansal
-          lab: 1
-        - name: Pramil Singh
-      link: https://dx.doi.org/10.3390/ijerph10062120
-      full_text_article: waterpipe.pdf
-      journal: International Journal of Environmental Research and Public Health
-      citation: 10(6), pg 2120-2132, 2013
+      - title: "Inferring contact network heterogeneity from common epidemic data"
+        authors:
+          - name: Conrad Stack
+          - name: Shweta Bansal
+            lab: 1
+          - name: V.S. Anil Kumar
+          - name: Bryan Grenfell
+        link: http://dx.doi.org/10.1098/rsif.2012.0578
+        full_text_article: inference.pdf
+        full_text_supplement: inference.pdf
+        journal: Journal of the Royal Society Interface
+        citation: 10(78), 2013
+      - title: "Mixed Methods Pilot Study of Sharing Behaviors among Waterpipe Smokers of Rural Lao PDR: Implications for Infectious Disease Transmission"
+        authors:
+          - name: Robyn Martin
+          - name: Sahar Safaee
+          - name: Khamphithoun Somsamouth
+          - name: Boualoy Mounivong
+          - name: Ryan Sinclair
+          - name: Shweta Bansal
+            lab: 1
+          - name: Pramil Singh
+        link: https://dx.doi.org/10.3390/ijerph10062120
+        full_text_article: waterpipe.pdf
+        journal: International Journal of Environmental Research and Public Health
+        citation: 10(6), pg 2120-2132, 2013
 - year: 2012 and earlier
   publications:
-    - title: "The impact of past epidemics on future disease dynamics"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Lauren Ancel Meyers
-      link: http://dx.doi.org/10.1016/j.jtbi.2012.06.012
-      full_text_article: "impact_ms.pdf"
-      full_text_supplement: "impact_suppl.pdf"
-      journal: Journal of Theoretical Biology
-      citation: 309, pg 176-184, 2012
-    - title: "Statistical Inference to advance network models in epidemiology"
-      authors:
-        - name: David Welch*
-        - name: Shweta Bansal*
-          lab: 1
-        - name: David Hunter
-      link: https://dx.doi.org/10.1016/j.epidem.2011.01.002
-      full_text_article: net_inference.pdf
-      journal: Epidemics
-      citation: 3(1), pg 38-45, 2011
-    - title: "Fast Community Detection for Dynamic Complex Networks"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Sanjukta Bhowmick
-        - name: Prashant Paymal
-      link: https://doi.org/10.1007/978-3-642-25501-4_20
-      full_text_article: dynamic_cs.pdf
-      journal: Complex Networks in Communications in Computer and Information Science
-      citation: 116, 2011 
-    - title: "The dynamic nature of contact networks in epidemiology"
-      authors:  
-        - name: Shweta Bansal
-          lab: 1
-        - name: Jonathan Read
-        - name: Babak Pourbohloul
-        - name: Lauren Ancel Meyers
-      link: https://doi.org/10.1080/17513758.2010.503376
-      full_text_article: jbd.pdf
-      full_text_supplement: jbd_supp.pdf
-      journal: Journal of Biological Dynamics
-      citation: 4(5), pg 478-489, 2010
-    - title: "The shifting demographic landscape of influenza"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Babak Pourbohloul
-        - name: Nathaniel Hupert
-        - name: Bryan Grenfell
-        - name: Lauren Ancel Meyers
-      link: "https://doi.org/10.1371/journal.pone.0009360"
-      full_text_article: flushift.pdf
-      full_text_supplement: flushift_supp.pdf
-      journal: PLoS One
-      citation: "5(2), 2010"
-    - title: "Exploring biological network structure with clustered random networks"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Shashank Khandelwal
-        - name: Lauren Ancel Meyers
-      link: https://doi.org/10.1186/1471-2105-10-405
-      full_text_article: clust.pdf
-      full_text_supplement: clust_suppl.pdf
-      journal: BMC Bioinformatics
-      citation: 10(405), 2009
-    - title: "When individual behavior matters: homogeneous and network models in epidemiology"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Bryan Grenfell
-        - name: Lauren Ancel Meyers
-      link: https://doi.org/10.1098/rsif.2007.1100
-      full_text_article: individual.pdf
-      full_text_supplement: i_supplement.pdf
-      journal: Journal of the Royal Society Interface
-      citation: 4(16), 2007
-    - title: "Network fraility and the geometry of herd immunity"
-      authors:
-        - name: Matthew Ferrari
-        - name: Shweta Bansal
-          lab: 1
-        - name: Lauren Ancel Meyers
-        - name: Ottar Bjornstad
-      link: https://doi.org/10.1098/rspb.2006.3636
-      full_text_article: frailty.pdf
-      full_text_supplement: frailty_supp.pdf
-      journal: Proc R Soc Lond B Bio Sci
-      citation: 273(1602), 2006
-    - title: "A comparative analysis of influenza vaccination programs"
-      authors:
-        - name: Shweta Bansal
-          lab: 1
-        - name: Babak Pourbohloul
-        - name: Lauren Ancel Meyers
-      link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
-      full_text_article: flu.pdf
-      full_text_supplement: supplement.pdf
-      journal: PLoS Medicine
-      citation: 3(10), 2006
+      - title: "The impact of past epidemics on future disease dynamics"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Lauren Ancel Meyers
+        link: http://dx.doi.org/10.1016/j.jtbi.2012.06.012
+        full_text_article: "impact_ms.pdf"
+        full_text_supplement: "impact_suppl.pdf"
+        journal: Journal of Theoretical Biology
+        citation: 309, pg 176-184, 2012
+      - title: "Statistical Inference to advance network models in epidemiology"
+        authors:
+          - name: David Welch*
+          - name: Shweta Bansal*
+            lab: 1
+          - name: David Hunter
+        link: https://dx.doi.org/10.1016/j.epidem.2011.01.002
+        full_text_article: net_inference.pdf
+        journal: Epidemics
+        citation: 3(1), pg 38-45, 2011
+      - title: "Fast Community Detection for Dynamic Complex Networks"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Sanjukta Bhowmick
+          - name: Prashant Paymal
+        link: https://doi.org/10.1007/978-3-642-25501-4_20
+        full_text_article: dynamic_cs.pdf
+        journal: Complex Networks in Communications in Computer and Information Science
+        citation: 116, 2011 
+      - title: "The dynamic nature of contact networks in epidemiology"
+        authors:  
+          - name: Shweta Bansal
+            lab: 1
+          - name: Jonathan Read
+          - name: Babak Pourbohloul
+          - name: Lauren Ancel Meyers
+        link: https://doi.org/10.1080/17513758.2010.503376
+        full_text_article: jbd.pdf
+        full_text_supplement: jbd_supp.pdf
+        journal: Journal of Biological Dynamics
+        citation: 4(5), pg 478-489, 2010
+      - title: "The shifting demographic landscape of influenza"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Babak Pourbohloul
+          - name: Nathaniel Hupert
+          - name: Bryan Grenfell
+          - name: Lauren Ancel Meyers
+        link: "https://doi.org/10.1371/journal.pone.0009360"
+        full_text_article: flushift.pdf
+        full_text_supplement: flushift_supp.pdf
+        journal: PLoS One
+        citation: "5(2), 2010"
+      - title: "Exploring biological network structure with clustered random networks"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Shashank Khandelwal
+          - name: Lauren Ancel Meyers
+        link: https://doi.org/10.1186/1471-2105-10-405
+        full_text_article: clust.pdf
+        full_text_supplement: clust_suppl.pdf
+        journal: BMC Bioinformatics
+        citation: 10(405), 2009
+      - title: "When individual behavior matters: homogeneous and network models in epidemiology"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Bryan Grenfell
+          - name: Lauren Ancel Meyers
+        link: https://doi.org/10.1098/rsif.2007.1100
+        full_text_article: individual.pdf
+        full_text_supplement: i_supplement.pdf
+        journal: Journal of the Royal Society Interface
+        citation: 4(16), 2007
+      - title: "Network fraility and the geometry of herd immunity"
+        authors:
+          - name: Matthew Ferrari
+          - name: Shweta Bansal
+            lab: 1
+          - name: Lauren Ancel Meyers
+          - name: Ottar Bjornstad
+        link: https://doi.org/10.1098/rspb.2006.3636
+        full_text_article: frailty.pdf
+        full_text_supplement: frailty_supp.pdf
+        journal: Proc R Soc Lond B Bio Sci
+        citation: 273(1602), 2006
+      - title: "A comparative analysis of influenza vaccination programs"
+        authors:
+          - name: Shweta Bansal
+            lab: 1
+          - name: Babak Pourbohloul
+          - name: Lauren Ancel Meyers
+        link: "http://dx.doi.org/10.1371/journal.pmed.0030387"
+        full_text_article: flu.pdf
+        full_text_supplement: supplement.pdf
+        journal: PLoS Medicine
+        citation: 3(10), 2006
