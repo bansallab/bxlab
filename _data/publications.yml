@@ -1,25 +1,5 @@
 - year: Preprints
   publications:
-    - title: Assessing the interactions between COVID-19 and influenza in the United States
-      authors:
-            - name: Casey Zipfel
-              lab: 1
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1101/2020.03.30.20047993"
-      full_text_article: ZipfelCOVIDFlu.pdf
-      journal: medRxiv
-      citation: "DOI: 10.1101/2020.03.30.20047993, 2020"
-    - title: Health inequities in influenza transmission and surveillance
-      authors:
-            - name: Casey Zipfel
-              lab: 1
-            - name: Shweta Bansal
-              lab: 1
-      link: "https://doi.org/10.1101/2020.03.30.20048017"
-      full_text_article: ZipfelSES.pdf
-      journal: medRxiv
-      citation: "DOI: 10.1101/2020.03.30.20048017, 2020"
     - title: Climate change will drive novel cross-species viral transmission
       authors:
             - name: Colin Carlson
@@ -39,7 +19,21 @@
       full_text_article: Carlson2020.pdf
       journal: bioRxiv
       citation: "DOI: 10.1101/2020.01.24.918755, 2020"
-    - title: Social fluidity mobilizes contagion in human and animal populations
+    - title: Characterizing an epidemiological geography of the United States: influenza as a case study
+      authors:
+            - name: Grant Rosensteel
+              lab: 1
+            - name: Elizabeth Lee
+              lab: 1
+            - name: Vittoria Colizza
+            - name: Shweta Bansal
+              lab: 1
+      link: " https://doi.org/10.1101/2021.02.24.21252361"
+      journal: bioRxiv
+      citation: "DOI: 10.1101/2021.02.24.21252361, 2021"
+- year: 2021
+  publications:
+   - title: Social fluidity mobilizes contagion in human and animal populations
       authors:
             - name: Ewan Colman
               lab: 1
@@ -51,8 +45,68 @@
               lab: 1
       link: "https://doi.org/10.1101/170266"
       full_text_article: Colman2020.pdf
-      journal: bioRxiv
+      journal: eLife
       citation: "DOI: 10.1101/170266, 2020"
+    - title: The missing season: The impacts of the COVID-19 pandemic on influenza
+      authors:
+            - name: Casey Zipfel
+              lab: 1
+            - name: Vittoria Colizza
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1016/j.vaccine.2021.05.049"
+      full_text_article: zipfel_missingflu.pdf
+      journal: Vaccine
+      citation: "DOI: 10.1016/j.vaccine.2021.05.049, 2021"
+    - title: Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response
+      authors:
+            - name: Eugenio Valdano
+            - name: Jonggul Lee
+            - name: Shweta Bansal
+              lab: 1
+            - name: Stefania Rubrichi
+            - name: Vittoria Colizza
+      link: "https://doi.org/10.1093/jtm/taab045"
+      full_text_article: Eugenio_mobility.pdf
+      journal: Journal of Travel Medicine
+      citation: "DOI: 10.1093/jtm/taab045, 2021"
+    - title: Health inequities in influenza transmission and surveillance
+      authors:
+            - name: Casey Zipfel
+              lab: 1
+            - name: Vittoria Colizza
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1371/journal.pcbi.1008642"
+      full_text_article: ZipfelSES.pdf
+      journal: PLoS Computational Biology
+      citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
+    - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
+      authors:
+            - name: Romain Garnier
+              lab: 1
+            - name: Emma Nedell
+              lab: 1
+            - name: Saad Omer
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1093/ofid/ofaa088"
+      full_text_article: Garnier_NME.pdf
+      journal: Open Forum Infectious Diseases
+      citation: "DOI: 10.1093/ofid/ofaa088, 2020"
+    - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
+      authors:
+            - name: Romain Garnier
+              lab: 1
+            - name: Emma Nedell
+              lab: 1
+            - name: Saad Omer
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.1093/ofid/ofaa088"
+      full_text_article: Garnier_NME.pdf
+      journal: Open Forum Infectious Diseases
+      citation: "DOI: 10.1093/ofid/ofaa088, 2020"
 - year: 2020
   publications:
     - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
