@@ -19,7 +19,7 @@
       full_text_article: Carlson2020.pdf
       journal: bioRxiv
       citation: "DOI: 10.1101/2020.01.24.918755, 2020"
-    - title: Characterizing an epidemiological geography of the United States: influenza as a case study
+    - title: Characterizing an epidemiological geography of the United States-- influenza as a case study
       authors:
             - name: Grant Rosensteel
               lab: 1
@@ -109,6 +109,40 @@
       citation: "DOI: 10.1098/rspb.2020.2655, 2020"
 - year: 2020
   publications:
+    - title: Impacts of human disturbance in marine mammals: Do behavioral changes translate to disease consequences?
+      authors:
+            - name: Melissa Collier
+              lab: 1
+            - name: Sania Ali
+              lab: 1
+            - name: Janet Mann
+            - name: Shweta Bansal
+              lab: 1
+      full_text_article: EcoEvo_Preprint_Collier_etal.pdf
+      journal: Ethology and Biology of Marine Mammals
+    - title: Socio-economic disparities in social distancing during the COVID-19 pandemic in the United States
+      authors:
+            - name: Romain Garnier
+              lab: 1
+            - name: Jan R Benetka
+            - name: John Kraemer
+            - name: Shweta Bansal
+              lab: 1
+      link: "https://doi.org/10.2196/24591"
+      full_text_article: Garnier_JMIR.pdf
+      journal: Journal of Medical Internet Research
+      citation: "DOI: 10.2196/24591, 2020"
+    - title: Misconceptions about weather and seasonality must not misguide COVID-19 response
+      authors:
+            - name: Colin Carlson
+            - name: Ana Gomez
+            - name: Shweta Bansal
+              lab: 1
+            - name: Sadie Ryan
+      link: "https://doi.org/10.1038/s41467-020-18150-z"
+      full_text_article: Carlson_seas.pdf
+      journal: Nature Communications
+      citation: "DOI: 10.1038/s41467-020-18150-z, 2020"
     - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
       authors:
             - name: Romain Garnier
