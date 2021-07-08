@@ -218,15 +218,14 @@
         citation: "DOI: 10.1038/s41559-019-0910-6, 2019"
       - title: Ant colonies maintain social homeostasis in the face of decreased density
         authors:
-          - name: Andreas P Modlmeier
-          - name: Ewan Colman
-         	  lab: 1
-          - name: Ephraim M Hanks       
-          - name: Ryan Bringenberg      
-          - name: Shweta Bansal
-            lab: 1
-          - name: David Hughes
-            lab: 
+            - name: Andreas P Modlmeier
+            - name: Ewan Colman
+              lab: 1
+            - name: Ephraim M Hanks       
+            - name: Ryan Bringenberg      
+            - name: Shweta Bansal
+              lab: 1
+            - name: David Hughes
         link: "https://elifesciences.org/articles/38473"
         full_text_article: Modlmeier_2019.pdf
         journal: eLife
