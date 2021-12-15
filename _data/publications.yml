@@ -1,5 +1,53 @@
 - year: Preprints
   publications:
+      - title: Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination
+        authors:
+              - name: Zack Susswein
+                lab: 1
+              - name: Eugenio Valdano
+              - name: Toby Brett
+              - name: Pej Rohani
+              - name: Vittoria Colizza
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2021.08.09.21261807"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2021.08.09.21261807, 2021"
+      - title: Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape
+        authors:
+              - name: Andrew Tiu
+                lab: 1
+              - name: Zack Susswein
+                lab: 1
+              - name: Alexes Merritt
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2021.10.04.21263345"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2021.10.04.21263345, 2021"
+      - title: Spatial aggregation choice in the era of digital and administrative surveillance data
+        authors:
+              - name: Elizabeth Lee
+                lab: 1
+              - name: Ali Arab
+              - name: Vittoria Colizza
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2021.04.22.21255643"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2021.04.22.21255643, 2021"
+      - title: Characterization of influenza vaccination recommendation across spatial scales in the United States
+        authors:
+              - name: Madeline Kuney
+                lab: 1
+              - name: Casey Zipfel
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2021.01.19.21250118"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2021.01.19.21250118, 2021"
       - title: Climate change will drive novel cross-species viral transmission
         authors:
               - name: Colin Carlson
@@ -19,6 +67,8 @@
         full_text_article: Carlson2020.pdf
         journal: bioRxiv
         citation: "DOI: 10.1101/2020.01.24.918755, 2020"
+- year: 2022
+  publications:
       - title: Characterizing an epidemiological geography of the United States-- influenza as a case study
         authors:
               - name: Grant Rosensteel
@@ -29,10 +79,25 @@
               - name: Shweta Bansal
                 lab: 1
         link: " https://doi.org/10.1101/2021.02.24.21252361"
-        journal: bioRxiv
-        citation: "DOI: 10.1101/2021.02.24.21252361, 2021"
+        journal: American Journal of Epidemiology
+        citation: 
 - year: 2021
   publications:
+        - title: From flames to inflammation: how wildfires affect patterns of wildlife disease
+        authors:
+              - name: Greg Albery
+                lab: 1
+              - name: Isabella Turilli
+                lab: 1
+              - name: Maxwell Joseph
+              - name: Janet Foley
+              - name: Celine Frere
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1186/s42408-021-00113-4"
+        full_text_article: "Albery_fire.pdf"
+        journal: Fire Ecology
+        citation: "17 (23), 2021"
         - title: Social fluidity mobilizes contagion in human and animal populations
           authors:
               - name: Ewan Colman
