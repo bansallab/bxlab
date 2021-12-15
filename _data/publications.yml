@@ -83,7 +83,7 @@
         citation: 
 - year: 2021
   publications:
-        - title: From flames to inflammation: how wildfires affect patterns of wildlife disease
+      - title: From flames to inflammation: how wildfires affect patterns of wildlife disease
         authors:
               - name: Greg Albery
                 lab: 1
