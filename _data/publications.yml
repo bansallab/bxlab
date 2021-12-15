@@ -85,93 +85,93 @@
   publications:
       - title: From flames to inflammation-- how wildfires affect patterns of wildlife disease
         authors:
-              - name: Greg Albery
-                lab: 1
-              - name: Isabella Turilli
-                lab: 1
-              - name: Maxwell Joseph
-              - name: Janet Foley
-              - name: Celine Frere
-              - name: Shweta Bansal
-                lab: 1
+            - name: Greg Albery
+              lab: 1
+            - name: Isabella Turilli
+              lab: 1
+            - name: Maxwell Joseph
+            - name: Janet Foley
+            - name: Celine Frere
+            - name: Shweta Bansal
+              lab: 1
         link: "https://doi.org/10.1186/s42408-021-00113-4"
         full_text_article: "Albery_fire.pdf"
         journal: Fire Ecology
         citation: "17 (23), 2021"
-        - title: Social fluidity mobilizes contagion in human and animal populations
-          authors:
-              - name: Ewan Colman
+      - title: Social fluidity mobilizes contagion in human and animal populations
+        authors:
+            - name: Ewan Colman
+              lab: 1
+            - name: Vittoria Colizza
+            - name: Ephraim M. Hanks
+            - name: Andreas P. Modlmeier
+            - name: David P. Hughes
+            - name: Shweta Bansal
+              lab: 1
+        link: "https://doi.org/10.1101/170266"
+        full_text_article: Colman2020.pdf
+        journal: eLife
+        citation: "DOI: 10.1101/170266, 2020"
+      - title: The missing season-- The impacts of the COVID-19 pandemic on influenza
+        authors:
+              - name: Casey Zipfel
                 lab: 1
               - name: Vittoria Colizza
-              - name: Ephraim M. Hanks
-              - name: Andreas P. Modlmeier
-              - name: David P. Hughes
               - name: Shweta Bansal
                 lab: 1
-          link: "https://doi.org/10.1101/170266"
-          full_text_article: Colman2020.pdf
-          journal: eLife
-          citation: "DOI: 10.1101/170266, 2020"
-        - title: The missing season-- The impacts of the COVID-19 pandemic on influenza
-          authors:
-                - name: Casey Zipfel
-                  lab: 1
-                - name: Vittoria Colizza
-                - name: Shweta Bansal
-                  lab: 1
-          link: "https://doi.org/10.1016/j.vaccine.2021.05.049"
-          full_text_article: zipfel_missingflu.pdf
-          journal: Vaccine
-          citation: "DOI: 10.1016/j.vaccine.2021.05.049, 2021"
-        - title: Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response
-          authors:
-                - name: Eugenio Valdano
-                - name: Jonggul Lee
-                - name: Shweta Bansal
-                  lab: 1
-                - name: Stefania Rubrichi
-                - name: Vittoria Colizza
-          link: "https://doi.org/10.1093/jtm/taab045"
-          full_text_article: Eugenio_mobility.pdf
-          journal: Journal of Travel Medicine
-          citation: "DOI: 10.1093/jtm/taab045, 2021"
-        - title: Health inequities in influenza transmission and surveillance
-          authors:
-                - name: Casey Zipfel
-                  lab: 1
-                - name: Vittoria Colizza
-                - name: Shweta Bansal
-                  lab: 1
-          link: "https://doi.org/10.1371/journal.pcbi.1008642"
-          full_text_article: ZipfelSES.pdf
-          journal: PLoS Computational Biology
-          citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
-        - title: Unifying spatial and social network analysis in disease ecology
-          authors:
-                - name: Greg Albery
-                  lab: 1
-                - name: Lucinda Kirkpatrick
-                - name: Josh Firth
-                - name: Shweta Bansal
-                  lab: 1
-          link: "https://doi.org/10.1111/1365-2656.13356"
-          full_text_article: Albery_JAE.pdf
-          journal: Journal of Animal Ecology
-          citation: "DOI: 10.1111/1365-2656.13356, 2020"
-        - title: Negative density-dependent parasitism in a group-living carnivore
-          authors:
-                - name: Greg Albery
-                  lab: 1
-                - name: Chris Newman
-                - name: Julius Bright Ross
-                - name: David MacDonald
-                - name: Shweta Bansal
-                  lab: 1
-                - name: Christina Buesching
-          link: "https://doi.org/10.1098/rspb.2020.2655"
-          full_text_article: Albery_ProcB.pdf
-          journal: Proceedings of the Royal Society, B
-          citation: "DOI: 10.1098/rspb.2020.2655, 2020"
+        link: "https://doi.org/10.1016/j.vaccine.2021.05.049"
+        full_text_article: zipfel_missingflu.pdf
+        journal: Vaccine
+        citation: "DOI: 10.1016/j.vaccine.2021.05.049, 2021"
+      - title: Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response
+        authors:
+              - name: Eugenio Valdano
+              - name: Jonggul Lee
+              - name: Shweta Bansal
+                lab: 1
+              - name: Stefania Rubrichi
+              - name: Vittoria Colizza
+        link: "https://doi.org/10.1093/jtm/taab045"
+        full_text_article: Eugenio_mobility.pdf
+        journal: Journal of Travel Medicine
+        citation: "DOI: 10.1093/jtm/taab045, 2021"
+      - title: Health inequities in influenza transmission and surveillance
+        authors:
+              - name: Casey Zipfel
+                lab: 1
+              - name: Vittoria Colizza
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1371/journal.pcbi.1008642"
+        full_text_article: ZipfelSES.pdf
+        journal: PLoS Computational Biology
+        citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
+      - title: Unifying spatial and social network analysis in disease ecology
+        authors:
+              - name: Greg Albery
+                lab: 1
+              - name: Lucinda Kirkpatrick
+              - name: Josh Firth
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1111/1365-2656.13356"
+        full_text_article: Albery_JAE.pdf
+        journal: Journal of Animal Ecology
+        citation: "DOI: 10.1111/1365-2656.13356, 2020"
+      - title: Negative density-dependent parasitism in a group-living carnivore
+        authors:
+              - name: Greg Albery
+                lab: 1
+              - name: Chris Newman
+              - name: Julius Bright Ross
+              - name: David MacDonald
+              - name: Shweta Bansal
+                lab: 1
+              - name: Christina Buesching
+        link: "https://doi.org/10.1098/rspb.2020.2655"
+        full_text_article: Albery_ProcB.pdf
+        journal: Proceedings of the Royal Society, B
+        citation: "DOI: 10.1098/rspb.2020.2655, 2020"
 - year: 2020
   publications:
       - title: Impacts of human disturbance in marine mammals-- Do behavioral changes translate to disease consequences?
