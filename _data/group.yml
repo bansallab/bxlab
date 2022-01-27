@@ -11,14 +11,7 @@
   email: greg.albery 'at' georgetown.edu
   web: gregalbery.me
   office: Regents 561
-
-- name: Casey Zipfel
-  image: casey.jpg
-  position: PhD student in Biology
-  email: cmz27 'at' georgetown.edu
-  web: caseyzipfel.github.io
-  office: Regents 561
-  
+ 
 - name: Melissa Collier
   image: melissa.jpg
   position: PhD student in Biology
@@ -28,14 +21,14 @@
 
 - name: Grant Rosensteel
   image: grant.jpg
-  position: PhD student in Global Infectious Diseases
+  position: Research Affiliate
   email: ger38 'at' georgetown.edu
   web: grantrosensteel.com
   office: Regents 561
   
 - name: Zack Susswein
   image: zack.jpg
-  position: Research Associate
+  position: Research Affiliate
   email: zps9 'at' georgetown.edu
   web:
   office: Regents 561
@@ -49,13 +42,13 @@
   
 - name: Eva Rest
   image: eva.jpg
-  position: Masters student in Global Infectious Diseases
+  position: Research Associate
   email: ecr60 'at' georgetown.edu
   office: Regents 561
     
 - name: Juliana Taube
   image: juliana.jpg
-  position: Research Associate (Aug 2021)
+  position: Research Associate
   email: 
   web:
   office: Regents 561
@@ -83,7 +76,7 @@
   
 - name: Colin Murphy
   image: Colin_Murphy.jpg
-  position: High School Research Assistant
+  position: Undergraduate Research Assistant
   web:
   office: Regents 561
 
