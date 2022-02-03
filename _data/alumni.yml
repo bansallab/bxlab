@@ -1,14 +1,16 @@
 - name: Eamon O'Dea
   degree: Postdoctoral Researcher
-  current: Postdoctoral Researcher at University of Georgia, Athens
+  previous: Postdoctoral Researcher at University of Georgia, Athens
+  current: Data Scientist at StateFarm
   
 - name: Deepa Pindolia
   degree: Visiting Postdoctoral Scholar
-  current: Clinton Health Access Initiative (CHAI)
+  current: Senior Technical Advisor at Clinton Health Access Initiative (CHAI)
 
 - name: Ian Carroll
   degree: Postdoctoral Scholar
-  previous: Data Science Instructor at National Socio-environmental Synthesis Center
+  previous: Data Scientist at National Socio-environmental Synthesis Center, Lead Data Scientist at Kimetrica
+  current: Associate Scientist at USRA/NASA
   
 - name: Stephan Leu
   degree: Endeavour Postdoctoral Fellow
@@ -19,33 +21,52 @@
   degree: Postdoctoral Researcher
   current: Postdoctoral Researcher at University of Edinburgh
   
+- name: Romain Garnier
+  degree: Postdoctoral Researcher
+  current: Disease Ecology Subject Matter Expert & Freelance Consultant
+  
 - name: Pratha Sah
   degree: PhD in Biology
-  current: Postdoctoral Researcher at Yale School of Public Health
+  previous: Postdoctoral Researcher at Yale School of Public Health
+  current: Research Scientist at Yale School of Public Health
   
 - name: Elizabeth Lee
   degree: PhD in Global Infectious Diseases
   previous: Postdoctoral Researcher at Johns Hopkins School of Public Health
-  current: Research Associate at Johns Hopkins School of Public Health
+  current: Faculty Research Associate at Johns Hopkins School of Public Health
+  
+- name: Casey Zipfel
+  degree: PhD in Biology
+  current: Prevention Effectiveness Fellow at Centers for Disease Control & Prevention
   
 - name: Sandra Goldlust
-  degree: M.S. in Biohazardous Threat Agents & Emerging Infectious Diseases
-  current: MD student (Infectious Diseases) at New York University
+  degree: M.S. in Biohazardous Threat Agents & Emerging Infectious Diseases & Research Associate
+  previous: MD student (Infectious Diseases) at New York University
+  current: Resident Physician at New York University
+  
+- name: Grant Rosensteel
+  degree: B.S. in Biology of Global Health, M.S. in Global Infectious Diseases
+  current: Analyst in the US government
   
 - name: Eric Mooring
   degree: B.S. Environmental Biology
   previous: Churchill Scholar at Cambridge University, ScD student in Epidemiology at Harvard School of Public Health
-  current: CDC Epidemic Intelligence Service Officer
+  current: Epidemic Intelligence Service Officer with the Centers for Disease Control
 
 - name: Sarah Kramer
   degree: B.S. in Biology of Global Health
-  previous: Fulbright Scholar in Berlin studying HIV dynamics
-  current: PhD student in Environmental Health Sciences at Columbia
+  previous: Fulbright Scholar in Berlin studying HIV dynamics, PhD student in Environmental Health Sciences at Columbia
+  current: Postdoctoral Scholar at the Max Planck Institute for Infection Biology
+  
+- name: Audrey Utkus
+  degree: B.S. in Mathematics
+  previous: Analytics at Fisher Investments
+  current: Senior Analyst at Comcast
 
 - name: Madeline Campbell
   degree: B.S. in Biology of Global Health & Mathematics
-  previous: Data Analyst at Institute for Health Metrics and Evaluation
-  current: Data Scientist (industry)
+  previous: Data Analyst at Institute for Health Metrics and Evaluation, Data Scientist at Facebook
+  current: Data Journalist at Bloomberg News
 
 - name: Anne Ewing
   degree: B.S. in Biology of Global Health
@@ -54,7 +75,7 @@
 - name: Madison Pachoe
   degree: B.S. in Biology of Global Health
   previous: CDC Public Health Associate at Alaska Department of Health
-  current: Doctorate student at Columbia University School of Nursing
+  current: Doctorate student at Columbia University School of Nursing & Registered Nurse at Mount Sinai Health System
   
 - name: Jose Mendez
   degree: B.S. in Biology of Global Health
@@ -73,3 +94,16 @@
 - name: Madeline Kuney
   degree: B.S. in Biology of Global Health
   current: Policy Associate at the Sabin Institute
+  
+- name: Sania Ali
+  degree: B.S. in Biology of Global Health
+  previous: Health Policy Podcast Fellow at Health Affairs, COVID-19 Wellness Response Team at the Institute for Public Health Innovation
+  current: Postbac Clinical Research Fellow at NIAID/National Institutes of Health
+
+- name: Catherine Schluth
+  degree: B.S. in Biology of Global Health
+  current: Research Assistant at Johns Hopkins University
+  
+- name: Zack Susswein
+  degree: B.S. in Biology of Global Health
+  current: Data Analyst at the Pandemic Prevention Institute at the Rockefeller Foundation
