@@ -13,19 +13,6 @@
         link: "https://doi.org/10.1101/2021.08.09.21261807"
         journal: medRxiv
         citation: "DOI: 10.1101/2021.08.09.21261807, 2021"
-      - title: Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape
-        authors:
-              - name: Andrew Tiu
-                lab: 1
-              - name: Zack Susswein
-                lab: 1
-              - name: Alexes Merritt
-                lab: 1
-              - name: Shweta Bansal
-                lab: 1
-        link: "https://doi.org/10.1101/2021.10.04.21263345"
-        journal: medRxiv
-        citation: "DOI: 10.1101/2021.10.04.21263345, 2021"
       - title: Spatial aggregation choice in the era of digital and administrative surveillance data
         authors:
               - name: Elizabeth Lee
@@ -69,6 +56,19 @@
         citation: "DOI: 10.1101/2020.01.24.918755, 2020"
 - year: 2022
   publications:
+      - title: Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape
+        authors:
+              - name: Andrew Tiu
+                lab: 1
+              - name: Zack Susswein
+                lab: 1
+              - name: Alexes Merritt
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2021.10.04.21263345"
+        journal: American Journal of Epidemiology
+        citation: ""
       - title: Characterizing an epidemiological geography of the United States-- influenza as a case study
         authors:
               - name: Grant Rosensteel
@@ -78,7 +78,7 @@
               - name: Vittoria Colizza
               - name: Shweta Bansal
                 lab: 1
-        link: ""
+        link: "https://doi.org/10.1101/2021.02.24.21252361"
         journal: American Journal of Epidemiology
         citation: ""
 - year: 2021
