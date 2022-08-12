@@ -1,8 +1,8 @@
-- name: Lucila Alvarez-Zuzek
-  image: lucila.jpg
+- name: Giulia Pullano
+  image: giulia.jpeg
   position: Postdoctoral Researcher
-  email: la766 'at' georgetown.edu
-  web: "www.bansallab.com/lucila.html"
+  email: gp578 'at' georgetown.edu
+  web: "https://orcid.org/0000-0001-9980-0734"
   office: Regents 561
   
 - name: Greg Albery
@@ -25,12 +25,6 @@
   email: mt1229 'at' georgetown.edu
   web:
   office: Regents 561
-  
-- name: Eva Rest
-  image: eva.jpg
-  position: Research Associate
-  email: ecr60 'at' georgetown.edu
-  office: Regents 561
     
 - name: Juliana Taube
   image: juliana.jpg
@@ -39,20 +33,11 @@
   web:
   office: Regents 561
   
-- name: Anushka Desai
-  image: anushka.png
-  position: Undergraduate Research Assistant
-  email: ad1551 'at' georgetown.edu
-  web: 
-  office: Regents 561
+- name: Eva Rest
+  image: eva.jpg
+  position: Research Associate
+  email: ecr60 'at' georgetown.edu 
 
-- name: Isabella Turilli
-  image: isabella.png
-  position: Undergraduate Research Assistant
-  email: it171 'at' georgetown.edu
-  web:
-  office: Regents 561
-  
 - name: Alexes Merritt
   image: alexes.jpg
   position: Undergraduate Research Assistant
@@ -70,17 +55,13 @@
   image: colin.jpg
   position: Assistant Research Professor at CGHSS & Biology
   web: www.colinjcarlson.com
-
-- name: Grant Rosensteel
-  image: grant.jpg
-  position: Research Affiliate
-  email: ger38 'at' georgetown.edu
-  web: grantrosensteel.com
-  office: Regents 561
   
 - name: Zack Susswein
   image: zack.jpg
   position: Research Affiliate
   email: zps9 'at' georgetown.edu
-  web:
-  office: Regents 561
+  
+- name: Anushka Desai
+  image: anushka.png
+  position: Research Affiliate
+  email: ad1551 'at' georgetown.edu
