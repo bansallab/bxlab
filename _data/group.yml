@@ -2,36 +2,31 @@
   image: giulia.jpeg
   position: Postdoctoral Researcher
   email: gp578 'at' georgetown.edu
-  web: "https://orcid.org/0000-0001-9980-0734"
-  office: Regents 561
+  web: "giuliapullano.weebly.com"
   
 - name: Greg Albery
   image: greg.jpg
   position: Postdoctoral Researcher
   email: greg.albery 'at' georgetown.edu
-  web: gregalbery.me
-  office: Regents 561
+  web: "gregalbery.me"
  
 - name: Melissa Collier
   image: melissa.jpg
   position: PhD student in Biology
   email: mac532 'at' georgetown.edu
   web:
-  office: Regents 561
 
 - name: Andrew Tiu
   image: andrew.jpg
   position: Research Associate
   email: mt1229 'at' georgetown.edu
   web:
-  office: Regents 561
     
 - name: Juliana Taube
   image: juliana.jpg
   position: Research Associate
   email: juliana.taube 'at' georgetown.edu 
   web:
-  office: Regents 561
   
 - name: Eva Rest
   image: eva.jpg
@@ -43,17 +38,17 @@
   position: Undergraduate Research Assistant
   email: akm147 'at' georgetown.edu
   web:
-  office: Regents 561
   
 - name: Colin Murphy
   image: Colin_Murphy.jpg
   position: Undergraduate Research Assistant
   web:
-  office: Regents 561
+  email: colinjmurph 'at' gmail.com
 
 - name: Colin Carlson
   image: colin.jpg
   position: Assistant Research Professor at CGHSS & Biology
+  email: cjc322 'at' georgetown.edu 
   web: www.colinjcarlson.com
   
 - name: Zack Susswein
