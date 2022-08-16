@@ -137,13 +137,12 @@
         full_text_article: 
         journal: PLoS Computational Biology
         citation: "DOI: 10.1101/2022.01.11.22269032, 2022"
-       - title: "Fine-scale spatial patterns of wildlife disease are common and understudied"
+      - title: "Fine-scale spatial patterns of wildlife disease are common and understudied"
         authors:
               - name: Greg Albery
                 lab: 1
               - name: Amy Sweeney
               - name: Dan Becker
-
               - name: Shweta Bansal
                 lab: 1
         link: "https://doi.org/10.1111/1365-2435.13942"
