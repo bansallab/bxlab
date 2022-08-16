@@ -1,6 +1,6 @@
 - year: Preprints
   publications:
-      - title: The global landscape of susceptibility to orthopoxviruses: The legacy of smallpox vaccination
+      - title: "The global landscape of susceptibility to orthopoxviruses-- The legacy of smallpox vaccination"
         authors:
               - name: Juliana Taube
                 lab: 1
@@ -12,7 +12,7 @@
         link: "https://doi.org/10.1101/2022.07.29.22278217"
         journal: medRxiv
         citation: "DOI: 10.1101/2022.07.29.22278217, 2022"
-      - title: Pathogen transmission modes determine contact network structure, altering other pathogen 
+      - title: "Pathogen transmission modes determine contact network structure, altering other pathogen" 
         authors:
               - name: Melissa Collier
                 lab: 1
@@ -24,7 +24,7 @@
         link: "https://bansallab.com/melissa.html"
         journal: bioRxiv
         citation: "DOI: , 2022"
-      - title: Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States
+      - title: "Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States"
         authors:
               - name: Juliana Taube
                 lab: 1
@@ -35,7 +35,7 @@
         link: "https://doi.org/10.1101/2022.07.19.22277821"
         journal: medRxiv
         citation: "DOI: 10.1101/2022.07.19.22277821, 2022"
-      - title: Disentangling the rhythms of human activity in the built environment for airborne transmission risk
+      - title: "Disentangling the rhythms of human activity in the built environment for airborne transmission risk"
         authors:
               - name: Zack Susswein
                 lab: 1
@@ -46,7 +46,7 @@
         link: "https://doi.org/10.1101/2022.04.07.22273578"
         journal: medRxiv
         citation: "DOI: 10.1101/2022.04.07.22273578, 2022"
-      - title: Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination
+      - title: "Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination"
         authors:
               - name: Zack Susswein
                 lab: 1
@@ -59,7 +59,7 @@
         link: "https://doi.org/10.1101/2021.08.09.21261807"
         journal: medRxiv
         citation: "DOI: 10.1101/2021.08.09.21261807, 2021"
-      - title: Characterizing superspreading of SARS-CoV-2 -- from mechanism to measurement
+      - title: "Characterizing superspreading of SARS-CoV-2 -- from mechanism to measurement"
         authors:
               - name: Zack Susswein
                 lab: 1
@@ -68,7 +68,7 @@
         link: "https://doi.org/10.1101/2020.12.08.20246082"
         journal: medRxiv
         citation: "DOI: 10.1101/2020.12.08.20246082, 2020"
-      - title: Mapping the human helminthiases: a systematic review of geospatial tools in medical parasitology
+      - title: "Mapping the human helminthiases-- a systematic review of geospatial tools in medical parasitology"
         authors:
               - name: Catherine Schluth
                 lab: 1
@@ -80,7 +80,7 @@
         link: "https://doi.org/10.1101/2020.10.30.20223529"
         journal: medRxiv
         citation: "DOI: 10.1101/2020.10.30.20223529, 2021"
-      - title: Characterization of influenza vaccination recommendation across spatial scales in the United States
+      - title: "Characterization of influenza vaccination recommendation across spatial scales in the United States"
         authors:
               - name: Madeline Kuney
                 lab: 1
@@ -93,7 +93,7 @@
         citation: "DOI: 10.1101/2021.01.19.21250118, 2021"
 - year: 2022
   publications:
-      - title: Addressing the socioeconomic divide in computational modeling for infectious diseases
+      - title: "Addressing the socioeconomic divide in computational modeling for infectious diseases"
         authors:
               - name: Michele Tizzoni
               - name: Elaine Nsoesie
@@ -106,7 +106,7 @@
         full_text_article: 
         journal: Nature Communications
         citation: "DOI: 10.1038/s41467-022-30688-8, 2022"
-      - title: Climate change will drive novel cross-species viral transmission
+      - title: "Climate change will drive novel cross-species viral transmission"
         authors:
               - name: Colin Carlson
                 lab: 1
@@ -125,7 +125,7 @@
         full_text_article: Carlson2020.pdf
         journal: Nature
         citation: "DOI: 10.1038/s41586-022-04788-w5, 2022"
-      - title: Dissecting recurrent waves of pertussis across the boroughs of London
+      - title: "Dissecting recurrent waves of pertussis across the boroughs of London"
         authors:
               - name: Arash Saeidpour
               - name: Shweta Bansal
@@ -135,7 +135,7 @@
         full_text_article: 
         journal: PLoS Computational Biology
         citation: "DOI: 10.1371/journal.pcbi.1009898, 2022"
-      - title: Spatial aggregation choice in the era of digital and administrative surveillance data
+      - title: "Spatial aggregation choice in the era of digital and administrative surveillance data"
         authors:
               - name: Elizabeth Leee
                 lab: 1
@@ -147,7 +147,7 @@
         full_text_article: 
         journal: PLoS Digital Health
         citation: "DOI: 10.1371/journal.pdig.0000039, 2022"
-      - title: Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape
+      - title: "Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape"
         authors:
               - name: Andrew Tiu
                 lab: 1
@@ -160,7 +160,7 @@
         link: "https://doi.org/10.1101/2021.10.04.21263345"
         journal: American Journal of Epidemiology
         citation: ""
-      - title: Characterizing an epidemiological geography of the United States-- influenza as a case study
+      - title: "Characterizing an epidemiological geography of the United States-- influenza as a case study"
         authors:
               - name: Grant Rosensteel
                 lab: 1
@@ -174,7 +174,7 @@
         citation: ""
 - year: 2021
   publications:
-      - title: From flames to inflammation-- how wildfires affect patterns of wildlife disease
+      - title: "From flames to inflammation-- how wildfires affect patterns of wildlife disease"
         authors:
             - name: Greg Albery
               lab: 1
@@ -189,7 +189,7 @@
         full_text_article: "Albery_fire.pdf"
         journal: Fire Ecology
         citation: "17 (23), 2021"
-      - title: Social fluidity mobilizes contagion in human and animal populations
+      - title: "Social fluidity mobilizes contagion in human and animal populations"
         authors:
             - name: Ewan Colman
               lab: 1
@@ -203,7 +203,7 @@
         full_text_article: Colman2020.pdf
         journal: eLife
         citation: "DOI: 10.1101/170266, 2020"
-      - title: The missing season-- The impacts of the COVID-19 pandemic on influenza
+      - title: "The missing season-- The impacts of the COVID-19 pandemic on influenza"
         authors:
               - name: Casey Zipfel
                 lab: 1
@@ -214,7 +214,7 @@
         full_text_article: zipfel_missingflu.pdf
         journal: Vaccine
         citation: "DOI: 10.1016/j.vaccine.2021.05.049, 2021"
-      - title: Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response
+      - title: "Highlighting socio-economic constraints on mobility reductions during COVID-19 restrictions in France can inform effective and equitable pandemic response"
         authors:
               - name: Eugenio Valdano
               - name: Jonggul Lee
@@ -226,7 +226,7 @@
         full_text_article: Eugenio_mobility.pdf
         journal: Journal of Travel Medicine
         citation: "DOI: 10.1093/jtm/taab045, 2021"
-      - title: Health inequities in influenza transmission and surveillance
+      - title: "Health inequities in influenza transmission and surveillance"
         authors:
               - name: Casey Zipfel
                 lab: 1
@@ -237,7 +237,7 @@
         full_text_article: ZipfelSES.pdf
         journal: PLoS Computational Biology
         citation: "DOI: 10.1371/journal.pcbi.1008642, 2021"
-      - title: Unifying spatial and social network analysis in disease ecology
+      - title: "Unifying spatial and social network analysis in disease ecology"
         authors:
               - name: Greg Albery
                 lab: 1
@@ -249,7 +249,7 @@
         full_text_article: Albery_JAE.pdf
         journal: Journal of Animal Ecology
         citation: "DOI: 10.1111/1365-2656.13356, 2020"
-      - title: Negative density-dependent parasitism in a group-living carnivore
+      - title: "Negative density-dependent parasitism in a group-living carnivore"
         authors:
               - name: Greg Albery
                 lab: 1
@@ -265,7 +265,7 @@
         citation: "DOI: 10.1098/rspb.2020.2655, 2020"
 - year: 2020
   publications:
-      - title: Impacts of human disturbance in marine mammals-- Do behavioral changes translate to disease consequences?
+      - title: "Impacts of human disturbance in marine mammals-- Do behavioral changes translate to disease consequences?"
         authors:
               - name: Melissa Collier
                 lab: 1
@@ -276,7 +276,7 @@
                 lab: 1
         full_text_article: EcoEvo_Preprint_Collier_etal.pdf
         journal: Ethology and Biology of Marine Mammals
-      - title: Socio-economic disparities in social distancing during the COVID-19 pandemic in the United States
+      - title: "Socio-economic disparities in social distancing during the COVID-19 pandemic in the United States"
         authors:
               - name: Romain Garnier
                 lab: 1
@@ -288,7 +288,7 @@
         full_text_article: Garnier_JMIR.pdf
         journal: Journal of Medical Internet Research
         citation: "DOI: 10.2196/24591, 2020"
-      - title: Misconceptions about weather and seasonality must not misguide COVID-19 response
+      - title: "Misconceptions about weather and seasonality must not misguide COVID-19 response"
         authors:
               - name: Colin Carlson
               - name: Ana Gomez
@@ -299,7 +299,7 @@
         full_text_article: Carlson_seas.pdf
         journal: Nature Communications
         citation: "DOI: 10.1038/s41467-020-18150-z, 2020"
-      - title: Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions
+      - title: "Getting personal-- how childhood vaccination policies shape the landscape of vaccine exemptions"
         authors:
               - name: Romain Garnier
                 lab: 1
@@ -312,7 +312,7 @@
         full_text_article: Garnier_NME.pdf
         journal: Open Forum Infectious Diseases
         citation: "DOI: 10.1093/ofid/ofaa088, 2020"
-      - title: The landscape of childhood vaccine exemptions in the United States
+      - title: "The landscape of childhood vaccine exemptions in the United States"
         authors:
               - name: Casey Zipfel
                 lab: 1
@@ -326,7 +326,7 @@
         full_text_article: Zipfel_exemptions.pdf
         journal: Scientific Data
         citation: "DOI: 10.6084/m9.figshare.13125419, 2020"
-      - title: Sex, synchrony, and skin contact-- integrating multiple behaviors to assess pathogen transmission risk
+      - title: "Sex, synchrony, and skin contact-- integrating multiple behaviors to assess pathogen transmission risk"
         authors:
               - name: Stephan Leu
                 lab: 1
@@ -343,7 +343,7 @@
         citation: "DOI: 10.1093/beheco/araa002, 2020"
 - year: 2019
   publications:
-      - title: Sociality and tattoo skin disease among bottlenose dolphins in Shark Bay, Australia
+      - title: "Sociality and tattoo skin disease among bottlenose dolphins in Shark Bay, Australia"
         authors:
               - name: Sarah Powell
                 lab: 1
@@ -358,7 +358,7 @@
         full_text_article: Powell_2020.pdf
         journal: Behavioral Ecology
         citation: "DOI: 10.1093/beheco/arz207, 2019"
-      - title: Global estimates of mammalian viral diversity accounting for host sharing
+      - title: "Global estimates of mammalian viral diversity accounting for host sharing"
         authors:
               - name: Colin Carlson
                 lab: 1
@@ -372,7 +372,7 @@
         full_text_article: Carlson_NEE_2019.pdf
         journal: Nature Ecology & Evolution
         citation: "DOI: 10.1038/s41559-019-0910-6, 2019"
-      - title: Ant colonies maintain social homeostasis in the face of decreased density
+      - title: "Ant colonies maintain social homeostasis in the face of decreased density"
         authors:
             - name: Andreas P Modlmeier
             - name: Ewan Colman
@@ -386,7 +386,7 @@
         full_text_article: Modlmeier_2019.pdf
         journal: eLife
         citation: "8:e38473, 2019"
-      - title: A multi-species repository of social networks
+      - title: "A multi-species repository of social networks"
         authors:
           - name: Pratha Sah
             lab: 1
@@ -400,7 +400,7 @@
         citation: "6:44, 2019"
 - year: 2018
   publications:
-      - title: Feeding the disparities-- the geography and trends of breastfeeding in the United States
+      - title: "Feeding the disparities-- the geography and trends of breastfeeding in the United States"
         authors:
           - name: Romain Garnier
             lab: 1
