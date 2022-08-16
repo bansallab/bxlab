@@ -1,6 +1,52 @@
 - year: Preprints
   publications:
-      - title: Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination
+      - title: The global landscape of susceptibility to orthopoxviruses: The legacy of smallpox vaccination
+        authors:
+              - name: Juliana Taube
+                lab: 1
+              - name: Eva Rest
+                lab: 1
+              - name: Jamie Lloyd-Smith
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2022.07.29.22278217"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2022.07.29.22278217, 2022"
+     - title: Pathogen transmission modes determine contact network structure, altering other pathogen 
+        authors:
+              - name: Melissa Collier
+                lab: 1
+              - name: Greg Albery
+                lab: 1
+              - name: Grant McDonald
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://bansallab.com/melissa.html"
+        journal: bioRxiv
+        citation: "DOI: , 2022"
+      - title: Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States
+        authors:
+              - name: Juliana Taube
+                lab: 1
+              - name: Zack Susswein
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2022.07.19.22277821"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2022.07.19.22277821, 2022"
+      - title: Disentangling the rhythms of human activity in the built environment for airborne transmission risk
+        authors:
+              - name: Zack Susswein
+                lab: 1
+              - name: Eva Rest
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2022.04.07.22273578"
+        journal: medRxiv
+        citation: "DOI: 10.1101/2022.04.07.22273578, 2022"
+     - title: Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination
         authors:
               - name: Zack Susswein
                 lab: 1
@@ -22,17 +68,18 @@
         link: "https://doi.org/10.1101/2020.12.08.20246082"
         journal: medRxiv
         citation: "DOI: https://doi.org/10.1101/2020.12.08.20246082, 2020"
-      - title: Spatial aggregation choice in the era of digital and administrative surveillance data
+      - title: Mapping the human helminthiases: a systematic review of geospatial tools in medical parasitology
         authors:
-              - name: Elizabeth Lee
+              - name: Catherine Schluth
                 lab: 1
-              - name: Ali Arab
-              - name: Vittoria Colizza
+              - name: Claire Standley
               - name: Shweta Bansal
                 lab: 1
-        link: "https://doi.org/10.1101/2021.04.22.21255643"
+              - name: Colin Carlson
+                lab: 1
+        link: "https://doi.org/10.1101/2020.10.30.20223529"
         journal: medRxiv
-        citation: "DOI: 10.1101/2021.04.22.21255643, 2021"
+        citation: "DOI: 10.1101/2020.10.30.20223529, 2021"
       - title: Characterization of influenza vaccination recommendation across spatial scales in the United States
         authors:
               - name: Madeline Kuney
@@ -44,6 +91,21 @@
         link: "https://doi.org/10.1101/2021.01.19.21250118"
         journal: medRxiv
         citation: "DOI: 10.1101/2021.01.19.21250118, 2021"
+- year: 2022
+  publications:
+      - title: Addressing the socioeconomic divide in computational modeling for infectious diseases
+        authors:
+              - name: Michele Tizzoni
+              - name: Elaine Nsoesie
+              - name: Laetitia Gauvin
+              - name: Marton Karsai
+              - name: Nicola Perra
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1038/s41467-022-30688-8"
+        full_text_article: 
+        journal: Nature Communications
+        citation: "DOI: 10.1038/s41467-022-30688-8, 2022"
       - title: Climate change will drive novel cross-species viral transmission
         authors:
               - name: Colin Carlson
@@ -59,12 +121,32 @@
               - name: Noam Ross
               - name: Shweta Bansal
                 lab: 1
-        link: "https://doi.org/10.1101/2020.01.24.918755"
+        link: "https://doi.org/10.1038/s41586-022-04788-w"
         full_text_article: Carlson2020.pdf
-        journal: bioRxiv
-        citation: "DOI: 10.1101/2020.01.24.918755, 2020"
-- year: 2022
-  publications:
+        journal: Nature
+        citation: "DOI: 10.1038/s41586-022-04788-w5, 2022"
+      - title: Dissecting recurrent waves of pertussis across the boroughs of London
+        authors:
+              - name: Arash Saeidpour
+              - name: Shweta Bansal
+                lab: 1
+              - name: Pej Rohani
+        link: "https://doi.org/10.1371/journal.pcbi.1009898"
+        full_text_article: 
+        journal: PLoS Computational Biology
+        citation: "DOI: 10.1371/journal.pcbi.1009898, 2022"
+      - title: Spatial aggregation choice in the era of digital and administrative surveillance data
+        authors:
+              - name: Elizabeth Leee
+                lab: 1
+              - name: Ali Arab
+              - name: Vittoria Colizza
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1371/journal.pdig.0000039"
+        full_text_article: 
+        journal: PLoS Digital Health
+        citation: "DOI: 10.1371/journal.pdig.0000039, 2022"
       - title: Characterizing the spatiotemporal heterogeneity of the COVID-19 vaccination landscape
         authors:
               - name: Andrew Tiu
