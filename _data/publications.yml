@@ -67,7 +67,7 @@
                 lab: 1
         link: "https://doi.org/10.1101/2020.12.08.20246082"
         journal: medRxiv
-        citation: "DOI: https://doi.org/10.1101/2020.12.08.20246082, 2020"
+        citation: "DOI: 10.1101/2020.12.08.20246082, 2020"
       - title: Mapping the human helminthiases: a systematic review of geospatial tools in medical parasitology
         authors:
               - name: Catherine Schluth
