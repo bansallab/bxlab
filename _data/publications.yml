@@ -12,7 +12,7 @@
         link: "https://doi.org/10.1101/2022.07.29.22278217"
         journal: medRxiv
         citation: "DOI: 10.1101/2022.07.29.22278217, 2022"
-     - title: Pathogen transmission modes determine contact network structure, altering other pathogen 
+      - title: Pathogen transmission modes determine contact network structure, altering other pathogen 
         authors:
               - name: Melissa Collier
                 lab: 1
@@ -46,7 +46,7 @@
         link: "https://doi.org/10.1101/2022.04.07.22273578"
         journal: medRxiv
         citation: "DOI: 10.1101/2022.04.07.22273578, 2022"
-     - title: Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination
+      - title: Ignoring spatial heterogeneity in drivers of SARS-CoV-2 transmission in the US will impede sustained elimination
         authors:
               - name: Zack Susswein
                 lab: 1
