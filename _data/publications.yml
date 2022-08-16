@@ -125,6 +125,31 @@
         full_text_article: Carlson2020.pdf
         journal: Nature
         citation: "DOI: 10.1038/s41586-022-04788-w5, 2022"
+      - title: "Spatial clustering in vaccination hesitancy-- the role of social influence and social selection"
+        authors:
+              - name: Lucila Alvarez-Zuzek
+                lab: 1
+              - name: Casey Zipfel
+                lab: 1
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1101/2022.01.11.22269032"
+        full_text_article: 
+        journal: PLoS Computational Biology
+        citation: "DOI: 10.1101/2022.01.11.22269032, 2022"
+       - title: "Fine-scale spatial patterns of wildlife disease are common and understudied"
+        authors:
+              - name: Greg Albery
+                lab: 1
+              - name: Amy Sweeney
+              - name: Dan Becker
+
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1111/1365-2435.13942"
+        full_text_article: 
+        journal: Functional Ecology
+        citation: "DOI: 10.1111/1365-2435.13942, 2022"
       - title: "Dissecting recurrent waves of pertussis across the boroughs of London"
         authors:
               - name: Arash Saeidpour
