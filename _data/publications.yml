@@ -198,6 +198,19 @@
         citation: ""
 - year: 2021
   publications:
+      - title: "Revealing mechanisms of infectious disease spread through empirical contact networks"
+        authors:
+            - name: Pratha Sah
+              lab: 1
+            - name: Michael Otterstatter
+            - name: Stephan Leu
+            - name: Sivan Leviyang
+            - name: Shweta Bansal
+              lab: 1
+        link: "https://doi.org/10.1371/journal.pcbi.1009604"
+        full_text_article: "inods.pdf"
+        journal: PLoS Computational Biology
+        citation: "17 (12), 2021"
       - title: "From flames to inflammation-- how wildfires affect patterns of wildlife disease"
         authors:
             - name: Greg Albery
