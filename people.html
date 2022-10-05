@@ -34,7 +34,7 @@ title: people
   <p class="degree-position">Associate Professor of Biology</p>
   <p class="space-it-out">
   <i class="fa fa-envelope-o"></i> shweta.bansal 'at' georgetown.edu<br />
-  <i class="fa fa-external-link"></i> <a href="http://sbansal.com">sbansal.com</a> <br/>
+  <i class="fa fa-external-link"></i> <a href="https://sbansal.com">sbansal.com</a> <br/>
   <i class="fa fa-building-o"></i> Regents 510<br />
   </p>
   </div>
@@ -63,7 +63,7 @@ title: people
 
     <div class="usa-width-one-third people-border">
       <h3>{{ student.name }}</h3>
-      <img class="shashank-people-image" src="{{ site.github.url }}/img/people/{{student.image}}">
+      <img class="shashank-people-image" src="https://{{ site.github.url }}/img/people/{{student.image}}">
       <p class="degree-position">{{ student.position }}</p>
       <p class="space-it-out">
 
@@ -72,7 +72,7 @@ title: people
       {% endif %}
 
       {% if student.web %}
-      <i class="fa fa-external-link"></i> <a href="http://{{ student.web }}">{{ student.web }}</a>  <br />
+      <i class="fa fa-external-link"></i> <a href="https://{{ student.web }}">{{ student.web }}</a>  <br />
       {% endif %}
 
       {% if student.office %}
