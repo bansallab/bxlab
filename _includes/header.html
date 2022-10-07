@@ -15,7 +15,7 @@
       <em class="usa-logo-text">
           <img  src="{{ site.github.url }}/img/logo4.png" 
                 alt="Bansal Lab logo (network diagram)"/>
-          <a href="https://{{ site.github.url }}/" class="lab-name-header">Bansal Lab</a>
+          <a href="{{ site.github.url }}/" class="lab-name-header">Bansal Lab</a>
       </em>
     </div>
   </div>
@@ -27,15 +27,15 @@
       <ul class="usa-nav-primary usa-accordion">
         <li>
           <a {% if page.title == 'news' %} class="usa-current usa-nav-link" {%
-          else %} class="usa-nav-link" {% endif %} href="https://{{ site.github.url }}/news.html">
+          else %} class="usa-nav-link" {% endif %} href="{{ site.github.url }}/news.html">
             <span>News</span></a>
         </li>
         <!--li>
-          <a {% if page.title == 'research' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %} href="https://{{ site.github.url }}/research.html">
+          <a {% if page.title == 'research' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %} href="{{ site.github.url }}/research.html">
             <span>Research</span></a>
         </li-->
         <li>
-          <a {% if page.title == 'publications' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %} href="https://{{ site.github.url }}/publications.html">
+          <a {% if page.title == 'publications' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %} href="{{ site.github.url }}/publications.html">
             <span>Publications</span></a>
         </li>
         <li>
@@ -48,32 +48,32 @@
           </button>
           <ul id="sidenav-2" class="usa-nav-submenu menubackground" aria-hidden="true">  
             <li>
-              <a href="https://{{ site.github.url }}/people.html">Current</a>
+              <a href="{{ site.github.url }}/people.html">Current</a>
             </li>
             <li>
-              <a href="https://{{ site.github.url }}/alumni.html">Alumni</a>
+              <a href="{{ site.github.url }}/alumni.html">Alumni</a>
             </li>
           </ul>
         </li>
         <li>
-          <a {% if page.title == 'opportunities' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %}  href="https://{{ site.github.url }}/opportunities.html">
+          <a {% if page.title == 'opportunities' %} class="usa-current usa-nav-link" {% else %} class="usa-nav-link" {% endif %}  href="{{ site.github.url }}/opportunities.html">
             <span>Opportunities</span></a>
         </li>
         <!--li>
           <a {% if page.title == 'courses' %} class="usa-current usa-nav-link"
-          {% else %} class="usa-nav-link" {% endif %}  href="https://{{
+          {% else %} class="usa-nav-link" {% endif %}  href="{{
           site.github.url }}/press.html">
             <span>Press</span></a>
         </li-->
         <!--li>
           <a {% if page.title == 'courses' %} class="usa-current usa-nav-link"
-          {% else %} class="usa-nav-link" {% endif %}  href="https://{{
+          {% else %} class="usa-nav-link" {% endif %}  href="{{
           site.github.url }}/blog.html">
             <span>Blog</span></a>
         </li-->
         <li>
           <a {% if page.title == 'about' %} class="usa-current usa-nav-link"
-          {% else %} class="usa-nav-link" {% endif %}  href="https://{{
+          {% else %} class="usa-nav-link" {% endif %}  href="{{
           site.github.url }}/about.html">
             <span>About</span></a>
         </li>
