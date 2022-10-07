@@ -54,7 +54,7 @@ title: research
           {% for paper in question.publications %}
             <span class="publication-name">
             {% if paper.full_text_article %}
-              <a href="{{ site.github.url}}/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
+              <a href="https://bansallab.com/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
             {% elsif paper.link %}
               <a href="{{paper.link}}">{{ paper.title }}</a>
             {% else %}
