@@ -54,7 +54,7 @@ title: research
           {% for paper in question.publications %}
             <span class="publication-name">
             {% if paper.full_text_article %}
-              <a href="{{ site.github.url | replace: "http://", ""}}/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
+              <a href="{{ site.github.url}}/publications/{{ paper.full_text_article }}">{{ paper.title }}</a>
             {% elsif paper.link %}
               <a href="{{paper.link}}">{{ paper.title }}</a>
             {% else %}
@@ -93,10 +93,10 @@ title: research
  <div class="usa-width-one-third">
   <!--
    <img 
-    src="{{ site.github.url | replace: "http://", "" }}/img/research/elizabeth-pratha-working.jpg"
+    src="{{ site.github.url }}/img/research/elizabeth-pratha-working.jpg"
     alt="Elizabeth and Pratha in the lab">
   <img  
-    src="{{ site.github.url | replace: "http://", "" }}/img/research/tortoise-oral-swab.jpg"
+    src="{{ site.github.url }}/img/research/tortoise-oral-swab.jpg"
     alt="Desert tortoise oral swab">
   -->
  </div>
