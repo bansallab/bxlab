@@ -12,18 +12,6 @@
         link: "https://doi.org/10.1101/2022.07.29.22278217"
         journal: medRxiv
         citation: "DOI: 10.1101/2022.07.29.22278217, 2022"
-      - title: "Pathogen transmission modes determine contact network structure, altering other pathogen" 
-        authors:
-              - name: Melissa Collier
-                lab: 1
-              - name: Greg Albery
-                lab: 1
-              - name: Grant McDonald
-              - name: Shweta Bansal
-                lab: 1
-        link: "https://bansallab.com/melissa.html"
-        journal: bioRxiv
-        citation: "DOI: , 2022"
       - title: "Characterizing spatiotemporal trends in self-reported mask-wearing behavior in the United States"
         authors:
               - name: Juliana Taube
@@ -93,6 +81,20 @@
         citation: "DOI: 10.1101/2021.01.19.21250118, 2021"
 - year: 2022
   publications:
+      - title: "Pathogen transmission modes determine contact network structure, altering other pathogen characteristics" 
+        authors:
+              - name: Melissa Collier
+                lab: 1
+              - name: Greg Albery
+                lab: 1
+              - name: Grant McDonald
+              - name: Shweta Bansal
+                lab: 1
+        link: "https://doi.org/10.1098/rspb.2022.1389"
+        journal: Proceedings B
+        full_text_article: Collier2022.pdf
+        full_text_supplement: Collier2022_supp.pdf
+        citation: "DOI:10.1098/rspb.2022.1389, 2022"
       - title: "Addressing the socioeconomic divide in computational modeling for infectious diseases"
         authors:
               - name: Michele Tizzoni
